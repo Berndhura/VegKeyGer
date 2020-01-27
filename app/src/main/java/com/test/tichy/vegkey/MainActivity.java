@@ -14,7 +14,6 @@ import android.os.Bundle;
 import android.view.Display;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
@@ -22,16 +21,16 @@ import android.widget.LinearLayout;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Locale;
-import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
-    int udrzet=0, ax=0, ay=0;
+    private int udrzet=0;
+    private int ax=0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         Globals g = (Globals) getApplication();
         readVegKeyIni();
         if(g.getLangLoop()!=1 && g.getLanguage()>0) {
@@ -53,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 restartActivity();
             }
         }
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
                 if (udrzet==0)
                 {
                     ax = (int) event.getX();
-                    ay = (int) event.getY();
+                    int ay = (int) event.getY();
                     udrzet=1;
                 }
                 break;
