@@ -1,0 +1,496 @@
+AAA01;;;<i>Calluna vulgaris
+AAA02;;;<i>Empetrum hermaphroditum
+ABA01;;;<i>Avenella flexuosa, Carex bigelowii, Festuca supina
+ABB01;;;<i>Avenella flexuosa, Nardus stricta
+ACA01;;;<i>Festuca versicolor
+ACA02;;;<i>Agrostis alpina
+ADA01;;;<i>Molinia caerulea
+ADA02;;;<i>Calamagrostis villosa
+ADA03;;;<i>Deschampsia cespitosa
+ADB01;;;<i>Calamagrostis arundinacea
+ADC01;;;<i>Betula carpatica, Salix silesiaca, Calamagrostis villosa
+ADC02;;;<i>Prunus padus </i>subsp.<i> borealis, Sorbus aucuparia, Sorbus sudetica
+ADD01;;;<i>Adenostyles alliariae, Deschampsia cespitosa, Stellaria nemorum
+ADD02;;;<i>Salix lapponum, Deschampsia cespitosa, Sphagnum cuspidatum, Sphagnum squarrosum
+ADD03;;;<i>Dactylis glomerata, Geranium sylvaticum, Mercurialis perennis, Poa chaixii, Senecio nemorensis </i>agg.<i>
+ADD04;;;<i>Adenostyles alliariae, Dactylis glomerata
+ADD05;;;<i>Cicerbita alpina, Petasites albus
+ADE01;;;<i>Dryopteris filix-mas
+ADE02;;;<i>Athyrium distentifolium
+TAA01;;;<i>Crypsis aculeata
+TAA02;;;<i>Crypsis schoenoides, Spergularia media
+TBA01;;;<i>Salicornia prostrata
+TBA02;;;<i>Suaeda prostrata
+TCA01;;;<i>Tripolium pannonicum </i>subsp.<i> pannonicum, Plantago maritima, Puccinellia distans, Spergularia media
+TCB01;;;<i>Carex distans, Carex otrubae, Deschampsia cespitosa, Juncus gerardii, Lotus tenuis, Potentilla anserina, Scorzonera parviflora
+TCB02;;;<i>Agrostis stolonifera, Festuca pratensis, Lolium perenne, Lotus tenuis, Plantago major, Potentilla anserina, Trifolium fragiferum
+TCB03;;;<i>Carex secalina
+TDA01;;;<i>Alopecurus pratensis, Arrhenatherum elatius, Bromus erectus, Geranium pratense, Poa pratensis </i>agg.<i>, Trisetum flavescens
+TDA02;;;<i>Arrhenatherum elatius, Festuca rubra, Poa pratensis </i>agg.<i>, Trisetum flavescens
+TDA03;;;<i>Agrostis capillaris, Arrhenatherum elatius, Festuca rubra, Poa pratensis </i>agg.<i>, Sanguisorba officinalis, Trisetum flavescens, Rhytidiadelphus squarrosus
+TDA04;;;<i>Agrostis capillaris, Dianthus carthusianorum, Festuca rubra, Festuca rupicola, Leontodon hispidus, Trisetum flavescens, Rhytidiadelphus squarrosus
+TDB01;;;<i>Agrostis capillaris, Alchemilla vulgaris </i>s. l.<i>, Chaerophyllum hirsutum, Dactylis glomerata, Festuca rubra, Geranium sylvaticum, Trisetum flavescens, Rhytidiadelphus squarrosus
+TDB02;;;<i>Agrostis capillaris, Festuca rubra, Geranium sylvaticum, Potentilla aurea
+TDB03;;;<i>Agrostis capillaris, Avenella flexuosa, Bistorta officinalis, Deschampsia cespitosa, Festuca rubra, Galium saxatile, Geranium sylvaticum, Meum athamanticum, Nardus stricta, Poa chaixii, Polytrichum commune
+TDC01;;;<i>Agrostis capillaris, Festuca pratensis, Festuca rubra, Poa trivialis, Trifolium repens
+TDC02;;;<i>
+TDC03;;;<i>Lolium perenne, Plantago major, Potentilla anserina, Trifolium repens
+TDC04;;;<i>Agrostis stolonifera, Juncus tenuis, Poa annua, Prunella vulgaris, Trifolium repens
+TDC05;;;<i>Poa supina
+TDD01;;;<i>Deschampsia cespitosa, Festuca rubra, Galium boreale </i>subsp.<i> boreale, Lathyrus pratensis, Molinia caerulea </i>agg.<i>, Sanguisorba officinalis
+TDD02;;;<i>Carex panicea, Festuca ovina, Festuca rubra, Molinia caerulea </i>agg.<i>, Nardus stricta, Sanguisorba officinalis, Selinum carvifolia, Aulacomnium palustre, Climacium dendroides, Rhytidiadelphus squarrosus
+TDE01;;;<i>Alopecurus pratensis, Deschampsia cespitosa, Elymus repens, Festuca pratensis, Geranium pratense, Poa pratensis </i>agg.<i>, Poa trivialis, Ranunculus repens
+TDE02;;;<i>Alopecurus pratensis, Deschampsia cespitosa, Festuca pratensis, Festuca rubra, Holcus lanatus, Ranunculus repens, Sanguisorba officinalis, Brachythecium rutabulum
+TDE03;;;<i>Alopecurus pratensis, Deschampsia cespitosa, Phalaris arundinacea
+TDE04;;;<i>Festuca pratensis
+TDE05;;;<i>Alopecurus pratensis, Poa pratensis </i>agg.<i>
+TDF01;;;<i>Alopecurus pratensis, Bistorta officinalis, Caltha palustris, Carex acuta, Cirsium oleraceum, Geranium palustre, Holcus lanatus, Scirpus sylvaticus, Brachythecium rutabulum, Rhytidiadelphus squarrosus
+TDF02;;;<i>Carex paniculata, Cirsium rivulare, Festuca rubra, Scirpus sylvaticus, Calliergonella cuspidata, Climacium dendroides
+TDF03;;;<i>Bistorta officinalis, Caltha palustris, Carex nigra, Juncus filiformis, Ranunculus acris, Aulacomnium palustre, Climacium dendroides, Rhytidiadelphus squarrosus
+TDF04;;;<i>Agrostis canina, Bistorta officinalis, Caltha palustris, Juncus acutiflorus, Juncus filiformis, Lotus pedunculatus, Viola palustris, Calliergonella cuspidata, Rhytidiadelphus squarrosus
+TDF05;;;<i>Bistorta officinalis, Arabidopsis halleri, Cirsium heterophyllum, Myosotis palustris </i>agg.<i>, Sanguisorba officinalis, Scirpus sylvaticus
+TDF06;;;<i>Caltha palustris, Cardamine amara </i>subsp.<i> amara, Chaerophyllum hirsutum, Cirsium rivulare, Crepis paludosa, Scirpus sylvaticus, Calliergonella cuspidata, Plagiomnium affine </i>s. l.<i>, Rhytidiadelphus squarrosus
+TDF07;;;<i>Alopecurus pratensis, Carex acuta, Carex cespitosa, Carex panicea, Cirsium canum, Deschampsia cespitosa, Equisetum palustre, Lathyrus pratensis, Poa pratensis </i>agg.<i>, Poa trivialis, Ranunculus repens, Scirpus sylvaticus
+TDF08;;;<i>Caltha palustris, Scirpus sylvaticus
+TDF09;;;<i>Carex cespitosa, Cirsium oleraceum, Ranunculus repens
+TDF10;;;<i>Bistorta officinalis, Carex brizoides, Cirsium oleraceum, Filipendula ulmaria, Scirpus sylvaticus
+TDF11;;;<i>Carex flacca, Carex hirta, Carex panicea, Cirsium rivulare, Equisetum palustre, Juncus inflexus, Mentha longifolia, Poa trivialis, Calliergonella cuspidata
+TDF12;;;<i>Cirsium oleraceum, Filipendula ulmaria, Geranium palustre
+TDF13;;;<i>Filipendula ulmaria, Lysimachia vulgaris
+TDF14;;;<i>Chaerophyllum hirsutum, Cirsium heterophyllum, Filipendula ulmaria
+TEA01;;;<i>Avenella flexuosa, Nardus stricta
+TEA02;;;<i>Avenella flexuosa, Nardus stricta
+TEB01;;;<i>Agrostis capillaris, Avenella flexuosa, Bistorta officinalis, Festuca rubra, Galium saxatile, Nardus stricta
+TEC01;;;<i>Agrostis capillaris, Nardus stricta, Potentilla erecta, Aulacomnium palustre, Pleurozium schreberi, Rhytidiadelphus squarrosus
+TEC02;;;<i>Agrostis capillaris, Brachypodium pinnatum, Danthonia decumbens, Festuca rubra, Pilosella officinarum, Leontodon hispidus, Lotus corniculatus, Luzula campestris </i>agg.<i>, Potentilla erecta, Thymus pulegioides, Rhytidiadelphus squarrosus
+TED01;;;<i>Agrostis capillaris, Juncus squarrosus, Molinia caerulea, Nardus stricta, Potentilla erecta, Sphagnum capillifolium </i>s. l.<i>, Sphagnum girgensohnii
+TEE01;;;<i>Calluna vulgaris
+TEF01;;;<i>Calluna vulgaris, Nardus stricta, Vaccinium vitis-idaea, Pleurozium schreberi
+TEF02;;;<i>Avenella flexuosa, Calamagrostis villosa, Nardus stricta, Vaccinium myrtillus, Vaccinium vitis-idaea, Pleurozium schreberi
+TEF03;;;<i>Calamagrostis villosa, Molinia caerulea, Vaccinium myrtillus
+TFA01;;;<i>Corynephorus canescens, Spergula morisonii, Thymus serpyllum
+TFA02;;;<i>Agrostis capillaris, Corynephorus canescens, Elymus repens, Festuca psammophila </i>subsp.<i> psammophila, Jurinea cyanoides
+TFB01;;;<i>Aira praecox
+TFB02;;;<i>Vulpia myuros
+TFC01;;;<i>Agrostis capillaris, Festuca brevipila
+TFC02;;;<i>Festuca ovina, Ceratodon purpureus
+TFD01;;;<i>Festuca ovina, Scleranthus perennis, Ceratodon purpureus, Cladonia furcata, Cladonia rangiformis, Polytrichum piliferum, Syntrichia ruralis
+TFD02;;;<i>Festuca ovina, Cladonia arbuscula, Hypnum cupressiforme </i>s. l.<i>, Pleurozium schreberi, Polytrichum piliferum, Racomitrium canescens
+TFE01;;;<i>Erophila verna, Potentilla incana, Ceratodon purpureus, Polytrichum piliferum
+TFF01;;;<i>
+TFF02;;;<i>Sedum album
+TGA01;;;<i>Agrostis vinealis, Corynephorus canescens, Festuca psammophila </i>subsp.<i> dominii, Ceratodon purpureus, Cladonia rangiformis
+THA01;;;<i>Festuca pallens </i>s. l.<i> (excl. F. psammophila)
+THA02;;;<i>Festuca pallens </i>s. l.<i> (excl. F. psammophila)
+THA03;;;<i>Allium senescens </i>subsp.<i> montanum
+THA04;;;<i>Carex humilis, Festuca pallens </i>s. l.<i> (excl. F. psammophila), Ceratodon purpureus, Hypnum cupressiforme </i>s. l.<i>
+THB01;;;<i>Potentilla incana
+THC01;;;<i>Sesleria caerulea
+THC02;;;<i>Sesleria caerulea
+THC03;;;<i>Sesleria caerulea, Hypnum cupressiforme </i>s. l.<i>
+THC04;;;<i>Sesleria caerulea, Hylocomium splendens
+THD01;;;<i>Festuca rupicola, Festuca valesiaca, Koeleria macrantha, Stipa capillata
+THD02;;;<i>Festuca valesiaca, Koeleria macrantha, Potentilla incana
+THD03;;;<i>Artemisia campestris, Carex humilis, Festuca rupicola, Poa pratensis </i>agg.<i>
+THD04;;;<i>Carex humilis, Elymus repens, Stipa pennata, Stipa pulcherrima, Stipa glabrata
+THD05;;;<i>Stipa tirsa
+THD06;;;<i>
+THE01;;;<i>Brachypodium pinnatum, Bromus erectus, Carex flacca, Carex humilis, Festuca rupicola
+THE02;;;<i>Carex humilis, Sesleria caerulea
+THE03;;;<i>Brachypodium pinnatum, Carex humilis, Dorycnium pentaphyllum </i>agg.<i>, Inula ensifolia
+THE04;;;<i>Agrostis gigantea, Bromus erectus, Carex flacca
+THF01;;;<i>Brachypodium pinnatum, Festuca rupicola, Koeleria pyramidata, Hypnum cupressiforme </i>s. l.<i>, Abietinella abietina
+THF02;;;<i>Carex montana, Molinia arundinacea, Stipa tirsa
+THG01;;;<i>Helictochloa pratensis, Festuca ovina, Festuca rupicola, Ceratodon purpureus, Cladonia rangiformis, Hypnum cupressiforme </i>s. l.<i>
+THG02;;;<i>Festuca valesiaca, Hypnum cupressiforme </i>s. l.<i>
+THG03;;;<i>Trifolium alpestre, Hypnum cupressiforme </i>s. l.<i>
+THH01;;;<i>Brachypodium pinnatum, Geranium sanguineum
+THH02;;;<i>Dictamnus albus
+THH03;;;<i>Brachypodium pinnatum, Carex humilis, Inula hirta, Inula salicina, Peucedanum cervaria
+THI01;;;<i>Brachypodium pinnatum, Trifolium medium
+THI02;;;<i>Agrostis capillaris, Melampyrum nemorosum
+XAA01;;;<i>Polygonum arenastrum
+XAA02;;;<i>Polygonum arenastrum, Sclerochloa dura
+XAA03;;;<i>Lepidium coronopus, Polygonum arenastrum
+XAA04;;;<i>Eragrostis minor, Polygonum arenastrum, Bryum argenteum
+XAB01;;;<i>Polygonum arenastrum, Sagina procumbens, Brachythecium albicans, Bryum argenteum, Ceratodon purpureus
+XAB02;;;<i>Herniaria glabra
+XAB03;;;<i>Spergularia rubra
+XAB04;;;<i>Plantago major, Poa annua
+XAB05;;;<i>Matricaria discoidea, Polygonum arenastrum
+XBA01;;;<i>Euphorbia exigua, Sinapis arvensis
+XBA02;;;<i>Cota austriaca, Consolida regalis, Sinapis arvensis
+XBA03;;;<i>
+XBA04;;;<i>Sinapis arvensis, Veronica polita
+XBA05;;;<i>Stellaria media, Veronica hederifolia </i>agg.<i>
+XBB01;;;<i>Amaranthus retroflexus, Chenopodium album </i>agg.<i>, Galinsoga parviflora
+XBB02;;;<i>
+XBC01;;;<i>Apera spica-venti, Tripleurospermum inodorum
+XBC02;;;<i>
+XBC03;;;<i>Tripleurospermum inodorum, Veronica hederifolia </i>agg.<i>
+XBD01;;;<i>Erodium cicutarium, Scleranthus annuus
+XBE01;;;<i>Galinsoga quadriradiata, Stellaria media
+XBF01;;;<i>Echinochloa crus-galli, Galinsoga parviflora, Setaria pumila, Setaria verticillata
+XBG01;;;<i>Chenopodium album </i>agg.<i>
+XBG02;;;<i>Chenopodium glaucum, Chenopodium rubrum, Chenopodium urbicum, Descurainia sophia, Lepidium ruderale, Polygonum aviculare </i>agg.<i>
+XBG03;;;<i>Atriplex sagittata
+XBG04;;;<i>Atriplex oblongifolia, Elymus repens
+XBG05;;;<i>Atriplex tatarica
+XBG06;;;<i>Atriplex rosea, Polygonum aviculare
+XBG07;;;<i>Elymus repens, Galium aparine, Sisymbrium loeselii, Tripleurospermum inodorum
+XBG08;;;<i>Atriplex prostrata </i>subsp.<i> latifolia, Descurainia sophia, Urtica dioica
+XBG09;;;<i>Sisymbrium altissimum, Tripleurospermum inodorum
+XBG10;;;<i>Capsella bursa-pastoris, Sisymbrium officinale, Symphytum officinale, Tripleurospermum inodorum
+XBG11;;;<i>Conyza canadensis, Lactuca serriola, Ceratodon purpureus
+XBG12;;;<i>Artemisia vulgaris, Iva xanthiifolia
+XBG13;;;<i>Bassia scoparia
+XBH01;;;<i>Bromus sterilis, Hordeum murinum </i>subsp.<i> murinum
+XBH02;;;<i>Ballota nigra, Bromus sterilis
+XBH03;;;<i>Arabidopsis thaliana, Bromus tectorum, Elymus repens, Medicago lupulina
+XBI01;;;<i>Malva neglecta, Polygonum aviculare </i>agg.<i>
+XBI02;;;<i>Anthemis cotula, Malva pusilla, Polygonum aviculare </i>agg.<i>
+XBI03;;;<i>Chenopodium murale, Urtica urens
+XBI04;;;<i>Chenopodium vulvaria, Polygonum aviculare </i>agg.<i>
+XBI05;;;<i>Anthemis cotula, Persicaria amphibia, Potentilla anserina
+XBJ01;;;<i>Dysphania botrys, Senecio viscosus
+XBJ02;;;<i>Dysphania botrys, Salsola tragus </i>subsp.<i> tragus, Senecio viscosus
+XBJ03;;;<i>Corynephorus canescens, Lepidium densiflorum, Plantago arenaria, Trifolium arvense, Ceratodon purpureus
+XBK01;;;<i>Digitaria ischaemum, Digitaria sanguinalis, Setaria verticillata
+XBK02;;;<i>Eragrostis pilosa, Polygonum aviculare </i>agg.<i>, Portulaca oleracea, Setaria viridis
+XBK03;;;<i>Panicum capillare
+XBK04;;;<i>Cynodon dactylon
+XBK05;;;<i>Hibiscus trionum
+XCA01;;;<i>Carduus acanthoides, Onopordum acanthium
+XCA02;;;<i>Festuca rupicola, Marrubium peregrinum, Salvia nemorosa
+XCA03;;;<i>Artemisia absinthium, Artemisia scoparia, Potentilla argentea
+XCB01;;;<i>Artemisia vulgaris, Daucus carota, Echium vulgare, Melilotus albus, Melilotus officinalis
+XCB02;;;<i>Berteroa incana </i>subsp.<i> incana
+XCB03;;;<i>Crepis foetida </i>subsp.<i> rhoeadifolia, Daucus carota, Sedum acre, Tripleurospermum inodorum
+XCB04;;;<i>Daucus carota, Picris hieracioides, Poa pratensis </i>agg.<i>
+XCB05;;;<i>Artemisia vulgaris, Tussilago farfara
+XCB06;;;<i>Poa compressa, Poa palustris
+XCB07;;;<i>Artemisia vulgaris, Elymus repens, Tanacetum vulgare
+XCB08;;;<i>Echinops sphaerocephalus, Elymus repens, Brachythecium rutabulum
+XCB09;;;<i>Solidago canadensis, Solidago gigantea, Urtica dioica, Ceratodon purpureus
+XCB10;;;<i>Bunias orientalis, Brachythecium rutabulum
+XCB11;;;<i>Artemisia vulgaris, Asclepias syriaca, Elymus repens, Equisetum ramosissimum, Rubus caesius
+XCC01;;;<i>Elymus repens, Urtica dioica
+XCC02;;;<i>Arrhenatherum elatius, Elymus repens, Falcaria vulgaris
+XCC03;;;<i>Agrimonia eupatoria, Bromus inermis, Galium boreale </i>subsp.<i> boreale, Inula salicina, Poa pratensis </i>agg.<i>, Brachythecium rutabulum, Oxyrrhynchium hians
+XCC04;;;<i>Arrhenatherum elatius, Lepidium draba, Elymus repens, Poa pratensis </i>agg.<i>
+XCD01;;;<i>Stipa capillata
+XCE01;;;<i>Anthriscus sylvestris, Ballota nigra, Chenopodium bonus-henricus, Rumex obtusifolius, Urtica dioica
+XCE02;;;<i>Arctium lappa, Arctium tomentosum, Artemisia vulgaris, Ballota nigra, Elymus repens, Urtica dioica
+XCE03;;;<i>Conium maculatum
+XCE04;;;<i>Sambucus ebulus
+XDA01;;;<i>Calystegia sepium, Silene baccifera, Galium aparine, Humulus lupulus, Rubus caesius, Urtica dioica
+XDA02;;;<i>Calystegia sepium, Epilobium hirsutum, Holcus mollis, Juncus bufonius, Juncus inflexus, Urtica dioica
+XDA03;;;<i>Impatiens glandulifera, Urtica dioica
+XDA04;;;<i>Artemisia vulgaris, Bromus inermis, Echinocystis lobata, Fallopia dumetorum, Galium aparine, Urtica dioica
+XDB01;;;<i>Aegopodium podagraria, Petasites hybridus, Urtica dioica
+XDB02;;;<i>Petasites kablikianus, Rubus idaeus, Senecio nemorensis </i>agg.<i>, Plagiomnium affine </i>s. l.<i>
+XDC01;;;<i>Atropa bella-donna, Brachypodium sylvaticum, Galeobdolon luteum </i>agg.<i>, Galium odoratum, Impatiens noli-tangere, Mentha longifolia, Poa nemoralis, Stachys sylvatica, Stellaria nemorum, Urtica dioica, Brachythecium rutabulum
+XDC02;;;<i>Geranium robertianum, Impatiens parviflora, Dicranum scoparium, Hypnum cupressiforme
+XDC03;;;<i>Aruncus dioicus, Chaerophyllum hirsutum, Lunaria rediviva, Oxyrrhynchium hians, Plagiochila asplenioides
+XDC04;;;<i>Athyrium filix-femina, Carex pendula, Equisetum arvense, Eupatorium cannabinum, Juncus effusus, Petasites albus, Scirpus sylvaticus, Brachythecium rutabulum
+XDC05;;;<i>Ficaria verna </i>subsp.<i> verna, Galeobdolon luteum </i>agg.<i>, Parietaria officinalis, Urtica dioica
+XDD01;;;<i>Alliaria petiolata, Chaerophyllum temulum, Chelidonium majus, Galium aparine, Geranium robertianum, Impatiens parviflora, Urtica dioica, Brachythecium rutabulum, Hypnum cupressiforme
+XDD02;;;<i>Ballota nigra, Geum urbanum, Potentilla anserina, Torilis japonica, Urtica dioica
+XDD03;;;<i>Anthriscus cerefolium
+XDE01;;;<i>Aegopodium podagraria, Urtica dioica
+XDE02;;;<i>Anthriscus sylvestris, Urtica dioica
+XDE03;;;<i>Aegopodium podagraria, Chaerophyllum aromaticum, Urtica dioica, Brachythecium rutabulum
+XDE04;;;<i>Aegopodium podagraria, Arrhenatherum elatius, Chaerophyllum aureum, Dactylis glomerata, Heracleum sphondylium, Urtica dioica
+XDE05;;;<i>Chaerophyllum bulbosum, Elymus repens, Galium aparine, Lamium maculatum, Rubus caesius, Urtica dioica
+XDE06;;;<i>Aegopodium podagraria, Anthriscus nitidus, Chaerophyllum hirsutum, Petasites albus
+XDE07;;;<i>Helianthus tuberosus
+XDE08;;;<i>Dactylis glomerata, Heracleum mantegazzianum, Urtica dioica
+XDE09;;;<i>Symphyotrichum novi-belgii </i>agg.<i>, Urtica dioica
+XDE10;;;<i>Reynoutria japonica, Reynoutria sachalinensis, Reynoutria ×bohemica, Urtica dioica
+XDF01;;;<i>Carduus personata, Chaerophyllum hirsutum, Peucedanum ostruthium, Myosotis nemorosa, Rumex alpinus, Rumex obtusifolius, Stellaria nemorum, Urtica dioica
+XEA01;;;<i>Agrostis capillaris, Avenella flexuosa, Calamagrostis epigejos, Epilobium angustifolium, Juncus effusus, Rubus idaeus, Senecio sylvaticus
+XEA02;;;<i>Avenella flexuosa, Digitalis purpurea, Poa nemoralis
+XEA03;;;<i>Avenella flexuosa, Calamagrostis arundinacea, Calamagrostis epigejos, Oxalis acetosella, Poa nemoralis, Rubus idaeus
+XEA04;;;<i>Avenella flexuosa, Calamagrostis epigejos, Calamagrostis villosa, Senecio hercynicus, Polytrichum formosum
+XEA05;;;<i>Calamagrostis epigejos, Equisetum sylvaticum, Rubus idaeus, Senecio ovatus
+XEA06;;;<i>Calamagrostis villosa, Carex brizoides, Convallaria majalis var. majalis, Holcus mollis, Pteridium aquilinum, Rubus idaeus
+XEA07;;;<i>Athyrium filix-femina, Dryopteris dilatata, Dryopteris filix-mas, Hypnum cupressiforme, Pleurozium schreberi, Polytrichum formosum
+SAA01;;;<i>Cystopteris fragilis, Marchantia polymorpha
+SAA02;;;<i>Asplenium ruta-muraria
+SAB01;;;<i>Asplenium cuneifolium, Festuca ovina, Festuca pallens </i>s. l.<i> (excl. F. psammophila), Dicranum scoparium, Hypnum cupressiforme
+SAB02;;;<i>Asplenium cuneifolium, Notholaena marantae, Hypnum cupressiforme
+SAC01;;;<i>Woodsia ilvensis
+SAC02;;;<i>Festuca ovina, Saxifraga rosacea </i>subsp.<i> sponhemica, Saxifraga rosacea </i>subsp.<i> steinmannii, Dicranum scoparium
+SAC03;;;<i>Polypodium vulgare, Dicranum scoparium, Hypnum cupressiforme, Pleurozium schreberi, Polytrichum formosum
+SAD01;;;<i>
+SBA01;;;<i>Cymbalaria muralis
+SBA02;;;<i>Pseudofumaria lutea
+SCA01;;;<i>Gymnocarpium robertianum, Urtica dioica, Homalothecium sericeum
+SCA02;;;<i>Galeopsis angustifolia
+SCA03;;;<i>Melica ciliata
+SCB01;;;<i>Galeopsis ladanum
+VAA01;;;<i>Lemna minor, Lemna trisulca
+VAA02;;;<i>Lemna minor
+VAA03;;;<i>Lemna minor, Lemna turionifera, Spirodela polyrhiza
+VAA04;;;<i>Lemna minor, Spirodela polyrhiza
+VAA05;;;<i>Lemna gibba, Lemna minor
+VAA06;;;<i>Lemna minor, Lemna trisulca, Spirodela polyrhiza, Wolffia arrhiza
+VAA07;;;<i>Lemna minor, Ricciocarpos natans, Salvinia natans, Spirodela polyrhiza
+VAA08;;;<i>Azolla filiculoides
+VAA09;;;<i>Lemna minor, Lemna trisulca, Riccia fluitans
+VAA10;;;<i>Lemna minor, Riccia rhenana
+VAA11;;;<i>Lemna minor, Riccia fluitans, Ricciocarpos natans
+VAB01;;;<i>Chara hispida, Lemna minor, Utricularia vulgaris
+VAB02;;;<i>Lemna minor, Utricularia australis
+VAC01;;;<i>Ceratophyllum demersum, Hydrocharis morsus-ranae, Lemna minor, Spirodela polyrhiza
+VAC02;;;<i>Ceratophyllum demersum, Hydrocharis morsus-ranae, Lemna minor, Spirodela polyrhiza, Stratiotes aloides
+VAC03;;;<i>Ceratophyllum demersum, Lemna minor
+VAC04;;;<i>Ceratophyllum submersum, Lemna minor
+VBA01;;;<i>Nuphar lutea
+VBA02;;;<i>Ceratophyllum demersum, Nuphar lutea, Nymphaea alba
+VBA03;;;<i>Nymphaea candida, Potamogeton natans
+VBA04;;;<i>Elodea canadensis, Nuphar pumila
+VBA05;;;<i>Ceratophyllum demersum, Trapa natans
+VBA06;;;<i>Nymphoides peltata
+VBA07;;;<i>Persicaria amphibia
+VBB01;;;<i>Potamogeton natans
+VBB02;;;<i>Alisma gramineum, Potamogeton gramineus, Stuckenia pectinata
+VBB03;;;<i>Potamogeton polygonifolius
+VBB04;;;<i>Lemna minor, Potamogeton lucens
+VBB05;;;<i>Potamogeton perfoliatus
+VBB06;;;<i>Elodea canadensis
+VBB07;;;<i>Myriophyllum spicatum
+VBB08;;;<i>Lemna minor, Lemna trisulca, Myriophyllum spicatum, Myriophyllum verticillatum, Spirodela polyrhiza
+VBB09;;;<i>Elodea canadensis, Potamogeton alpinus
+VBB10;;;<i>Groenlandia densa
+VBB11;;;<i>Potamogeton nodosus
+VBB12;;;<i>Potamogeton praelongus
+VBB13;;;<i>Potamogeton ×angustifolius
+VBB14;;;<i>Stuckenia pectinata, Potamogeton pusillus, Zannichellia palustris
+VBB15;;;<i>Ceratophyllum demersum, Potamogeton trichoides
+VBB16;;;<i>Najas marina
+VBB17;;;<i>Ceratophyllum demersum, Najas minor
+VBB18;;;<i>Potamogeton crispus
+VBB19;;;<i>Potamogeton obtusifolius
+VBB20;;;<i>Stuckenia pectinata
+VBB21;;;<i>Potamogeton pusillus </i>agg.<i>
+VBB22;;;<i>Chara vulgaris, Potamogeton acutifolius, Potamogeton pusillus </i>agg.<i>
+VBB23;;;<i>Potamogeton friesii
+VBC01;;;<i>Batrachium fluitans, Batrachium penicillatum
+VBC02;;;<i>Batrachium peltatum, Callitriche hamulata, Myriophyllum alterniflorum
+VBC03;;;<i>Batrachium peltatum, Callitriche hamulata, Fontinalis antipyretica
+VBD01;;;<i>Batrachium aquatile </i>s. l.<i>
+VBD02;;;<i>Batrachium trichophyllum, Eleocharis acicularis, Lemna minor
+VBD03;;;<i>Batrachium circinatum
+VBD04;;;<i>Batrachium baudotii, Batrachium rionii, Lemna trisulca, Ranunculus sceleratus
+VBD05;;;<i>Batrachium baudotii
+VBD06;;;<i>Hottonia palustris, Lemna minor
+VBD07;;;<i>Callitriche hermaphroditica
+VCA01;;;<i>Nitella flexilis
+VCA02;;;<i>Chara braunii, Elatine triandra, Potamogeton pusillus
+VCB01;;;<i>Chara globularis
+VCB02;;;<i>Chara hispida
+VCB03;;;<i>Chara vulgaris
+VCB04;;;<i>Tolypella glomerata
+VCB05;;;<i>Tolypella intricata
+VDA01;;;<i>
+VDA02;;;<i>
+VDB01;;;<i>Eleocharis acicularis, Littorella uniflora, Trifolium campestre
+VDB02;;;<i>Agrostis canina, Callitriche palustris </i>agg.<i>, Eleocharis acicularis, Juncus bulbosus, Ranunculus flammula
+VDB03;;;<i>Eleocharis acicularis
+VDB04;;;<i>Persicaria lapathifolia, Pilularia globulifera
+VDB05;;;<i>Luronium natans
+VDC01;;;<i>Sparganium natans, Calliergon cordifolium
+VDC02;;;<i>Carex chordorrhiza, Carex lasiocarpa, Eriophorum angustifolium, Juncus bulbosus, Lemna minor, Menyanthes trifoliata, Utricularia intermedia, Utricularia ochroleuca, Sphagnum affine, Sphagnum auriculatum
+VDC03;;;<i>Campylium stellatum, Scorpidium cossonii, Scorpidium scorpioides
+MAA01;;;<i>Callitriche palustris, Carex bohemica, Coleanthus subtilis, Eleocharis ovata, Juncus bufonius, Limosella aquatica
+MAA02;;;<i>Cyperus fuscus, Juncus bufonius, Plantago uliginosa
+MAA03;;;<i>Juncus bufonius, Trifolium hybridum
+MAB01;;;<i>
+MAB02;;;<i>Bidens tripartitus, Eleocharis ovata, Gnaphalium uliginosum, Illecebrum verticillatum, Isolepis setacea, Juncus bufonius, Peplis portula, Pseudognaphalium luteoalbum, Trifolium arvense
+MAC01;;;<i>Limosella aquatica, Myosurus minimus, Plantago uliginosa, Tripleurospermum inodorum, Veronica anagalloides, Physcomitrium pyriforme
+MAC02;;;<i>
+MAC03;;;<i>Lythrum hyssopifolia, Persicaria hydropiper, Pulicaria vulgaris
+MBA01;;;<i>Alopecurus aequalis, Carex bohemica, Ranunculus sceleratus, Rorippa palustris, Rumex maritimus
+MBA02;;;<i>Bidens tripartitus, Carex bohemica, Persicaria lapathifolia
+MBA03;;;<i>Bidens cernuus, Lemna minor, Persicaria hydropiper
+MBA04;;;<i>Juncus bufonius, Persicaria lapathifolia, Potentilla supina, Rorippa palustris, Rumex maritimus, Veronica anagallis-aquatica
+MBA05;;;<i>Alopecurus aequalis, Bidens radiatus, Callitriche palustris, Carex bohemica, Coleanthus subtilis, Eleocharis ovata, Juncus bufonius, Potentilla supina, Rorippa palustris
+MBA06;;;<i>Bidens frondosus, Bidens tripartitus, Persicaria hydropiper
+MBB01;;;<i>Chenopodium glaucum, Chenopodium rubrum
+MBB02;;;<i>Atriplex prostrata </i>subsp.<i> latifolia, Chenopodium glaucum, Chenopodium rubrum, Persicaria lapathifolia, Polygonum aviculare </i>agg.<i>, Spergularia marina
+MBB03;;;<i>Chenopodium album </i>agg.<i>, Chenopodium ficifolium, Trifolium repens
+MBB04;;;<i>
+MCA01;;;<i>Schoenoplectus lacustris
+MCA02;;;<i>Lemna minor, Typha angustifolia
+MCA03;;;<i>Lemna minor, Typha latifolia
+MCA04;;;<i>Phragmites australis
+MCA05;;;<i>Glyceria maxima, Lemna minor
+MCA06;;;<i>Lemna minor, Sparganium erectum
+MCA07;;;<i>Acorus calamus, Lemna minor
+MCA08;;;<i>Equisetum fluviatile
+MCA09;;;<i>Typha shuttleworthii
+MCA10;;;<i>Bolboschoenus laticarpus
+MCB01;;;<i>Bolboschoenus maritimus, Bolboschoenus planiculmis, Lotus tenuis
+MCB02;;;<i>Mentha aquatica, Schoenoplectus tabernaemontani, Typha angustifolia
+MCC01;;;<i>Alopecurus aequalis, Carex bohemica, Lemna minor, Oenanthe aquatica, Persicaria lapathifolia, Rumex maritimus
+MCC02;;;<i>Oenanthe aquatica, Rorippa amphibia
+MCC03;;;<i>Lemna minor, Sagittaria sagittifolia, Sparganium emersum
+MCC04;;;<i>Cyperus fuscus, Hippuris vulgaris, Plantago uliginosa, Potamogeton natans, Veronica anagallis-aquatica
+MCC05;;;<i>Carex rostrata, Eleocharis ovata, Juncus effusus, Scirpus radicans
+MCC06;;;<i>Eleocharis palustris </i>agg.<i>
+MCC07;;;<i>Alisma plantago-aquatica
+MCC08;;;<i>Alisma lanceolatum, Alisma plantago-aquatica, Eleocharis palustris </i>agg.<i>, Lemna minor, Limosella aquatica
+MCC09;;;<i>Alisma gramineum, Alopecurus aequalis, Batrachium circinatum, Carex bohemica, Oenanthe aquatica, Stuckenia pectinata, Potamogeton pusillus
+MCC10;;;<i>Butomus umbellatus
+MCC11;;;<i>Bidens tripartitus, Bolboschoenus laticarpus, Bolboschoenus yagara, Juncus bufonius, Persicaria hydropiper
+MCC12;;;<i>Bolboschoenus laticarpus, Bolboschoenus planiculmis, Lolium perenne, Plantago uliginosa, Ranunculus repens
+MCD01;;;<i>Phalaris arundinacea, Urtica dioica
+MCD02;;;<i>Carex buekii
+MCD03;;;<i>Calamagrostis pseudophragmites, Phalaris arundinacea
+MCE01;;;<i>Glyceria fluitans
+MCE02;;;<i>Glyceria notata
+MCE03;;;<i>Berula erecta, Lemna minor
+MCE04;;;<i>Lemna gibba, Nasturtium microphyllum, Nasturtium officinale, Nasturtium ×sterile
+MCE05;;;<i>Leersia oryzoides
+MCF01;;;<i>Carex pseudocyperus, Cicuta virosa, Lemna minor
+MCF02;;;<i>Carex acuta, Phragmites australis, Thelypteris palustris
+MCF03;;;<i>Calla palustris
+MCG01;;;<i>Carex elata, Phragmites australis
+MCG02;;;<i>Carex rostrata
+MCG03;;;<i>Carex lasiocarpa, Equisetum fluviatile, Eriophorum angustifolium, Vaccinium oxycoccos </i>agg.<i>
+MCG04;;;<i>Carex cespitosa, Menyanthes trifoliata, Comarum palustre
+MCG05;;;<i>Carex diandra, Equisetum fluviatile, Lysimachia thyrsiflora, Menyanthes trifoliata, Utricularia minor
+MCG06;;;<i>Caltha palustris, Carex appropinquata, Carex rostrata, Equisetum fluviatile, Menyanthes trifoliata, Comarum palustre, Climacium dendroides
+MCG07;;;<i>Calamagrostis canescens
+MCG08;;;<i>Cladium mariscus
+MCH01;;;<i>Carex paniculata, Elodea canadensis, Lemna minor, Phragmites australis
+MCH02;;;<i>Carex acutiformis
+MCH03;;;<i>Carex acuta
+MCH04;;;<i>Carex vesicaria
+MCH05;;;<i>Carex disticha
+MCH06;;;<i>Carex riparia
+MCH07;;;<i>Carex acuta, Carex vulpina, Lysimachia nummularia, Ranunculus repens
+MCH08;;;<i>Phalaris arundinacea
+RAA01;;;<i>Caltha palustris, Carex remota
+RAA02;;;<i>Caltha palustris, Cardamine amara, Chaerophyllum hirsutum, Chrysosplenium alternifolium, Petasites albus, Brachythecium rivulare, Conocephalum conicum
+RAA03;;;<i>Cardamine amara, Chrysosplenium oppositifolium, Stellaria alsine
+RAB01;;;<i>Caltha palustris, Carex panicea, Equisetum palustre, Bryum pseudotriquetrum, Calliergonella cuspidata, Palustriella commutata, Pellia endiviifolia
+RAC01;;;<i>Agrostis canina, Epilobium obscurum, Montia fontana </i>subsp.<i> fontana, Montia fontana </i>subsp.<i> amporitana, Stellaria alsine, Veronica beccabunga, Brachythecium rivulare, Sphagnum girgensohnii
+RAD01;;;<i>Stellaria alsine, Bryum pseudotriquetrum, Philonotis seriata
+RAD02;;;<i>Aconitum plicatum, Allium schoenoprasum, Crepis paludosa, Deschampsia cespitosa, Blindia acuta, Palustriella commutata, Philonotis seriata, Scapania uliginosa, Scapania undulata
+RAD03;;;<i>Aconitum plicatum, Cardamine amara </i>subsp.<i> opicii, Chaerophyllum hirsutum, Stellaria alsine, Viola biflora, Philonotis seriata, Pohlia wahlenbergii
+RBA01;;;<i>Carex davalliana, Carex panicea, Molinia caerulea </i>agg.<i>, Calliergonella cuspidata
+RBA02;;;<i>Carex flacca, Carex flava, Carex panicea, Equisetum palustre, Eriophorum angustifolium, Juncus articulatus, Juncus inflexus, Molinia arundinacea, Bryum pseudotriquetrum, Calliergonella cuspidata, Campylium stellatum, Fissidens adianthoides, Palustriella commutata, Tomentypnum nitens
+RBA03;;;<i>Caltha palustris, Carex flacca, Carex nigra, Carex panicea, Equisetum palustre, Eriophorum latifolium, Aulacomnium palustre, Bryum pseudotriquetrum, Calliergonella cuspidata, Campylium stellatum, Palustriella decipiens, Plagiomnium affine </i>s. l.<i>, Scorpidium cossonii
+RBA04;;;<i>Caltha palustris, Carex diandra, Carex rostrata, Comarum palustre, Campylium stellatum, Hamatocaulis vernicosus, Scorpidium cossonii, Tomentypnum nitens
+RBA05;;;<i>Bromus erectus, Carex panicea, Molinia caerulea </i>agg.<i>, Schoenus ferrugineus, Schoenus ×scheuchzeri, Schoenus nigricans, Campylium stellatum, Scorpidium cossonii
+RBA06;;;<i>Chara vulgaris, Eleocharis quinqueflora, Scorpidium cossonii
+RBB01;;;<i>Carex davalliana, Carex panicea, Campylium stellatum, Sphagnum contortum, Sphagnum recurvum </i>s. l.<i>, Sphagnum teres, Sphagnum warnstorfii, Tomentypnum nitens
+RBB02;;;<i>Carex demissa, Carex panicea, Rhynchospora alba, Trichophorum alpinum, Campylium stellatum, Scorpidium cossonii, Sphagnum contortum, Sphagnum warnstorfii
+RBB03;;;<i>Carex diandra, Carex lasiocarpa, Carex limosa, Menyanthes trifoliata, Scorpidium cossonii, Sphagnum contortum, Sphagnum recurvum </i>s. l.<i>, Sphagnum teres
+RBC01;;;<i>Carex nigra, Carex panicea, Calliergonella cuspidata, Sphagnum palustre
+RBC02;;;<i>Calluna vulgaris, Carex panicea, Drosera rotundifolia, Drosera ×obovata, Eriophorum angustifolium, Molinia caerulea, Phragmites australis, Rhynchospora alba, Sphagnum inundatum, Sphagnum palustre, Sphagnum papillosum, Sphagnum platyphyllum, Sphagnum recurvum </i>s. l.<i>, Sphagnum subsecundum
+RBC03;;;<i>Carex diandra, Carex chordorrhiza, Carex limosa, Carex rostrata, Menyanthes trifoliata, Comarum palustre, Bryum pseudotriquetrum, Calliergonella cuspidata, Sphagnum obtusum, Sphagnum teres
+RBC04;;;<i>Allium schoenoprasum, Calamagrostis villosa, Carex flava, Deschampsia cespitosa, Molinia caerulea, Swertia perennis, Trichophorum alpinum, Scapania uliginosa, Scorpidium revolvens </i>s. l.<i>, Sphagnum capillifolium, Sphagnum girgensohnii, Sphagnum subnitens, Sphagnum subsecundum, Tomentypnum nitens
+RBC05;;;<i>Eriophorum angustifolium, Trichophorum cespitosum, Scapania uliginosa, Sarmentypnum exannulatum, Sarmentypnum sarmentosum
+RBD01;;;<i>Carex rostrata, Comarum palustre, Sphagnum recurvum </i>s. l.<i>
+RBD02;;;<i>Carex lasiocarpa, Vaccinium oxycoccos </i>agg.<i>, Phragmites australis, Comarum palustre, Polytrichum commune, Sphagnum capillifolium, Sphagnum papillosum, Sphagnum recurvum </i>s. l.<i>
+RBD03;;;<i>Carex echinata, Carex nigra, Carex panicea, Juncus filiformis, Nardus stricta, Sphagnum capillifolium, Sphagnum palustre, Sphagnum recurvum </i>s. l.<i>
+RBD04;;;<i>Eriophorum angustifolium, Juncus filiformis, Molinia caerulea, Nardus stricta, Vaccinium oxycoccos </i>agg.<i>, Phragmites australis, Polytrichum commune, Sphagnum girgensohnii, Sphagnum recurvum </i>s. l.<i>, Sphagnum russowii, Sphagnum subsecundum
+RBE01;;;<i>Carex limosa, Trichophorum cespitosum, Gymnocolea inflata, Sphagnum cuspidatum, Sphagnum majus, Sphagnum recurvum </i>s. l.<i>, Warnstorfia fluitans
+RBE02;;;<i>Carex limosa, Carex rostrata, Sphagnum cuspidatum, Sphagnum majus, Warnstorfia fluitans
+RBE03;;;<i>Rhynchospora alba, Aulacomnium palustre, Sphagnum capillifolium </i>s. l.<i>, Sphagnum magellanicum, Sphagnum palustre, Sphagnum papillosum, Sphagnum recurvum </i>s. l.<i>, Sphagnum tenellum
+RCA01;;;<i>Eriophorum vaginatum, Molinia caerulea, Vaccinium oxycoccos </i>agg.<i>, Polytrichum commune, Polytrichum strictum, Sphagnum recurvum </i>s. l.<i>, Sphagnum russowii
+RCA02;;;<i>Carex pauciflora, Empetrum nigrum </i>agg.<i>, Eriophorum vaginatum, Vaccinium uliginosum, Sphagnum rubellum, Sphagnum magellanicum, Sphagnum fallax, Sphagnum russowii
+RCA03;;;<i>Pinus mugo, Pinus ×ascendens notho</i>subsp.<i> skalickyi, Eriophorum vaginatum, Rubus chamaemorus, Vaccinium myrtillus, Vaccinium uliginosum, Polytrichum strictum, Sphagnum capillifolium </i>s. l.<i>, Sphagnum fuscum, Sphagnum recurvum </i>s. l.<i>, Sphagnum russowii
+RCA04;;;<i>Pinus sylvestris, Eriophorum vaginatum, Molinia caerulea, Vaccinium oxycoccos </i>agg.<i>, Vaccinium myrtillus, Vaccinium uliginosum, Sphagnum capillifolium </i>s. l.<i>, Sphagnum palustre, Sphagnum recurvum </i>s. l.<i>
+RCA05;;;<i>Pinus uncinata </i>subsp.<i> uliginosa, Eriophorum vaginatum, Vaccinium oxycoccos </i>agg.<i>, Vaccinium uliginosum, Vaccinium vitis-idaea, Polytrichum commune, Polytrichum strictum, Sphagnum cuspidatum, Sphagnum fuscum, Sphagnum recurvum </i>s. l.<i>
+RCB01;;;<i>Calluna vulgaris, Trichophorum cespitosum, Sphagnum rubellum, Sphagnum papillosum, Sphagnum recurvum </i>s. l.<i>
+RCC01;;;<i>Calluna vulgaris, Molinia caerulea, Trichophorum cespitosum, Gymnocolea inflata, Sphagnum compactum
+RCC02;;;<i>Calluna vulgaris, Empetrum nigrum </i>agg.<i>, Eriophorum vaginatum, Vaccinium uliginosum, Sphagnum rubellum, Sphagnum fuscum, Sphagnum magellanicum, Sphagnum russowii
+KAA01;;;<i>Salix alba, Salix euxina, Salix purpurea, Salix triandra, Salix viminalis, Galium aparine, Urtica dioica
+KAB01;;;<i>Salix elaeagnos, Salix purpurea
+KAB02;;;<i>Salix euxina, Salix purpurea
+KAB03;;;<i>Myricaria germanica
+KAC01;;;<i>Rubus caesius, Salix alba, Phalaris arundinacea, Urtica dioica
+KAC02;;;<i>Salix euxina, Aegopodium podagraria, Galium aparine, Lamium maculatum, Phalaris arundinacea, Poa trivialis, Urtica dioica
+KBA01;;;<i>Prunus fruticosa, Brachypodium pinnatum, Rosa spinosissima
+KBA02;;;<i>Prunus tenella
+KBB01;;;<i>Cotoneaster integerrimus
+KBB02;;;<i>Cornus mas, Ligustrum vulgare, Prunus mahaleb
+KBB03;;;<i>Betula pendula, Corylus avellana, Brachypodium pinnatum, Convallaria majalis
+KBB04;;;<i>Cornus sanguinea, Crataegus monogyna </i>s. l.<i>, Ligustrum vulgare, Prunus spinosa, Rosa canina </i>agg.<i>, Arrhenatherum elatius, Brachypodium pinnatum, Festuca rupicola
+KBB05;;;<i>Cornus sanguinea, Prunus spinosa
+KBB06;;;<i>Crataegus monogyna </i>s. l.<i>, Prunus spinosa, Rosa canina </i>agg.<i>, Poa nemoralis, Urtica dioica
+KBC01;;;<i>Ribes alpinum, Rosa pendulina
+KBC02;;;<i>Rubus idaeus, Plagiomnium affine </i>s. l.<i>
+KBC03;;;<i>Rubus idaeus, Sambucus racemosa, Urtica dioica
+KBC04;;;<i>Corylus avellana, Impatiens noli-tangere, Mercurialis perennis
+KBC05;;;<i>Betula pendula, Salix caprea, Sambucus racemosa, Senecio ovatus, Urtica dioica
+KBC06;;;<i>Sorbus aucuparia, Avenella flexuosa, Calamagrostis villosa, Vaccinium myrtillus
+KBD01;;;<i>Sambucus nigra, Anthriscus sylvestris, Chelidonium majus, Poa trivialis, Urtica dioica, Vitis vinifera </i>subsp.<i> vinifera
+KBD02;;;<i>Lycium barbarum, Syringa vulgaris
+KBD03;;;<i>Acer negundo
+KBE01;;;<i>Robinia pseudoacacia, Rubus fruticosus </i>agg.<i>, Sambucus nigra, Anthriscus sylvestris, Chelidonium majus, Galium aparine, Urtica dioica, Brachythecium rutabulum
+KBE02;;;<i>Robinia pseudoacacia, Sambucus nigra, Avenella flexuosa, Poa nemoralis
+KBF01;;;<i>Robinia pseudoacacia, Rubus fruticosus </i>agg.<i>, Arrhenatherum elatius, Calamagrostis epigejos, Festuca ovina
+KBG01;;;<i>Robinia pseudoacacia, Melica transsilvanica, Poa nemoralis, Hypnum cupressiforme </i>s. l.<i>
+KCA01;;;<i>Pinus mugo, Avenella flexuosa, Calamagrostis villosa, Vaccinium myrtillus, Dicranum scoparium
+KCA02;;;<i>Pinus mugo
+LAA01;;;<i>Alnus glutinosa, Frangula alnus, Calla palustris, Carex brizoides, Carex paniculata, Equisetum sylvaticum, Lysimachia vulgaris, Molinia caerulea </i>agg.<i>, Sphagnum palustre
+LAA02;;;<i>Alnus glutinosa, Calamagrostis canescens, Carex acutiformis, Carex elongata, Glyceria maxima, Phalaris arundinacea, Scirpus sylvaticus, Urtica dioica
+LAA03;;;<i>Alnus glutinosa, Carex acutiformis, Impatiens noli-tangere, Scirpus sylvaticus
+LAB01;;;<i>Frangula alnus, Salix aurita, Salix cinerea, Sphagnum squarrosum
+LAB02;;;<i>Frangula alnus, Salix aurita, Salix cinerea, Calamagrostis canescens
+LBA01;;;<i>Alnus incana, Carex brizoides, Chaerophyllum hirsutum, Impatiens noli-tangere, Matteuccia struthiopteris, Petasites albus, Stellaria nemorum, Plagiomnium affine </i>s. l.<i>
+LBA02;;;<i>Alnus glutinosa, Alnus incana, Picea abies, Calamagrostis villosa, Carex remota, Deschampsia cespitosa, Equisetum sylvaticum, Oxalis acetosella
+LBA03;;;<i>Alnus glutinosa, Fraxinus excelsior, Cardamine amara, Carex brizoides, Carex remota, Chaerophyllum hirsutum, Crepis paludosa, Filipendula ulmaria, Oxalis acetosella, Stellaria nemorum, Urtica dioica
+LBA04;;;<i>Alnus glutinosa, Fraxinus excelsior, Aegopodium podagraria, Anemone nemorosa, Ficaria verna, Impatiens noli-tangere, Mercurialis perennis, Stellaria nemorum, Urtica dioica
+LBA05;;;<i>Alnus glutinosa, Fraxinus excelsior, Prunus padus </i>subsp.<i> padus, Aegopodium podagraria, Ficaria verna, Impatiens noli-tangere, Mercurialis perennis, Phalaris arundinacea, Urtica dioica
+LBA06;;;<i>Fraxinus excelsior, Prunus padus </i>subsp.<i> padus, Quercus robur, Tilia cordata, Aegopodium podagraria, Allium ursinum, Anemone nemorosa, Carex brizoides, Corydalis cava, Ficaria verna, Impatiens parviflora
+LBA07;;;<i>Acer campestre, Carpinus betulus, Cornus sanguinea, Fraxinus angustifolia, Quercus robur, Rubus caesius, Tilia cordata, Allium ursinum, Brachypodium sylvaticum, Dactylis polygama, Deschampsia cespitosa, Galeobdolon montanum, Galium odoratum, Glechoma hederacea </i>agg.<i>, Lamium maculatum, Symphyotrichum novi-belgii </i>agg.<i>, Urtica dioica
+LBB01;;;<i>Carpinus betulus, Quercus petraea </i>agg.<i>, Quercus robur, Anemone nemorosa, Convallaria majalis, Galium odoratum, Poa nemoralis, Stellaria holostea
+LBB02;;;<i>Carpinus betulus, Quercus petraea </i>agg.<i>, Quercus robur, Aegopodium podagraria, Galium odoratum, Mercurialis perennis
+LBB03;;;<i>Carpinus betulus, Fagus sylvatica, Quercus petraea </i>agg.<i>, Quercus robur, Tilia cordata, Anemone nemorosa, Carex pilosa, Galium odoratum, Hacquetia epipactis, Melica uniflora
+LBB04;;;<i>Carpinus betulus, Cornus mas, Corylus avellana, Quercus petraea </i>agg.<i>, Tilia cordata, Convallaria majalis, Galium sylvaticum, Melica uniflora, Poa nemoralis
+LBC01;;;<i>Fagus sylvatica, Galium odoratum, Melica uniflora, Oxalis acetosella
+LBC02;;;<i>Fagus sylvatica, Galium odoratum, Mercurialis perennis, Oxalis acetosella
+LBC03;;;<i>Fagus sylvatica, Carex pilosa, Melica uniflora
+LBC04;;;<i>Acer pseudoplatanus, Fagus sylvatica, Athyrium filix-femina, Dryopteris filix-mas, Oxalis acetosella
+LBC05;;;<i>Abies alba, Calamagrostis arundinacea, Dryopteris filix-mas, Galeobdolon luteum </i>agg.<i>, Impatiens noli-tangere, Mercurialis perennis, Oxalis acetosella, Senecio nemorensis </i>agg.<i>, Eurhynchium angustirete, Plagiomnium affine </i>s. l.<i>
+LBD01;;;<i>Fagus sylvatica, Hieracium murorum, Petasites albus, Sesleria caerulea
+LBE01;;;<i>Fagus sylvatica, Picea abies, Avenella flexuosa, Calamagrostis arundinacea, Luzula luzuloides, Vaccinium myrtillus
+LBE02;;;<i>Fagus sylvatica, Calamagrostis arundinacea, Calamagrostis villosa, Vaccinium myrtillus
+LBE03;;;<i>Abies alba, Rubus fruticosus </i>agg.<i>, Calamagrostis arundinacea, Oxalis acetosella, Polytrichum formosum
+LBE04;;;<i>Abies alba, Picea abies, Vaccinium myrtillus, Dicranum polysetum, Dicranum scoparium, Leucobryum glaucum </i>s. l.<i>, Pleurozium schreberi, Thuidium tamariscinum
+LBF01;;;<i>Acer pseudoplatanus, Carpinus betulus, Corylus avellana, Fraxinus excelsior, Tilia cordata, Tilia platyphyllos, Galeobdolon luteum </i>agg.<i>, Galium odoratum, Mercurialis perennis, Hypnum cupressiforme </i>s. l.<i>
+LBF02;;;<i>Acer pseudoplatanus, Fraxinus excelsior, Tilia cordata, Tilia platyphyllos, Ulmus glabra, Dryopteris filix-mas, Galeobdolon luteum </i>agg.<i>, Galium odoratum, Impatiens noli-tangere, Mercurialis perennis, Oxalis acetosella
+LBF03;;;<i>Abies alba, Acer pseudoplatanus, Fagus sylvatica, Fraxinus excelsior, Ulmus glabra, Aruncus dioicus, Galeobdolon luteum </i>agg.<i>, Lunaria rediviva, Mercurialis perennis, Urtica dioica
+LBF04;;;<i>Carpinus betulus, Tilia cordata, Tilia platyphyllos, Sesleria caerulea, Hypnum cupressiforme </i>s. l.<i>
+LCA01;;;<i>Quercus petraea </i>agg.<i>, Quercus pubescens </i>agg.<i>, Carex humilis
+LCA02;;;<i>Quercus pubescens </i>agg.<i>, Carex humilis
+LCA03;;;<i>Cornus mas, Ligustrum vulgare, Quercus petraea </i>agg.<i>, Quercus pubescens </i>agg.<i>, Brachypodium pinnatum, Buglossoides purpurocaerulea, Poa nemoralis, Sesleria caerulea
+LCB01;;;<i>Fraxinus excelsior, Quercus petraea </i>agg.<i>, Quercus pubescens </i>agg.<i>, Quercus robur, Convallaria majalis
+LCB02;;;<i>Quercus robur, Convallaria majalis, Molinia caerulea </i>agg.<i>
+LCC01;;;<i>Quercus petraea </i>agg.<i>, Brachypodium pinnatum, Carex humilis, Festuca ovina, Poa nemoralis
+LCC02;;;<i>Quercus petraea </i>agg.<i>, Carex humilis, Festuca ovina, Hypnum cupressiforme </i>s. l.<i>
+LCC03;;;<i>Quercus petraea </i>agg.<i>, Quercus robur, Anemone nemorosa, Brachypodium pinnatum, Carex montana, Poa nemoralis
+LDA01;;;<i>Pinus sylvestris, Quercus petraea </i>agg.<i>, Quercus robur, Avenella flexuosa, Calamagrostis arundinacea, Festuca ovina, Luzula luzuloides, Melampyrum pratense, Poa nemoralis, Vaccinium myrtillus, Hypnum cupressiforme </i>s. l.<i>
+LDA02;;;<i>Pinus sylvestris, Quercus petraea </i>agg.<i>, Quercus robur, Avenella flexuosa, Festuca ovina, Hypnum cupressiforme </i>s. l.<i>
+LDA03;;;<i>Pinus sylvestris, Quercus petraea </i>agg.<i>, Quercus robur, Avenella flexuosa, Vaccinium myrtillus, Pleurozium schreberi
+LDA04;;;<i>Frangula alnus, Quercus petraea </i>agg.<i>, Quercus robur, Calamagrostis arundinacea, Carex brizoides, Molinia caerulea </i>agg.<i>
+LEA01;;;<i>Pinus sylvestris, Festuca ovina, Sesleria caerulea, Hylocomium splendens, Pleurozium schreberi
+LFA01;;;<i>Pinus sylvestris, Brachypodium pinnatum
+LFB01;;;<i>Pinus sylvestris, Cladonia rangiferina </i>s. l.<i>
+LFB02;;;<i>Pinus sylvestris, Avenella flexuosa, Calluna vulgaris, Vaccinium myrtillus, Vaccinium vitis-idaea, Pleurozium schreberi
+LFB03;;;<i>Pinus sylvestris, Avenella flexuosa, Ceratodon purpureus, Dicranum scoparium, Polytrichum piliferum
+LFB04;;;<i>Pinus sylvestris, Avenella flexuosa, Calamagrostis arundinacea, Erica carnea, Festuca ovina, Vaccinium myrtillus, Vaccinium vitis-idaea
+LFC01;;;<i>Picea abies, Avenella flexuosa, Calamagrostis villosa, Vaccinium myrtillus, Polytrichum formosum
+LFC02;;;<i>Picea abies, Adenostyles alliariae, Athyrium distentifolium, Calamagrostis villosa, Oxalis acetosella, Stellaria nemorum, Vaccinium myrtillus, Polytrichum formosum, Sphagnum girgensohnii
+LFC03;;;<i>Picea abies, Calamagrostis villosa, Equisetum sylvaticum, Polytrichum formosum
+LFC04;;;<i>Picea abies, Calamagrostis villosa, Vaccinium myrtillus, Bazzania trilobata, Dicranum scoparium, Polytrichum commune, Sphagnum girgensohnii
+LFD01;;;<i>Betula pendula, Betula pubescens, Calluna vulgaris, Eriophorum vaginatum, Molinia caerulea </i>agg.<i>, Polytrichum commune, Sphagnum recurvum </i>s. l.<i>
+LFD02;;;<i>Pinus sylvestris, Molinia caerulea, Rhododendron tomentosum, Vaccinium myrtillus, Vaccinium uliginosum, Sphagnum capillifolium </i>s. l.<i>, Sphagnum recurvum </i>s. l.<i>
+LFD03;;;<i>Betula pubescens, Pinus uncinata </i>subsp.<i> uliginosa, Eriophorum vaginatum, Rhododendron tomentosum, Vaccinium myrtillus, Vaccinium uliginosum, Sphagnum capillifolium </i>s. l.<i>, Sphagnum magellanicum, Sphagnum recurvum </i>s. l.<i>
+LFD04;;;<i>Picea abies, Calamagrostis villosa, Eriophorum vaginatum, Molinia caerulea, Vaccinium myrtillus, Vaccinium uliginosum, Polytrichum commune, Sphagnum capillifolium </i>s. l.<i>, Sphagnum girgensohnii, Sphagnum magellanicum, Sphagnum recurvum </i>s. l.<i>

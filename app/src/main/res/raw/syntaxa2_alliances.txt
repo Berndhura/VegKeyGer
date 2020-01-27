@@ -1,0 +1,138 @@
+AAA;;;Loiseleurio procumbentis-Vaccinion
+ABA;;;Juncion trifidi
+ABB;;;Nardo strictae-Caricion bigelowii
+ACA;;;Agrostion alpinae
+ADA;;;Calamagrostion villosae
+ADB;;;Calamagrostion arundinaceae
+ADC;;;Salicion silesiacae
+ADD;;;Adenostylion alliariae
+ADE;;;Dryopterido filicis-maris-Athyrion distentifolii
+TAA;;;Cypero-Spergularion salinae
+TBA;;;Salicornion prostratae
+TCA;;;Puccinellion limosae
+TCB;;;Juncion gerardii
+TDA;;;Arrhenatherion elatioris
+TDB;;;Polygono bistortae-Trisetion flavescentis
+TDC;;;Cynosurion cristati
+TDD;;;Molinion caeruleae
+TDE;;;Deschampsion cespitosae
+TDF;;;Calthion palustris
+TEA;;;Nardion strictae
+TEB;;;Nardo strictae-Agrostion tenuis
+TEC;;;Violion caninae
+TED;;;Nardo strictae-Juncion squarrosi
+TEE;;;Euphorbio cyparissiae-Callunion vulgaris
+TEF;;;Genisto pilosae-Vaccinion
+TFA;;;Corynephorion canescentis
+TFB;;;Thero-Airion
+TFC;;;Armerion elongatae
+TFD;;;Hyperico perforati-Scleranthion perennis
+TFE;;;Arabidopsion thalianae
+TFF;;;Alysso alyssoidis-Sedion
+TGA;;;Festucion vaginatae
+THA;;;Alysso-Festucion pallentis
+THB;;;Bromo pannonici-Festucion pallentis
+THC;;;Diantho lumnitzeri-Seslerion
+THD;;;Festucion valesiacae
+THE;;;Cirsio-Brachypodion pinnati
+THF;;;Bromion erecti
+THG;;;Koelerio-Phleion phleoidis
+THH;;;Geranion sanguinei
+THI;;;Trifolion medii
+XAA;;;Coronopodo-Polygonion arenastri
+XAB;;;Saginion procumbentis
+XBA;;;Caucalidion
+XBB;;;Veronico-Euphorbion
+XBC;;;Scleranthion annui
+XBD;;;Arnoseridion minimae
+XBE;;;Oxalidion fontanae
+XBF;;;Spergulo arvensis-Erodion cicutariae
+XBG;;;Atriplicion
+XBH;;;Sisymbrion officinalis
+XBI;;;Malvion neglectae
+XBJ;;;Salsolion ruthenicae
+XBK;;;Eragrostion cilianensi-minoris
+XCA;;;Onopordion acanthii
+XCB;;;Dauco carotae-Melilotion
+XCC;;;Convolvulo arvensis-Elytrigion repentis
+XCD;;;Artemisio-Kochion prostratae
+XCE;;;Arction lappae
+XDA;;;Senecionion fluviatilis
+XDB;;;Petasition hybridi
+XDC;;;Impatienti noli-tangere-Stachyion sylvaticae
+XDD;;;Geo urbani-Alliarion petiolatae
+XDE;;;Aegopodion podagrariae
+XDF;;;Rumicion alpini
+XEA;;;Fragarion vescae
+SAA;;;Cystopteridion
+SAB;;;Asplenion cuneifolii
+SAC;;;Asplenion septentrionalis
+SAD;;;Androsacion alpinae
+SBA;;;Cymbalario muralis-Asplenion
+SCA;;;Stipion calamagrostis
+SCB;;;Galeopsion
+VAA;;;Lemnion minoris
+VAB;;;Utricularion vulgaris
+VAC;;;Hydrocharition morsus-ranae
+VBA;;;Nymphaeion albae
+VBB;;;Potamion
+VBC;;;Batrachion fluitantis
+VBD;;;Ranunculion aquatilis
+VCA;;;Nitellion flexilis
+VCB;;;Charion globularis
+VDA;;;Littorellion uniflorae
+VDB;;;Eleocharition acicularis
+VDC;;;Sphagno-Utricularion
+MAA;;;Eleocharition ovatae
+MAB;;;Radiolion linoidis
+MAC;;;Verbenion supinae
+MBA;;;Bidention tripartitae
+MBB;;;Chenopodion rubri
+MCA;;;Phragmition australis
+MCB;;;Meliloto dentati-Bolboschoenion maritimi
+MCC;;;Eleocharito palustris-Sagittarion sagittifoliae
+MCD;;;Phalaridion arundinaceae
+MCE;;;Glycerio-Sparganion
+MCF;;;Carici-Rumicion hydrolapathi
+MCG;;;Magno-Caricion elatae
+MCH;;;Magno-Caricion gracilis
+RAA;;;Caricion remotae
+RAB;;;Lycopodo europaei-Cratoneurion commutati
+RAC;;;Epilobio nutantis-Montion fontanae
+RAD;;;Swertio perennis-Dichodontion palustris
+RBA;;;Caricion davallianae
+RBB;;;Sphagno warnstorfii-Tomentypnion nitentis
+RBC;;;Caricion canescenti-nigrae
+RBD;;;Sphagno-Caricion canescentis
+RBE;;;Sphagnion cuspidati
+RCA;;;Sphagnion magellanici
+RCB;;;Oxycocco palustris-Ericion tetralicis
+RCC;;;Oxycocco microcarpi-Empetrion hermaphroditi
+KAA;;;Salicion triandrae
+KAB;;;Salicion elaeagno-daphnoidis
+KAC;;;Salicion albae
+KBA;;;Prunion fruticosae
+KBB;;;Berberidion vulgaris
+KBC;;;Sambuco-Salicion capreae
+KBD;;;Aegopodio podagrariae-Sambucion nigrae
+KBE;;;Chelidonio majoris-Robinion pseudoacaciae
+KBF;;;Balloto nigrae-Robinion pseudoacaciae
+KBG;;;Euphorbio cyparissiae-Robinion pseudoacaciae
+KCA;;;Pinion mugo
+LAA;;;Alnion glutinosae
+LAB;;;Salicion cinereae
+LBA;;;Alnion incanae
+LBB;;;Carpinion betuli
+LBC;;;Fagion sylvaticae
+LBD;;;Sorbo-Fagion sylvaticae
+LBE;;;Luzulo-Fagion sylvaticae
+LBF;;;Tilio platyphylli-Acerion
+LCA;;;Quercion pubescenti-petraeae
+LCB;;;Aceri tatarici-Quercion
+LCC;;;Quercion petraeae
+LDA;;;Quercion roboris
+LEA;;;Erico carneae-Pinion
+LFA;;;Festuco-Pinion sylvestris
+LFB;;;Dicrano-Pinion sylvestris
+LFC;;;Piceion abietis
+LFD;;;Vaccinio uliginosi-Pinion sylvestris

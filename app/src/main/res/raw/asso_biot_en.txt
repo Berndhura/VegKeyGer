@@ -1,0 +1,494 @@
+AAA01;;;A2.1 Alpine heathlands
+AAA02;;;A2.1 Alpine heathlands
+ABA01;;;A1.1 Wind-swept alpine grasslands, A6 Acidophilous vegetation of alpine cliffs and boulder screes
+ABB01;;;A1.2 Closed alpine grasslands, A3 Snow beds
+ACA01;;;A5 Cliff vegetation in the Sudeten cirques
+ACA02;;;A5 Cliff vegetation in the Sudeten cirques
+ADA01;;;A4.1 Subalpine tall grasslands
+ADA02;;;A4.1 Subalpine tall grasslands
+ADA03;;;A4.1 Subalpine tall grasslands
+ADB01;;;A4.1 Subalpine tall grasslands
+ADC01;;;A8.2 Subalpine deciduous tall scrub
+ADC02;;;A8.2 Subalpine deciduous tall scrub
+ADD01;;;A4.2 Subalpine tall-forb vegetation
+ADD02;;;A8.1 <i>Salix lapponum</i> subalpine scrub
+ADD03;;;A4.2 Subalpine tall-forb vegetation
+ADD04;;;A4.2 Subalpine tall-forb vegetation
+ADD05;;;A4.2 Subalpine tall-forb vegetation
+ADE01;;;A4.3 Subalpine tall-fern vegetation
+ADE02;;;A4.3 Subalpine tall-fern vegetation
+KAA01;;;K2.1 Willow scrub of loamy and sandy river banks
+KAB01;;;K2.2 Willow scrub of river gravel banks
+KAB02;;;K2.2 Willow scrub of river gravel banks
+KAB03;;;M4.2 River gravel banks with <i>Myricaria germanica</i>
+KAC01;;;L2.4 Willow-poplar forests of lowland rivers
+KAC02;;;K2.1 Willow scrub of loamy and sandy river banks, L2.2 Ash-alder alluvial forests
+KBA01;;;K4 Low xeric scrub
+KBA02;;;K4 Low xeric scrub
+KBB01;;;K3 Tall mesic and xeric scrub
+KBB02;;;K3 Tall mesic and xeric scrub
+KBB03;;;K3 Tall mesic and xeric scrub
+KBB04;;;K3 Tall mesic and xeric scrub
+KBB05;;;K3 Tall mesic and xeric scrub
+KBB06;;;K3 Tall mesic and xeric scrub
+KBC01;;;S1.5 <i>Ribes alpinum</i> scrub on cliffs and boulder screes
+KBC02;;;X10 Forest clearings
+KBC03;;;X12 Stands of early successional woody species, X10 Forest clearings
+KBC04;;;X12 Stands of early successional woody species, X10 Forest clearings
+KBC05;;;X12 Stands of early successional woody species
+KBC06;;;X12 Stands of early successional woody species
+KBD01;;;X8 Scrub with ruderal or alien species
+KBD02;;;X8 Scrub with ruderal or alien species
+KBD03;;;X8 Scrub with ruderal or alien species
+KBE01;;;X9B Forest plantations of allochtonous deciduous trees
+KBE02;;;X9B Forest plantations of allochtonous deciduous trees
+KBF01;;;X9B Forest plantations of allochtonous deciduous trees
+KBG01;;;X9B Forest plantations of allochtonous deciduous trees
+KCA01;;;A7 <i>Pinus mugo</i> scrub
+KCA02;;;A7 <i>Pinus mugo</i> scrub
+LAA01;;;L1 Alder carrs
+LAA02;;;L1 Alder carrs
+LAA03;;;L1 Alder carrs
+LAB01;;;K1 Willow carrs
+LAB02;;;K1 Willow carrs
+LBA01;;;L2.1 Montane grey alder galleries
+LBA02;;;L2.2 Ash-alder alluvial forests
+LBA03;;;L2.2 Ash-alder alluvial forests
+LBA04;;;L2.2 Ash-alder alluvial forests
+LBA05;;;L2.2 Ash-alder alluvial forests, L2.3 Hardwood forests of lowland rivers
+LBA06;;;L2.3 Hardwood forests of lowland rivers
+LBA07;;;L2.3 Hardwood forests of lowland rivers
+LBB01;;;L3.1 Hercynian oak-hornbeam forests
+LBB02;;;L3.1 Hercynian oak-hornbeam forests, L3.2 Polonian oak-hornbeam forests
+LBB03;;;L3.3 Carpathian oak-hornbeam forests
+LBB04;;;L3.4 Pannonian oak-hornbeam forests
+LBC01;;;L5.1 Herb-rich beech forests
+LBC02;;;L5.1 Herb-rich beech forests
+LBC03;;;L5.1 Herb-rich beech forests
+LBC04;;;L5.2 Montane sycamore-beech forests
+LBC05;;;L5.1 Herb-rich beech forests
+LBD01;;;L5.3 Limestone beech forests
+LBE01;;;L5.4 Acidophilous beech forests
+LBE02;;;L5.4 Acidophilous beech forests
+LBE03;;;L5.4 Acidophilous beech forests
+LBE04;;;L5.4 Acidophilous beech forests
+LBF01;;;L4 Ravine forests
+LBF02;;;L4 Ravine forests
+LBF03;;;L4 Ravine forests
+LBF04;;;L4 Ravine forests
+LCA01;;;L6.1 Peri-Alpidic basiphilous thermophilous oak forests
+LCA02;;;L6.1 Peri-Alpidic basiphilous thermophilous oak forests
+LCA03;;;L6.1 Peri-Alpidic basiphilous thermophilous oak forests
+LCB01;;;L6.2 Pannonian thermophilous oak forests on loess
+LCB02;;;L6.3 Pannonian thermophilous oak forests on sand
+LCC01;;;L6.5B Acidophilous thermophilous oak forests
+LCC02;;;L6.5A Acidophilous thermophilous oak forests
+LCC03;;;L6.4 Central European basiphilous thermophilous oak forests
+LDA01;;;L7.1 Dry acidophilous oak forests
+LDA02;;;L7.1 Dry acidophilous oak forests, L7.4 Acidophilous oak forests on sand
+LDA03;;;L7.3 Subcontinental pine-oak forests
+LDA04;;;L7.2 Wet acidophilous oak forests
+LEA01;;;L8.3 Peri-Alpidic serpentine pine forests
+LFA01;;;L8.2 Forest-steppe pine forests
+LFB01;;;L8.1A Boreo-continental pine forests with lichens on sand
+LFB02;;;L8.1B Boreo-continental pine forests, other stands
+LFB03;;;L8.1B Boreo-continental pine forests, other stands
+LFB04;;;L8.1B Boreo-continental pine forests, other stands
+LFC01;;;L9.1 Montane <i>Calamagrostis</i> spruce forests
+LFC02;;;L9.3 Montane <i>Athyrium</i> spruce forests
+LFC03;;;L9.2B Waterlogged spruce forests
+LFC04;;;L9.2B Waterlogged spruce forests
+LFD01;;;L10.1 Birch mire forests
+LFD02;;;L10.2 Pine mire forests with Vaccinium
+LFD03;;;L10.4 <i>Pinus rotundata</i> bog forests
+LFD04;;;L9.2A Bog spruce forests
+MAA01;;;M2.1 Vegetation of exposed fishpond bottoms
+MAA02;;;M2.1 Vegetation of exposed fishpond bottoms
+MAA03;;;M2.2 Annual vegetation on wet sand
+MAB01;;;M2.2 Annual vegetation on wet sand
+MAB02;;;M2.2 Annual vegetation on wet sand
+MAC01;;;M2.3 Vegetation of exposed bottoms in warm areas
+MAC02;;;M2.3 Vegetation of exposed bottoms in warm areas
+MAC03;;;M2.3 Vegetation of exposed bottoms in warm areas
+MBA01;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBA02;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBA03;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBA04;;;M6 Muddy river banks, M2.1 Vegetation of exposed fishpond bottoms
+MBA05;;;M6 Muddy river banks, M2.1 Vegetation of exposed fishpond bottoms
+MBA06;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBB01;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBB02;;;X7 Herbaceous ruderal vegetation outside human settlements
+MBB03;;;M6 Muddy river banks, X7 Herbaceous ruderal vegetation outside human settlements
+MBB04;;;M2.1 Vegetation of exposed fishpond bottoms
+MCA01;;;M1.1 Reed beds of eutrophic still waters
+MCA02;;;M1.1 Reed beds of eutrophic still waters
+MCA03;;;M1.1 Reed beds of eutrophic still waters
+MCA04;;;M1.1 Reed beds of eutrophic still waters
+MCA05;;;M1.1 Reed beds of eutrophic still waters
+MCA06;;;M1.1 Reed beds of eutrophic still waters
+MCA07;;;M1.1 Reed beds of eutrophic still waters
+MCA08;;;M1.1 Reed beds of eutrophic still waters
+MCA09;;;M1.1 Reed beds of eutrophic still waters
+MCA10;;;M1.1 Reed beds of eutrophic still waters
+MCB01;;;M1.2 Halophilous reed and sedge beds
+MCB02;;;M1.2 Halophilous reed and sedge beds
+MCC01;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC02;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC03;;;M1.3 Eutrophic vegetation of muddy substrata, V4 Macrophyte vegetation of water streams
+MCC04;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC05;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC06;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC07;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC08;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC09;;;M1.3 Eutrophic vegetation of muddy substrata
+MCC10;;;M1.3 Eutrophic vegetation of muddy substrata, V4 Macrophyte vegetation of water streams
+MCC11;;;X3 Extensively managed fields, M1.3 Eutrophic vegetation of muddy substrata
+MCC12;;;M1.3 Eutrophic vegetation of muddy substrata
+MCD01;;;M1.4 Riverine reed vegetation
+MCD02;;;M1.4 Riverine reed vegetation, M1.7 Tall-sedge beds
+MCD03;;;M4.3 River gravel banks with <i>Calamagrostis pseudophragmites</i>
+MCE01;;;M1.5 Reed vegetation of brooks
+MCE02;;;M1.5 Reed vegetation of brooks
+MCE03;;;M1.5 Reed vegetation of brooks
+MCE04;;;M1.5 Reed vegetation of brooks
+MCE05;;;M1.5 Reed vegetation of brooks
+MCF01;;;M1.6 Mesotrophic vegetation of muddy substrata
+MCF02;;;M1.6 Mesotrophic vegetation of muddy substrata
+MCF03;;;M1.6 Mesotrophic vegetation of muddy substrata
+MCG01;;;M1.7 Tall-sedge beds
+MCG02;;;M1.7 Tall-sedge beds
+MCG03;;;M1.7 Tall-sedge beds
+MCG04;;;M1.7 Tall-sedge beds
+MCG05;;;M1.7 Tall-sedge beds
+MCG06;;;M1.7 Tall-sedge beds
+MCG07;;;M1.7 Tall-sedge beds
+MCG08;;;M1.8 Calcareous fens with <i>Cladium mariscus</i>
+MCH01;;;M1.7 Tall-sedge beds
+MCH02;;;M1.7 Tall-sedge beds
+MCH03;;;M1.7 Tall-sedge beds
+MCH04;;;M1.7 Tall-sedge beds
+MCH05;;;M1.7 Tall-sedge beds
+MCH06;;;M1.7 Tall-sedge beds
+MCH07;;;M1.7 Tall-sedge beds
+MCH08;;;M1.7 Tall-sedge beds
+RAA01;;;R1.4 Forest springs without tufa formation
+RAA02;;;R1.4 Forest springs without tufa formation
+RAA03;;;R1.4 Forest springs without tufa formation
+RAB01;;;R1.3 Forest springs with tufa formation
+RAC01;;;R1.2 Meadow springs without tufa formation, R1.5 Subalpine springs
+RAD01;;;R1.5 Subalpine springs
+RAD02;;;R1.5 Subalpine springs
+RAD03;;;R1.5 Subalpine springs
+RBA01;;;R2.1 Calcareous fens
+RBA02;;;R1.1 Meadow springs with tufa formation
+RBA03;;;R2.1 Calcareous fens
+RBA04;;;R2.1 Calcareous fens
+RBA05;;;R2.1 Calcareous fens
+RBA06;;;R2.1 Calcareous fens
+RBB01;;;R2.2 Acidic moss-rich fens
+RBB02;;;R2.2 Acidic moss-rich fens, R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RBB03;;;R2.2 Acidic moss-rich fens
+RBC01;;;R2.2 Acidic moss-rich fens
+RBC02;;;R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RBC03;;;Acidic moss-rich fens
+RBC04;;;Acidic moss-rich fens
+RBC05;;;Acidic moss-rich fens
+RBD01;;;R2.3 Transitional mires, R2.4 Peatsoils with Rhynchospora alba
+RBD02;;;R2.3 Transitional mires
+RBD03;;;R2.3 Transitional mires
+RBD04;;;R2.3 Transitional mires
+RBE01;;;R3.3 Bog hollows
+RBE02;;;R3.3 Bog hollows
+RBE03;;;R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RCA01;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs
+RCA02;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs
+RCA03;;;R3.2 Raised bogs with Pinus mugo
+RCA04;;;L10.3 Pine forests of continental mires with Eriophorum
+RCA05;;;L10.4 Pinus rotundata bog forests
+RCB01;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs
+RCC01;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs
+RCC02;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs
+SAA01;;;S1.1 Chasmophytic vegetation of calcareous cliffs and boulder screes
+SAA02;;;S1.1 Chasmophytic vegetation of calcareous cliffs and boulder screes
+SAB01;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAB02;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAC01;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAC02;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAC03;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAD01;;;A6 Acidophilous vegetation of alpine cliffs and boulder screes
+SBA01;;;X1 Urbanized areas
+SBA02;;;X1 Urbanized areas
+SCA01;;;S2 Mobile screes
+SCA02;;;S2 Mobile screes
+SCA03;;;S2 Mobile screes
+SCB01;;;S2 Mobile screes
+TAA01;;;M2.4 Vegetation of annual halophilous grasses
+TAA02;;;M2.4 Vegetation of annual halophilous grasses
+TBA01;;;T7 Inland salt marshes
+TBA02;;;T7 Inland salt marshes
+TCA01;;;T7 Inland salt marshes
+TCB01;;;T7 Inland salt marshes
+TCB02;;;T7 Inland salt marshes
+TCB03;;;T7 Inland salt marshes
+TDA01;;;T1.1 Mesic <i>Arrhenatherum</i> meadows
+TDA02;;;T1.1 Mesic <i>Arrhenatherum</i> meadows
+TDA03;;;T1.1 Mesic <i>Arrhenatherum</i> meadows
+TDA04;;;T1.1 Mesic <i>Arrhenatherum</i> meadows
+TDB01;;;T1.2 Montane <i>Trisetum</i> meadows
+TDB02;;;T1.2 Montane <i>Trisetum</i> meadows
+TDB03;;;T1.2 Montane <i>Trisetum</i> meadows
+TDC01;;;T1.3 <i>Cynosurus</i> pastures
+TDC02;;;T1.3 <i>Cynosurus</i> pastures
+TDC03;;;X5 Intensively managed meadows
+TDC04;;;X7 Herbaceous ruderal vegetation outside human settlements
+TDC05;;;X7 Herbaceous ruderal vegetation outside human settlements
+TDD01;;;T1.9 Intermittently wet <i>Molinia</i> meadows
+TDD02;;;T1.9 Intermittently wet <i>Molinia</i> meadows
+TDE01;;;T1.4 Alluvial <i>Alopecurus</i> meadows
+TDE02;;;T1.4 Alluvial <i>Alopecurus</i> meadows
+TDE03;;;T1.7 Continental inundated meadows
+TDE04;;;T1.7 Continental inundated meadows
+TDE05;;;T1.7 Continental inundated meadows, T1.8 Continental tall-forb vegetation
+TDF01;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF02;;;T1.5 Wet <i>Cirsium</i> meadows, R1.1 Meadow springs with tufa formation
+TDF03;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF04;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF05;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF06;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF07;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF08;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF09;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF10;;;T1.5 Wet <i>Cirsium</i> meadows
+TDF11;;;X7 Herbaceous ruderal vegetation outside human settlements
+TDF12;;;T1.6 Wet <i>Filipendula</i> grasslands
+TDF13;;;T1.6 Wet <i>Filipendula</i> grasslands
+TDF14;;;T1.6 Wet <i>Filipendula</i> grasslands
+TEA01;;;A1.2 Closed alpine grasslands, T2.1 Subalpine <i>Nardus</i> grasslands
+TEA02;;;T2.1 Subalpine <i>Nardus</i> grasslands
+TEB01;;;T2.2 Montane <i>Nardus</i> grasslands with alpine species
+TEC01;;;T2.3 Submontane and montane <i>Nardus</i> grasslands
+TEC02;;;T2.3 Submontane and montane <i>Nardus</i> grasslands
+TED01;;;T2.3 Submontane and montane <i>Nardus</i> grasslands
+TEE01;;;T8.1 Dry lowland and colline heaths
+TEF01;;;T8.2 Secondary submontane and montane heaths, T8.3 <i>Vaccinium</i> vegetation of cliffs and boulder screes
+TEF02;;;T8.3 <i>Vaccinium</i> vegetation of cliffs and boulder screes, S1.3 Tall grasslands on rock ledges
+TEF03;;;A2.2 Subalpine <i>Vaccinium</i> vegetation
+TFA01;;;T5.2 Open sand grasslands with <i>Corynephorus canescens</i>
+TFA02;;;T5.2 Open sand grasslands with <i>Corynephorus canescens</i>
+TFB01;;;T5.1 Annual vegetation on sandy soils
+TFB02;;;T5.1 Annual vegetation on sandy soils
+TFC01;;;T5.3 <i>Festuca</i> sand grasslands
+TFC02;;;T5.3 <i>Festuca</i> sand grasslands
+TFD01;;;T5.5 Acidophilous grasslands on shallow soils
+TFD02;;;T5.5 Acidophilous grasslands on shallow soils
+TFE01;;;T6.1 Acidophilous vegetation of vernal therophytes and succulents
+TFF01;;;T6.2 Basiphilous vegetation of vernal therophytes and succulents
+TFF02;;;T6.2 Basiphilous vegetation of vernal therophytes and succulents
+TGA01;;;T5.4 Pannonian sand steppe grasslands
+THA01;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THA02;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THA03;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THA04;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THB01;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THC01;;;T3.2 <i>Sesleria grasslands
+THC02;;;T3.2 <i>Sesleria</i> grasslands
+THC03;;;T3.2 <i>Sesleria</i> grasslands
+THC04;;;T3.2 <i>Sesleria</i> grasslands
+THD01;;;T3.3 Narrow-leaved dry grasslands
+THD02;;;T3.3 Narrow-leaved dry grasslands
+THD03;;;T3.3 Narrow-leaved dry grasslands
+THD04;;;T3.3 Narrow-leaved dry grasslands
+THD05;;;T3.3 Narrow-leaved dry grasslands
+THD06;;;T3.3 Narrow-leaved dry grasslands
+THE01;;;T3.4 Broad-leaved dry grasslands
+THE02;;;T3.4 Broad-leaved dry grasslands
+THE03;;;T3.4 Broad-leaved dry grasslands
+THE04;;;T3.4 Broad-leaved dry grasslands
+THF01;;;T3.4 Broad-leaved dry grasslands
+THF02;;;T3.4 Broad-leaved dry grasslands
+THG01;;;T3.5 Acidophilous dry grasslands
+THG02;;;T3.5 Acidophilous dry grasslands
+THG03;;;T3.5 Acidophilous dry grasslands
+THH01;;;T4.1 Dry herbaceous fringes
+THH02;;;T4.1 Dry herbaceous fringes
+THH03;;;T4.1 Dry herbaceous fringes
+THI01;;;T4.2 Mesic herbaceous fringes
+THI02;;;T4.2 Mesic herbaceous fringes
+VAA01;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA02;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA03;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA04;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA05;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA06;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA07;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA08;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA09;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA10;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAA11;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAB01;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAB02;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAC01;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAC02;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAC03;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAC04;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA01;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA02;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA03;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA04;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA05;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA06;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA07;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB01;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB02;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB03;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB04;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB05;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB06;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB07;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB08;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB09;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB10;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB11;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB12;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB13;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB14;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB15;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB16;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB17;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB18;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB19;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB20;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB21;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB22;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB23;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBC01;;;V4 Macrophyte vegetation of water streams
+VBC02;;;V4 Macrophyte vegetation of water streams
+VBC03;;;V4 Macrophyte vegetation of water streams
+VBD01;;;Macrophyte vegetation of shallow still waters
+VBD02;;;Macrophyte vegetation of shallow still waters
+VBD03;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBD04;;;Macrophyte vegetation of shallow still waters
+VBD05;;;Macrophyte vegetation of shallow still waters
+VBD06;;;Macrophyte vegetation of shallow still waters
+VBD07;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VCA01;;;V5 <i>Charophyceae</i> vegetation
+VCA02;;;V5 <i>Charophyceae</i> vegetation
+VCB01;;;V5 <i>Charophyceae</i> vegetation
+VCB02;;;V5 <i>Charophyceae</i> vegetation
+VCB03;;;V5 <i>Charophyceae</i> vegetation
+VCB04;;;V5 <i>Charophyceae</i> vegetation
+VCB05;;;V5 <i>Charophyceae</i> vegetation
+VDB01;;;M3 Vegetation of perennial amphibious herbs
+VDB02;;;M3 Vegetation of perennial amphibious herbs
+VDB03;;;M3 Vegetation of perennial amphibious herbs
+VDB04;;;M3 Vegetation of perennial amphibious herbs
+VDB05;;;M3 Vegetation of perennial amphibious herbs
+VDC01;;;V3 Macrophyte vegetation of oligotrophic lakes and pools
+VDC02;;;V3 Macrophyte vegetation of oligotrophic lakes and pools
+VDC03;;;V3 Macrophyte vegetation of oligotrophic lakes and pools
+XAA01;;;X Habitats strongly influenced or created by man
+XAA02;;;X Habitats strongly influenced or created by man
+XAA03;;;X Habitats strongly influenced or created by man
+XAA04;;;X Habitats strongly influenced or created by man
+XAB01;;;X Habitats strongly influenced or created by man
+XAB02;;;X Habitats strongly influenced or created by man
+XAB03;;;X Habitats strongly influenced or created by man
+XAB04;;;X Habitats strongly influenced or created by man
+XAB05;;;X Habitats strongly influenced or created by man
+XBA01;;;X2 Extensively managed fields
+XBA02;;;X2 Extensively managed fields
+XBA03;;;X Habitats strongly influenced or created by man
+XBA04;;;X Habitats strongly influenced or created by man
+XBA05;;;X Habitats strongly influenced or created by man
+XBB01;;;X Habitats strongly influenced or created by man
+XBB02;;;X Habitats strongly influenced or created by man
+XBC01;;;X Habitats strongly influenced or created by man
+XBC02;;;X Habitats strongly influenced or created by man
+XBC03;;;X Habitats strongly influenced or created by man
+XBD01;;;X Habitats strongly influenced or created by man
+XBE01;;;X Habitats strongly influenced or created by man
+XBF01;;;X Habitats strongly influenced or created by man
+XBG01;;;X Habitats strongly influenced or created by man
+XBG02;;;X Habitats strongly influenced or created by man
+XBG03;;;X Habitats strongly influenced or created by man
+XBG04;;;X Habitats strongly influenced or created by man
+XBG05;;;X Habitats strongly influenced or created by man
+XBG06;;;X Habitats strongly influenced or created by man
+XBG07;;;X Habitats strongly influenced or created by man
+XBG08;;;X Habitats strongly influenced or created by man
+XBG09;;;X Habitats strongly influenced or created by man
+XBG10;;;X Habitats strongly influenced or created by man
+XBG11;;;X Habitats strongly influenced or created by man
+XBG12;;;X Habitats strongly influenced or created by man
+XBG13;;;X Habitats strongly influenced or created by man
+XBH01;;;X Habitats strongly influenced or created by man
+XBH02;;;X Habitats strongly influenced or created by man
+XBH03;;;X Habitats strongly influenced or created by man
+XBI01;;;X Habitats strongly influenced or created by man
+XBI02;;;X Habitats strongly influenced or created by man
+XBI03;;;X Habitats strongly influenced or created by man
+XBI04;;;X Habitats strongly influenced or created by man
+XBI05;;;X Habitats strongly influenced or created by man
+XBJ01;;;X Habitats strongly influenced or created by man
+XBJ02;;;X Habitats strongly influenced or created by man
+XBJ03;;;T5.1 Annual vegetation on sandy soils
+XBK01;;;X Habitats strongly influenced or created by man
+XBK02;;;X Habitats strongly influenced or created by man
+XBK03;;;X Habitats strongly influenced or created by man
+XBK04;;;X Habitats strongly influenced or created by man
+XBK05;;;X Habitats strongly influenced or created by man
+XCA01;;;X Habitats strongly influenced or created by man
+XCA02;;;X Habitats strongly influenced or created by man
+XCA03;;;X Habitats strongly influenced or created by man
+XCB01;;;X Habitats strongly influenced or created by man
+XCB02;;;X Habitats strongly influenced or created by man
+XCB03;;;X Habitats strongly influenced or created by man
+XCB04;;;X Habitats strongly influenced or created by man
+XCB05;;;X Habitats strongly influenced or created by man
+XCB06;;;X Habitats strongly influenced or created by man
+XCB07;;;X Habitats strongly influenced or created by man
+XCB08;;;X Habitats strongly influenced or created by man
+XCB09;;;X Habitats strongly influenced or created by man
+XCB10;;;X Habitats strongly influenced or created by man
+XCB11;;;X Habitats strongly influenced or created by man
+XCC01;;;X Habitats strongly influenced or created by man
+XCC02;;;X Habitats strongly influenced or created by man
+XCC03;;;X Habitats strongly influenced or created by man
+XCC04;;;X Habitats strongly influenced or created by man
+XCD01;;;T3.3 Narrow-leaved dry grasslands
+XCE01;;;X Habitats strongly influenced or created by man
+XCE02;;;X Habitats strongly influenced or created by man
+XCE03;;;X Habitats strongly influenced or created by man
+XCE04;;;X Habitats strongly influenced or created by man
+XDA01;;;M7 Herbaceous fringes of lowland rivers
+XDA02;;;M7 Herbaceous fringes of lowland rivers
+XDA03;;;X Habitats strongly influenced or created by man
+XDA04;;;X Habitats strongly influenced or created by man
+XDB01;;;M5 Petasites fringes of montane brooks
+XDB02;;;M5 Petasites fringes of montane brooks
+XDC01;;;X7 Herbaceous ruderal vegetation outside human settlements
+XDC02;;;X7 Herbaceous ruderal vegetation outside human settlements
+XDC03;;;S4.1 Tall-forb vegetation of fi ne-soil-rich boulder screes
+XDC04;;;T1.10 Vegetation of wet disturbed soils
+XDC05;;;X7 Herbaceous ruderal vegetation outside human settlements
+XDD01;;;X Habitats strongly influenced or created by man
+XDD02;;;X Habitats strongly influenced or created by man
+XDD03;;;X Habitats strongly influenced or created by man
+XDE01;;;X Habitats strongly influenced or created by man
+XDE02;;;X Habitats strongly influenced or created by man
+XDE03;;;X Habitats strongly influenced or created by man
+XDE04;;;X Habitats strongly influenced or created by man
+XDE05;;;X Habitats strongly influenced or created by man
+XDE06;;;X Habitats strongly influenced or created by man
+XDE07;;;X Habitats strongly influenced or created by man
+XDE08;;;X Habitats strongly influenced or created by man
+XDE09;;;X Habitats strongly influenced or created by man
+XDE10;;;X Habitats strongly influenced or created by man
+XDF01;;;X Habitats strongly influenced or created by man
+XEA01;;;X10 Forest clearings
+XEA02;;;X10 Forest clearings
+XEA03;;;X10 Forest clearings
+XEA04;;;X10 Forest clearings
+XEA05;;;X10 Forest clearings
+XEA06;;;X10 Forest clearings
+XEA07;;;X10 Forest clearings

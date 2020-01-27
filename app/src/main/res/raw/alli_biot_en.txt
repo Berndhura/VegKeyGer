@@ -1,0 +1,138 @@
+AAA;;;A2.1 Alpine heathlands
+ABA;;;A1.1 Wind-swept alpine grasslands, A6 Acidophilous vegetation of alpine cliffs and boulder screes
+ABB;;;A1.2 Closed alpine grasslands, A3 Snow beds
+ACA;;;A5 Cliff vegetation in the Sudeten cirques
+ADA;;;A4.1 Subalpine tall grasslands
+ADB;;;A4.1 Subalpine tall grasslands
+ADC;;;A8.2 Subalpine deciduous tall scrub
+ADD;;;A4.2 Subalpine tall-forb vegetation, A8.1 <i>Salix lapponum</i> subalpine scrub
+ADE;;;A4.3 Subalpine tall-fern vegetation
+TAA;;;M2.4 Vegetation of annual halophilous grasses
+TBA;;;T7 Inland salt marshes
+TCA;;;T7 Inland salt marshes
+TCB;;;T7 Inland salt marshes
+TDA;;;T1.1 Mesic <i>Arrhenatherum</i> meadows
+TDB;;;T1.2 Montane <i>Trisetum</i> meadows
+TDC;;;T1.3 <i>Cynosurus</i> pastures, X5 Intensively managed meadows, X7 Herbaceous ruderal vegetation outside human settlements
+TDD;;;T1.9 Intermittently wet <i>Molinia</i> meadows
+TDE;;;T1.4 Alluvial <i>Alopecurus</i> meadows, T1.7 Continental inundated meadows, T1.8 Continental tall-forb vegetation
+TDF;;;T1.5 Wet <i>Cirsium</i> meadows, T1.6 Wet <i>Filipendula</i> grasslands, R1.1 Meadow springs with tufa formation, X7 Herbaceous ruderal vegetation outside human settlements
+TEA;;;T2.1 Subalpine <i>Nardus</i> grasslands, A1.2 Closed alpine grasslands
+TEB;;;T2.2 Montane <i>Nardus</i> grasslands with alpine species
+TEC;;;T2.3 Submontane and montane <i>Nardus</i> grasslands
+TED;;;T2.3 Submontane and montane <i>Nardus</i> grasslands
+TEE;;;T8.1 Dry lowland and colline heaths
+TEF;;;T8.2 Secondary submontane and montane heaths), T8.3 <i>Vaccinium</i> vegetation of cliffs and boulder screes, (S1.3 Tall grasslands on rock ledges, A2.2 Subalpine <i>Vaccinium</i> vegetation
+TFA;;;T5.2 Open sand grasslands with <i>Corynephorus canescens</i>
+TFB;;;T5.1 Annual vegetation on sandy soils
+TFC;;;T5.3 <i>Festuca</i> sand grasslands
+TFD;;;T3.5 Acidophilous dry grasslands, T5.5 Acidophilous grasslands on shallow soils, T6.1 Acidophilous vegetation of vernal therophytes and succulents
+TFE;;;T6.1 Acidophilous vegetation of vernal therophytes and succulents
+TFF;;;T6.2 Basiphilous vegetation of vernal therophytes and succulents
+TGA;;;T5.4 Pannonian sand steppe grasslands
+THA;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THB;;;T3.1 Rock-outcrop vegetation with <i>Festuca pallens</i>
+THC;;;T3.2 <i>Sesleria</i> grasslands
+THD;;;T3.3 Narrow-leaved dry grasslands
+THE;;;T3.4 Broad-leaved dry grasslands
+THF;;;T3.4 Broad-leaved dry grasslands
+THG;;;T3.5 Acidophilous dry grasslands
+THH;;;T4.1 Dry herbaceous fringes
+THI;;;T4.2 Mesic herbaceous fringes
+XAA;;;X Habitats strongly influenced or created by man
+XAB;;;X Habitats strongly influenced or created by man
+XBA;;;X Habitats strongly influenced or created by man
+XBB;;;X Habitats strongly influenced or created by man
+XBC;;;X Habitats strongly influenced or created by man
+XBD;;;X Habitats strongly influenced or created by man
+XBE;;;X Habitats strongly influenced or created by man
+XBF;;;X Habitats strongly influenced or created by man
+XBG;;;X Habitats strongly influenced or created by man
+XBH;;;X Habitats strongly influenced or created by man
+XBI;;;X Habitats strongly influenced or created by man
+XBJ;;;T5.1 Annual vegetation on sandy soils, X Habitats strongly influenced or created by man
+XBK;;;X Habitats strongly influenced or created by man
+XCA;;;X Habitats strongly influenced or created by man
+XCB;;;X Habitats strongly influenced or created by man
+XCC;;;X Habitats strongly influenced or created by man
+XCD;;;T3.3 Narrow-leaved dry grasslands
+XCE;;;X Habitats strongly influenced or created by man
+XDA;;;M7 Herbaceous fringes of lowland rivers, X Habitats strongly influenced or created by man
+XDB;;;M5 Petasites fringes of montane brooks
+XDC;;;S4.1 Tall-forb vegetation of fine-soil-rich boulder screes, T1.10 Vegetation of wet disturbed soils, X7 Herbaceous ruderal vegetation outside human settlements
+XDD;;;X Habitats strongly influenced or created by man
+XDE;;;X Habitats strongly influenced or created by man
+XDF;;;X Habitats strongly influenced or created by man
+XEA;;;X10 Forest clearings
+SAA;;;S1.1 Chasmophytic vegetation of calcareous cliffs and boulder screes
+SAB;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAC;;;S1.2 Chasmophytic vegetation of siliceous cliffs and boulder screes
+SAD;;;A6 Acidophilous vegetation of alpine cliffs and boulder screes
+SBA;;;X1 Urbanized areas, X7 Herbaceous ruderal vegetation outside human settlements
+SCA;;;S2 Mobile screes
+SCB;;;S2 Mobile screes
+VAA;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAB;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VAC;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBA;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBB;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters
+VBC;;;V4 Macrophyte vegetation of water streams
+VBD;;;V1 Macrophyte vegetation of naturally eutrophic and mesotrophic still waters, V2 Macrophyte vegetation of shallow still waters
+VCA;;;V5 <i>Charophyceae</i> vegetation
+VCB;;;V5 <i>Charophyceae</i> vegetation
+VDA;;;V6 <i>Isoëtes</i> vegetation
+VDB;;;M3 Vegetation of perennial amphibious herbs
+VDC;;;V3 Macrophyte vegetation of oligotrophic lakes and pools
+MAA;;;M2.1 Vegetation of exposed fishpond bottoms, M2.2 Annual vegetation on wet sand
+MAB;;;M2.2 Annual vegetation on wet sand
+MAC;;;M2.3 Vegetation of exposed bottoms in warm areas
+MBA;;;M6 Muddy river banks, M2.1 Vegetation of exposed fishpond bottoms, X7 Herbaceous ruderal vegetation outside human settlements
+MBB;;;M6 Muddy river banks, M2.1 Vegetation of exposed fishpond bottoms, X7 Herbaceous ruderal vegetation outside human settlements
+MCA;;;M1.1 Reed beds of eutrophic still waters, V4 Macrophyte vegetation of water streams
+MCB;;;M1.2 Halophilous reed and sedge beds
+MCC;;;M1.3 Eutrophic vegetation of muddy substrata, V4 Macrophyte vegetation of water streams, X3 Extensively managed fields
+MCD;;;M1.4 Riverine reed vegetation, M1.7 Tall-sedge beds, M4.3 River gravel banks with <i>Calamagrostis pseudophragmites</i>
+MCE;;;M1.5 Reed vegetation of brooks
+MCF;;;M1.6 Mesotrophic vegetation of muddy substrata
+MCG;;;M1.7 Tall-sedge beds, M1.8 Calcareous fens with <i>Cladium mariscus</i>
+MCH;;;M1.7 Tall-sedge beds
+RAA;;;R1.4 Forest springs without tufa formation
+RAB;;;R1.3 Forest springs with tufa formation
+RAC;;;R1.2 Meadow springs without tufa formation, R1.5 Subalpine springs
+RAD;;;R1.5 Subalpine springs
+RBA;;;R2.1 Calcareous fens, R1.1 Meadow springs with tufa formation
+RBB;;;R2.2 Acidic moss-rich fens, R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RBC;;;R2.2 Acidic moss-rich fens, R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RBD;;;R2.3 Transitional mires, R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RBE;;;R3.3 Bog hollows, R2.4 Peatsoils with <i>Rhynchospora alba</i>
+RCA;;;R3.1 Open raised bogs, R3.4 Degraded raised bogs, R3.2 Raised bogs with <i>Pinus mugo</i>, L10.3 Pine forests of continental mires with <i>Eriophorum</i>, L10.4 <i>Pinus rotundata</i> bog forests
+RCB;;;R3.1 Open raised bogs, R3.4 Degradovaná vrchoviště
+RCC;;;R3.1 Open raised bogs, R3.4 Degradovaná vrchoviště
+KAA;;;K2.1 Willow scrub of loamy and sandy river banks, L2.2 Ash-alder alluvial forests
+KAB;;;K2.2 Willow scrub of river gravel banks, M4.2 River gravel banks with <i>Myricaria germanica</i>
+KAC;;;L2.4 Willow-poplar forests of lowland rivers, K2.1 Willow scrub of loamy and sandy river banks, L2.2 Ash-alder alluvial forests
+KBA;;;K4 Low xeric scrub
+KBB;;;K3 Tall mesic and xeric scrub
+KBC;;;S1.5 <i>Ribes alpinum</i> scrub on cliffs and boulder screes, X12 Stands of early successional woody species, X10 Forest clearings
+KBD;;;X8 Scrub with ruderal or alien species
+KBE;;;X9B Forest plantations of allochtonous deciduous trees
+KBF;;;X9B Forest plantations of allochtonous deciduous trees
+KBG;;;X9B Forest plantations of allochtonous deciduous trees
+KCA;;;A7 <i>Pinus mugo</i> scrub
+LAA;;;L1 Alder carrs
+LAB;;;K1 Willow carrs
+LBA;;;L2.1 Montane grey alder galleries, L2.2 Ash-alder alluvial forests, L2.3 Hardwood forests of lowland rivers
+LBB;;;L3.1 Hercynian oak-hornbeam forests, L3.3 Carpathian oak-hornbeam forests, L3.4 Pannonian oak-hornbeam forests, L3.2 Polonian oak-hornbeam forests
+LBC;;;L5.1 Herb-rich beech forests, L5.2 Montane sycamore-beech forests
+LBD;;;L5.3 Limestone beech forests
+LBE;;;L5.4 Acidophilous beech forests
+LBF;;;L4 Ravine forests
+LCA;;;L6.1 Peri-Alpidic basiphilous thermophilous oak forests
+LCB;;;L6.2 Pannonian thermophilous oak forests on loess, L6.3 Pannonian thermophilous oak forests on sand
+LCC;;;L6.4 Central European basiphilous thermophilous oak forests, L6.5 Acidophilous thermophilous oak forests
+LDA;;;L7.1 Dry acidophilous oak forests, L7.2 Wet acidophilous oak forests, L7.3 Subcontinental pine-oak forests, L7.4 Acidophilous oak forests on sand
+LEA;;;L8.3 Peri-Alpidic serpentine pine forests
+LFA;;;L8.2 Forest-steppe pine forests
+LFB;;;L8.1 Boreo-continental pine forests, L10.2 Pine mire forests with <i>Vaccinium</i>, L10.4 <i>Pinus rotundata</i> bog forests
+LFC;;;L9.1 Montane <i>Calamagrostis</i> spruce forests, L9.2 Bog and waterlogged spruce forests, L9.3 Montane <i>Athyrium</i> spruce forests
+LFD;;;L10.1 Birch mire forests, L10.2 Pine mire forests with <i>Vaccinium</i>, L10.4 Pinus rotundata bog forests, L9.2A Bog spruce forests

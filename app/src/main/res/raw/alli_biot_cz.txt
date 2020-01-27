@@ -1,0 +1,138 @@
+AAA;;;A2.1 Alpínská vřesoviště
+ABA;;;A1.1 Vyfoukávané alpínské trávníky, A6 Acidofilní vegetace alpínských skal a drolin
+ABB;;;A1.2 Zapojené alpínské trávníky, A3 Sněhová vyležiska
+ACA;;;A5 Skalní vegetace sudetských karů
+ADA;;;A4.1 Subalpínské vysokostébelné trávníky
+ADB;;;A4.1 Subalpínské vysokostébelné trávníky
+ADC;;;A8.2 Vysoké subalpínské listnaté křoviny
+ADD;;;A4.2 Subalpínské vysokobylinné nivy, A8.1 Subalpínské křoviny s vrbou laponskou (<i>Salix lapponum</i>)
+ADE;;;A4.3 Subalpínské kapradinové nivy
+TAA;;;M2.4 Vegetace jednoletých slanomilných trav
+TBA;;;T7 Slaniska
+TCA;;;T7 Slaniska
+TCB;;;T7 Slaniska
+TDA;;;T1.1 Mezofilní ovsíkové louky
+TDB;;;T1.2 Horské trojštětové louky
+TDC;;;T1.3 Poháňkové pastviny, X5 Intenzivně obhospodařované louky, X7 Ruderální bylinná vegetace mimo sídla
+TDD;;;T1.9 Střídavě vlhké bezkolencové louky
+TDE;;;T1.4 Aluviální psárkové louky, T1.7 Kontinentální zaplavované louky, T1.8 Kontinentální vysokobylinná vegetace
+TDF;;;T1.5 Vlhké pcháčové louky, R1.1 Luční pěnovcová prameniště, T1.6 Vlhká tužebníková lada, X7 Ruderální bylinná vegetace mimo sídla
+TEA;;;T2.1 Subalpínské smilkové trávníky, A1.2 Zapojené alpínské trávníky
+TEB;;;T2.2 Horské smilkové trávníky s alpínskými druhy
+TEC;;;T2.3 Podhorské a horské smilkové trávníky
+TED;;;T2.3 Podhorské a horské smilkové trávníky
+TEE;;;T8.1 Suchá vřesoviště nížin a pahorkatin
+TEF;;;T8.2 Sekundární podhorská a horská vřesoviště, T8.3 Brusnicová vegetace skal a drolin, S1.3 Vysokostébelné trávníky skalních terásek, A2.2 Subalpínská brusnicová vegetace
+TFA;;;T5.2 Otevřené trávníky písčin s paličkovcem šedavým (<i>Corynephorus canescens</i>)
+TFB;;;T5.1 Jednoletá vegetace písčin
+TFC;;;T5.3 Kostřavové trávníky písčin
+TFD;;;T5.5 Acidofilní trávníky mělkých půd
+TFE;;;T6.1 Acidofilní vegetace efemér a sukulentů
+TFF;;;T6.2 Bazifilní vegetace efemér a sukulentů
+TGA;;;T5.4 Panonské stepní trávníky na písku
+THA;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THB;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THC;;;T3.2 Pěchavové trávníky
+THD;;;T3.3 Úzkolisté suché trávníky
+THE;;;T3.4 Širokolisté suché trávníky
+THF;;;T3.4 Širokolisté suché trávníky
+THG;;;T3.5 Acidofilní suché trávníky
+THH;;;T4.1 Suché bylinné lemy
+THI;;;T4.2 Mezofilní bylinné lemy
+XAA;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBA;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBB;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBC;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBD;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBE;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBF;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBH;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBJ;;;T5.1 Jednoletá vegetace písčin, X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBK;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCA;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCC;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCD;;;T3.3 Úzkolisté suché trávníky, X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCE;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDA;;;M7 Bylinné lemy nížinných řek, X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDB;;;M5 Devětsilové lemy horských potoků
+XDC;;;S1.4 Vysokobylinná vegetace zazemněných drolin, T1.10 Vegetace vlhkých narušovaných půd, X7 Ruderální bylinná vegetace mimo sídla
+XDD;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDF;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XEA;;;X10 Lesní paseky a holiny
+SAA;;;S1.1 Štěrbinová vegetace vápnitých skal a drolin
+SAB;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAC;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAD;;;A6 Acidofilní vegetace alpínských skal a drolin
+SBA;;;X1 Urbanizovaná území
+SCA;;;S2 Pohyblivé sutě
+SCB;;;S2 Pohyblivé sutě
+VAA;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAB;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAC;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBC;;;V4 Makrofytní vegetace vodních toků
+VBD;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod, V2 Makrofytní vegetace mělkých stojatých vod
+VCA;;;V5 Vegetace parožnatek
+VCB;;;V5 Vegetace parožnatek
+VDA;;;V6 Vegetace šídlatek (<i>Isoëtes</i>)
+VDB;;;M3 Vegetace vytrvalých obojživelných bylin
+VDC;;;V3 Makrofytní vegetace oligotrofních jezírek a tůní
+MAA;;;M2.1 Vegetace letněných rybníků, M2.2 Jednoletá vegetace vlhkých písků
+MAB;;;M2.2 Jednoletá vegetace vlhkých písků
+MAC;;;M2.3 Vegetace obnažených den teplých oblastí
+MBA;;;M6 Bahnité říční náplavy, M2.1 Vegetace letněných rybníků, X7 Ruderální bylinná vegetace mimo sídla
+MBB;;;M6 Bahnité říční náplavy, M2.1 Vegetace letněných rybníků, X7 Ruderální bylinná vegetace mimo sídla
+MCA;;;M1.1 Rákosiny eutrofních stojatých vod
+MCB;;;M1.2 Slanomilné rákosiny a ostřicové porosty
+MCC;;;M1.3 Eutrofní vegetace bahnitých substrátů, V4 Makrofytní vegetace vodních toků, X3 Extenzivně obhospodařovaná pole
+MCD;;;M1.4 Říční rákosiny, M1.7 Vegetace vysokých ostřic, M4.3 Štěrkové náplavy s třtinou pobřežní (<i>Calamagrostis pseudophragmites</i>)
+MCE;;;M1.5 Pobřežní vegetace potoků
+MCF;;;M1.6 Mezotrofní vegetace bahnitých substrátů
+MCG;;;M1.7 Vegetace vysokých ostřic, M1.8 Vápnitá slatiniště s mařicí pilovitou (<i>Cladium mariscus</i>)
+MCH;;;M1.7 Vegetace vysokých ostřic
+RAA;;;R1.4 Lesní prameniště bez tvorby pěnovců
+RAB;;;R1.3 Lesní pěnovcová prameniště
+RAC;;;R1.2 Luční prameniště bez tvorby pěnovců, R1.5 Subalpínská prameniště
+RAD;;;R1.5 Subalpínská prameniště
+RBA;;;R2.1 Vápnitá slatiniště, R1.1 Luční pěnovcová prameniště
+RBB;;;R2.2 Nevápnitá mechová slatiniště, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBC;;;R2.2 Nevápnitá mechová slatiniště, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBD;;;R2.3 Přechodová rašeliniště, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBE;;;R3.3 Vrchovištní šlenky, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RCA;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště, R3.2 Vrchoviště s klečí (<i>Pinus mugo</i>), L10.3 Suchopýrové bory kontinentálních rašelinišť, L10.4 Blatkové bory
+RCB;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+RCC;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+KAA;;;K2.1 Vrbové křoviny hlinitých a písčitých náplavů, L2.2 Údolní jasanovo-olšové luhy
+KAB;;;K2.2 Vrbové křoviny štěrkových náplavů, M4.2 Štěrkové náplavy s židoviníkem německým (<i>Myricaria germanica</i>)
+KAC;;;L2.4 Měkké luhy nížinných řek, K2.1 Vrbové křoviny hlinitých a písčitých náplavů, L2.2 Údolní jasanovo-olšové luhy
+KBA;;;K4 Nízké xerofilní křoviny
+KBB;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBC;;;S1.5 Křoviny skal a drolin s rybízem alpínským (<i>Ribes alpinum</i>), X12 Nálety pionýrských dřevin, Х10 Lesní paseky a holiny
+KBD;;;X8 Křoviny s ruderálními a nepůvodními druhy
+KBE;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KBF;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KBG;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KCA;;;A7 Kosodřevina
+LAA;;;L1 Mokřadní olšiny
+LAB;;;K1 Mokřadní vrbiny
+LBA;;;L2.1 Horské olšiny s olší šedou (<i>Alnus incana</i>), L2.2 Údolní jasanovo-olšové luhy, L2.3 Tvrdé luhy nížinných řek
+LBB;;;L3.1 Hercynské dubohabřiny, L3.3 Karpatské dubohabřiny, L3.4 Panonské dubohabřiny, L3.2 Polonské dubohabřiny
+LBC;;;L5.1 Květnaté bučiny, L5.2 Horské klenové bučiny
+LBD;;;L5.3 Vápnomilné bučiny
+LBE;;;L5.4 Acidofilní bučiny
+LBF;;;L4 Suťové lesy
+LCA;;;L6.1 Perialpidské bazifilní teplomilné doubravy
+LCB;;;L6.2 Panonské teplomilné doubravy na spraši, L6.3 Panonské teplomilné doubravy na písku
+LCC;;;L6.4 Středoevropské bazifilní teplomilné doubravy, L6.5 Acidofilní teplomilné doubravy
+LDA;;;L7.1 Suché acidofilní doubravy, L7.2 Vlhké acidofilní doubravy, L7.3 Subkontinentální borové doubravy, L7.4 Acidofilní doubravy na písku
+LEA;;;L8.3 Perialpidské hadcové bory
+LFA;;;L8.2 Lesostepní bory
+LFB;;;L8.1 Boreokontinentální bory, L10.2 Rašelinné brusnicové bory, L10.4 Blatkové bory
+LFC;;;L9.1 Horské třtinové smrčiny, L9.2 Rašelinné a podmáčené smrčiny, L9.3 Horské papratkové smrčiny
+LFD;;;L10.1 Rašelinné březiny, L10.2 Rašelinné brusnicové bory, L10.4 Blatkové bory, L9.2A Rašelinné smrčiny

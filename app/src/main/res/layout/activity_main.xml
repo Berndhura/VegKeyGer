@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    tools:context=".MainActivity"
+
+    tools:layout_editor_absoluteY="25dp">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/db1_root"
+        android:background="@drawable/tema_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:gravity="center|bottom"
+            android:padding="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:gravity="left|bottom"
+                android:text="@string/main_region"
+                android:shadowColor="#000000"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:textSize="13dp"
+                />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:paddingHorizontal="10dp"
+                android:gravity="center|bottom"
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:shadowColor="#000000"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:text="@string/main_region_text" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:gravity="left|bottom"
+                android:text="@string/main_source"
+                android:shadowColor="#000000"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:textSize="13dp"
+                />
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textAlignment="gravity"
+                android:paddingHorizontal="10dp"
+                android:gravity="left|bottom"
+                android:textColor="#FFFFFF"
+                android:textSize="13dp"
+                android:shadowColor="#000000"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:text="@string/main_source_text" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center|bottom"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button3"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:layout_weight="1"
+                    android:shadowColor="#FFFFFF"
+                    android:shadowDx="1.5"
+                    android:shadowDy="1.3"
+                    android:shadowRadius="1.6"
+                    android:text="@string/main_button1"
+                    android:textAllCaps="false"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                    android:id="@+id/button4"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:src="@drawable/cogwheel2"
+                    android:shadowColor="#FFFFFF"
+                    android:shadowDx="1.5"
+                    android:shadowDy="1.3"
+                    android:shadowRadius="1.6"
+                    android:text=""
+                    android:textAllCaps="false"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|bottom"
+                android:shadowColor="#FFFFFF"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:textSize="18dp"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                style="@style/Widget.AppCompat.Button"
+                android:text="@string/Main_button2" />
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,138 @@
+AAA;;;alpínská keříčková vegetace
+ABA;;;vyfoukávané alpínské trávníky
+ABB;;;zapojené alpínské trávníky
+ACA;;;květnaté skalní trávníky sudetských karů
+ADA;;;subalpínské vysokostébelné trávníky
+ADB;;;subalpínské trávníky s třtinou rákosovitou
+ADC;;;subalpínské listnaté křoviny
+ADD;;;subalpínské vysokobylinné nivy
+ADE;;;subalpínská kapradinová vegetace
+KAA;;;pobřežní keřové vrbiny nedivočících řek
+KAB;;;křoviny štěrkových lavic divočících řek
+KAC;;;měkké, vrbotopolové luhy
+KBA;;;nízké stepní křoviny
+KBB;;;mezofilní a suché křoviny nelesního prostředí
+KBC;;;mezofilní křoviny pasek, lesních světlin a narušovaných stanovišť
+KBD;;;nitrofilní křoviny ruderálních stanovišť
+KBE;;;mezofilní akátiny s nitrofilními druhy
+KBF;;;akátiny suchých písčitých půd
+KBG;;;nízké akátiny suchých a teplých stanovišť s mělkou půdou
+KCA;;;hercynsko-karpatská klečová vegetace
+LAA;;;mokřadní olšiny
+LAB;;;mokřadní vrbiny
+LBA;;;údolní jasanovo-olšové luhy a tvrdé luhy nížinných řek
+LBB;;;dubohabrové háje
+LBC;;;květnaté bučiny a jedliny
+LBD;;;vápnomilné bučiny
+LBE;;;acidofilní bučiny a jedliny
+LBF;;;suťové a skalní lesy
+LCA;;;submediteránní bazifilní teplomilné doubravy
+LCB;;;subkontinentální lesostepní doubravy
+LCC;;;acidofilní teplomilné doubravy
+LDA;;;západoevropské a středoevropské acidofilní doubravy
+LEA;;;středoevropské bazifilní podhorské bory
+LFA;;;bazifilní kontinentální bory
+LFB;;;acidofilní boreokontinentální bory
+LFC;;;středoevropské acidofilní smrčiny
+LFD;;;rašelinné lesy
+MAA;;;vegetace nízkých jednoletých travin a bylin na obnažených dnech rybníků
+MAB;;;vegetace drobných jednoletých rostlin na vlhkých píscích
+MAC;;;jednoletá vegetace minerálně bohatých obnažených den v teplých oblastech
+MBA;;;nitrofilní vegetace obnažených den a vlhkých ruderálních stanovišť
+MBB;;;nitrofilní vegetace jednoletých merlíků a lebed na vlhkých místech
+MCA;;;sladkovodní rákosiny
+MCB;;;kontinentální brakické rákosiny
+MCC;;;vegetace mohutných bažinných bylin v periodicky vysychajících vodách
+MCD;;;rákosiny a ostřicové porosty podél tekoucích vod
+MCE;;;nízké potoční rákosiny a plaury
+MCF;;;vegetace bažinných bylin na nezpevněných organických substrátech
+MCG;;;vegetace vysokých ostřic v litorálu oligotrofních a mezotrofních vod
+MCH;;;vegetace vysokých ostřic v litorálu eutrofních vod
+RAA;;;vegetace nevápnitých lesních pramenišť
+RAB;;;vegetace vápnitých lesních pramenišť
+RAC;;;vegetace subatlantských podhorských nelesních pramenišť
+RAD;;;vegetace nevápnitých alpínských a subalpínských pramenišť
+RBA;;;vápnitá slatiniště
+RBB;;;slatiniště s kalcikolními druhy a kalcitolerantními rašeliníky
+RBC;;;mírně kyselá rašeliniště a rašelinné louky
+RBD;;;přechodová rašeliniště
+RBE;;;vegetace vrchovištních šlenků
+RCA;;;kontinentální a subkontinentální vrchoviště
+RCB;;;oceánická a suboceánická vrchoviště
+RCC;;;boreální vrchoviště
+SAA;;;štěrbinová vegetace bazických skal
+SAB;;;štěrbinová vegetace hadcových skal
+SAC;;;štěrbinová vegetace kyselých skal
+SAD;;;vegetace silikátových sutí v subalpínském a alpínském stupni
+SBA;;;nitrofilní vegetace zdí
+SCA;;;vegetace vápnitých sutí
+SCB;;;acidofilní vegetace sutí
+TAA;;;slaniska s jednoletými halofilními travami
+TBA;;;vnitrozemská slaniska s jednoletými sukulentními halofyty
+TCA;;;vysychavé slaniskové trávníky
+TCB;;;mezofilní a vlhké slaniskové trávníky
+TDA;;;mezofilní ovsíkové a kostřavové louky
+TDB;;;horské trojštětové louky
+TDC;;;poháňkové pastviny a sešlapávané trávníky
+TDD;;;střídavě vlhké bezkolencové louky
+TDE;;;nížinné aluviální louky
+TDF;;;vlhké pcháčové louky
+TEA;;;subalpínské smilkové trávníky
+TEB;;;horské smilkové trávníky s alpínskými druhy
+TEC;;;podhorské a horské smilkové trávníky
+TED;;;vlhké smilkové louky se sítinou kostrbatou
+TEE;;;suchá vřesoviště nížin a pahorkatin
+TEF;;;podhorská až subalpínská brusnicová vřesoviště
+TFA;;;otevřené trávníky vátých písků s paličkovcem šedavým
+TFB;;;jednoletá vegetace písčin
+TFC;;;kostřavové trávníky písčin
+TFD;;;podhorská acidofílní vegetace mělkých půd
+TFE;;;teplomilná acidofilní vegetace jarních efemér
+TFF;;;bazifilní vegetace jarních efemér a sukulentů
+TGA;;;panonské písečné stepi
+THA;;;hercynská skalní vegetace s kostřavou sivou
+THB;;;panonská skalní vegetace s kostřavou sivou
+THC;;;pěchavové trávníky
+THD;;;úzkolisté suché trávníky
+THE;;;subkontinentální širokolisté suché trávníky
+THF;;;subatlantské širokolisté suché trávníky
+THG;;;acidofilní suché trávníky
+THH;;;suché bylinné lemy
+THI;;;mezofilní bylinné lemy
+VAA;;;vegetace okřehkovitých rostlin a natantních kapradin a játrovek
+VAB;;;vegetace bublinatek v mezotrofních a eutrofních vodách
+VAC;;;vegetace mohutných volně plovoucích cévnatých rostlin
+VBA;;;vegetace mohutných vzplývavých vodních rostlin
+VBB;;;vegetace převážně ponořených vodních rostlin zakořeněných ve dně
+VBC;;;vegetace makrofytů tekoucích vod
+VBD;;;vegetace vodních rostlin v mělkých, krátkodobě vysychajících vodách
+VCA;;;vegetace skleněnek a parožnatek v nevápnitých vodách
+VCB;;;vegetace parožnatek ve vápnitých a brakických vodách
+VDA;;;ponořená vegetace oligotrofních vod
+VDB;;;vegetace obojživelných rostlin v mělkých oligotrofních a mezotrofních vodách
+VDC;;;vegetace oligotrofních tůní s bublinatkami
+XAA;;;jednoletá sešlapávaná vegetace suchých stanovišť
+XAB;;;jednoletá sešlapávaná vegetace mezických stanovišť
+XBA;;;teplomilná plevelová vegetace obilných polí na bazických půdách
+XBB;;;bazifilní plevelová vegetace v kulturách okopanin
+XBC;;;plevelová vegetace obilnin na minerálně chudých půdách
+XBD;;;plevelová vegetace obilnin na živinami chudých kyselých půdách
+XBE;;;plevelová vegetace obilnin a okopanin v chladnějších oblastech
+XBF;;;vegetace polních plevelů na vysychavých písčitých půdách
+XBG;;;ruderální vegetace vzpřímených jednoletých bylin
+XBH;;;ruderální vegetace ozimých terofytních trav
+XBI;;;ruderální vegetace poléhavých terofytů na živinami bohatých půdách
+XBJ;;;jednoletá ruderální vegetace narušovaných štěrkovitých a písčitých půd
+XBK;;;pozdně letní teplomilná ruderální a plevelová vegetace písčitých půd
+XCA;;;teplomilná a suchomilná archeofytní ruderální vegetace s dvouletými a vytrvalými druhy
+XCB;;;ruderální vegetace dvouletých až víceletých druhů na mělkých kamenitých substrátech
+XCC;;;vytrvalá ruderální vegetace na suchých nebo periodicky vysychavých půdách
+XCD;;;reliktní vegetace pleistocenních sprašových stepí
+XCE;;;nitrofilní ruderální vegetace dvouletých a víceletých druhů na antropogenních substrátech
+XDA;;;nitrofilní lemy lužních lesů
+XDB;;;vegetace horských a podhorských devětsilových niv
+XDC;;;nitrofilní bylinná vegetace lesních lemů, světlin a pasek
+XDD;;;nitrofilní lemová ruderální vegetace s jednoletými a dvouletými bylinami
+XDE;;;nitrofilní ruderální vegetace vytrvalých širokolistých bylin
+XDF;;;horská nitrofilní vegetace širokolistých bylin
+XEA;;;bylinná vegetace pasek a narušovaných stanovišť v lesním prostředí

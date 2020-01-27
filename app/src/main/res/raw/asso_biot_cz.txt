@@ -1,0 +1,494 @@
+AAA01;;;A2.1 Alpínská vřesoviště
+AAA02;;;A2.1 Alpínská vřesoviště
+ABA01;;;A1.1 Vyfoukávané alpínské trávníky, A6 Acidofilní vegetace alpínských skal a drolin
+ABB01;;;A1.2 Zapojené alpínské trávníky, A3 Sněhová vyležiska
+ACA01;;;A5 Skalní vegetace sudetských karů
+ACA02;;;A5 Skalní vegetace sudetských karů
+ADA01;;;A4.1 Subalpínské vysokostébelné trávníky
+ADA02;;;A4.1 Subalpínské vysokostébelné trávníky
+ADA03;;;A4.1 Subalpínské vysokostébelné trávníky
+ADB01;;;A4.1 Subalpínské vysokostébelné trávníky
+ADC01;;;A8.2 Vysoké subalpínské listnaté křoviny
+ADC02;;;A8.2 Vysoké subalpínské listnaté křoviny
+ADD01;;;A4.2 Subalpínské vysokobylinné nivy
+ADD02;;;A8.1 Subalpínské křoviny s vrbou laponskou (<i>Salix lapponum</i>)
+ADD03;;;A4.2 Subalpínské vysokobylinné nivy
+ADD04;;;A4.2 Subalpínské vysokobylinné nivy
+ADD05;;;A4.2 Subalpínské vysokobylinné nivy
+ADE01;;;A4.3 Subalpínské kapradinové nivy
+ADE02;;;A4.3 Subalpínské kapradinové nivy
+KAA01;;;K2.1 Vrbové křoviny hlinitých a písčitých náplavů
+KAB01;;;K2.2 Vrbové křoviny štěrkových náplavů
+KAB02;;;K2.2 Vrbové křoviny štěrkových náplavů
+KAB03;;;M4.2 Štěrkové náplavy s židoviníkem německým (<i>Myricaria germanica</i>)
+KAC01;;;L2.4 Měkké luhy nížinných řek
+KAC02;;;K2.1 Vrbové křoviny hlinitých a písčitých náplavů, L2.2 Údolní jasanovo-olšové luhy
+KBA01;;;K4 Nízké xerofilní křoviny
+KBA02;;;K4 Nízké xerofilní křoviny
+KBB01;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBB02;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBB03;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBB04;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBB05;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBB06;;;K3 Vysoké mezofilní a xerofilní křoviny
+KBC01;;;S1.5 Křoviny skal a drolin s rybízem alpínským (<i>Ribes alpinum</i>)
+KBC02;;;X10 Lesní paseky a holiny
+KBC03;;;X12 Nálety pionýrských dřevin, ?10 Lesní paseky a holiny
+KBC04;;;X12 Nálety pionýrských dřevin, ?10 Lesní paseky a holiny
+KBC05;;;X12 Nálety pionýrských dřevin
+KBC06;;;X12 Nálety pionýrských dřevin
+KBD01;;;X8 Křoviny s ruderálními a nepůvodními druhy
+KBD02;;;X8 Křoviny s ruderálními a nepůvodními druhy
+KBD03;;;X8 Křoviny s ruderálními a nepůvodními druhy
+KBE01;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KBE02;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KBF01;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KBG01;;;X9B Lesní kultury s nepůvodními listnatými dřevinami
+KCA01;;;A7 Kosodřevina
+KCA02;;;A7 Kosodřevina
+LAA01;;;L1 Mokřadní olšiny
+LAA02;;;L1 Mokřadní olšiny
+LAA03;;;L1 Mokřadní olšiny
+LAB01;;;K1 Mokřadní vrbiny
+LAB02;;;K1 Mokřadní vrbiny
+LBA01;;;L2.1 Horské olšiny s olší šedou (<i>Alnus incana</i>)
+LBA02;;;L2.2 Údolní jasanovo-olšové luhy
+LBA03;;;L2.2 Údolní jasanovo-olšové luhy
+LBA04;;;L2.2 Údolní jasanovo-olšové luhy
+LBA05;;;L2.2 Údolní jasanovo-olšové luhy, L2.3 Tvrdé luhy nížinných řek
+LBA06;;;L2.3 Tvrdé luhy nížinných řek
+LBA07;;;L2.3 Tvrdé luhy nížinných řek
+LBB01;;;L3.1 Hercynské dubohabřiny
+LBB02;;;L3.1 Hercynské dubohabřiny, L3.2 Polonské dubohabřiny
+LBB03;;;L3.3 Karpatské dubohabřiny
+LBB04;;;L3.4 Panonské dubohabřiny
+LBC01;;;L5.1 Květnaté bučiny
+LBC02;;;L5.1 Květnaté bučiny
+LBC03;;;L5.1 Květnaté bučiny
+LBC04;;;L5.2 Horské klenové bučiny
+LBC05;;;L5.1 Květnaté bučiny
+LBD01;;;L5.3 Vápnomilné bučiny
+LBE01;;;L5.4 Acidofilní bučiny
+LBE02;;;L5.4 Acidofilní bučiny
+LBE03;;;L5.4 Acidofilní bučiny
+LBE04;;;L5.4 Acidofilní bučiny
+LBF01;;;L4 Suťové lesy
+LBF02;;;L4 Suťové lesy
+LBF03;;;L4 Suťové lesy
+LBF04;;;L4 Suťové lesy
+LCA01;;;L6.1 Perialpidské bazifilní teplomilné doubravy
+LCA02;;;L6.1 Perialpidské bazifilní teplomilné doubravy
+LCA03;;;L6.1 Perialpidské bazifilní teplomilné doubravy
+LCB01;;;L6.2 Panonské teplomilné doubravy na spraši
+LCB02;;;L6.3 Panonské teplomilné doubravy na písku
+LCC01;;;L6.5B Acidofilní teplomilné doubravy
+LCC02;;;L6.5A Acidofilní teplomilné doubravy
+LCC03;;;L6.4 Středoevropské bazifilní teplomilné doubravy
+LDA01;;;L7.1 Suché acidofilní doubravy
+LDA02;;;L7.1 Suché acidofilní doubravy, L7.4 Acidofilní doubravy na písku
+LDA03;;;L7.3 Subkontinentální borové doubravy
+LDA04;;;L7.2 Vlhké acidofilní doubravy
+LEA01;;;L8.3 Perialpidské hadcové bory
+LFA01;;;L8.2 Lesostepní bory
+LFB01;;;L8.1A Boreokontinentální bory, lišejníkové porosty na píscích
+LFB02;;;L8.1B Boreokontinentální bory, ostatní porosty
+LFB03;;;L8.1B Boreokontinentální bory, ostatní porosty
+LFB04;;;L8.1B Boreokontinentální bory, ostatní porosty
+LFC01;;;L9.1 Horské třtinové smrčiny
+LFC02;;;L9.3 Horské papratkové smrčiny
+LFC03;;;L9.2B Podmáčené smrčiny
+LFC04;;;L9.2B Podmáčené smrčiny
+LFD01;;;L10.1 Rašelinné březiny
+LFD02;;;L10.2 Rašelinné brusnicové bory
+LFD03;;;L10.4 Blatkové bory
+LFD04;;;L9.2A Rašelinné smrčiny
+MAA01;;;M2.1 Vegetace letněných rybníků
+MAA02;;;M2.1 Vegetace letněných rybníků
+MAA03;;;M2.2 Jednoletá vegetace vlhkých písků
+MAB01;;;M2.2 Jednoletá vegetace vlhkých písků
+MAB02;;;M2.2 Jednoletá vegetace vlhkých písků
+MAC01;;;M2.3 Vegetace obnažených den teplých oblastí
+MAC02;;;M2.3 Vegetace obnažených den teplých oblastí
+MAC03;;;M2.3 Vegetace obnažených den teplých oblastí
+MBA01;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBA02;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBA03;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBA04;;;M6 Bahnité říční náplavy, M2.1 Vegetace letněných rybníků
+MBA05;;;M6 Bahnité říční náplavy, M2.1 Vegetace letněných rybníků
+MBA06;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBB01;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBB02;;;X7 Ruderální bylinná vegetace mimo sídla
+MBB03;;;M6 Bahnité říční náplavy, X7 Ruderální bylinná vegetace mimo sídla
+MBB04;;;M2.1 Vegetace letněných rybníků
+MCA01;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA02;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA03;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA04;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA05;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA06;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA07;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA08;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA09;;;M1.1 Rákosiny eutrofních stojatých vod
+MCA10;;;M1.1 Rákosiny eutrofních stojatých vod
+MCB01;;;M1.2 Slanomilné rákosiny a ostřicové porosty
+MCB02;;;M1.2 Slanomilné rákosiny a ostřicové porosty
+MCC01;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC02;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC03;;;M1.3 Eutrofní vegetace bahnitých substrátů, V4 Makrofytní vegetace vodních toků
+MCC04;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC05;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC06;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC07;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC08;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC09;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCC10;;;M1.3 Eutrofní vegetace bahnitých substrátů, V4 Makrofytní vegetace vodních toků
+MCC11;;;X3 Extenzivně obhospodařovaná pole, M1.3 Eutrofní vegetace bahnitých substrátů
+MCC12;;;M1.3 Eutrofní vegetace bahnitých substrátů
+MCD01;;;M1.4 Říční rákosiny
+MCD02;;;M1.4 Říční rákosiny, M1.7 Vegetace vysokých ostřic
+MCD03;;;M4.3 Štěrkové náplavy s třtinou pobřežní (<i>Calamagrostis pseudophragmites</i>)
+MCE01;;;M1.5 Pobřežní vegetace potoků
+MCE02;;;M1.5 Pobřežní vegetace potoků
+MCE03;;;M1.5 Pobřežní vegetace potoků
+MCE04;;;M1.5 Pobřežní vegetace potoků
+MCE05;;;M1.5 Pobřežní vegetace potoků
+MCF01;;;M1.6 Mezotrofní vegetace bahnitých substrátů
+MCF02;;;M1.6 Mezotrofní vegetace bahnitých substrátů
+MCF03;;;M1.6 Mezotrofní vegetace bahnitých substrátů
+MCG01;;;M1.7 Vegetace vysokých ostřic
+MCG02;;;M1.7 Vegetace vysokých ostřic
+MCG03;;;M1.7 Vegetace vysokých ostřic
+MCG04;;;M1.7 Vegetace vysokých ostřic
+MCG05;;;M1.7 Vegetace vysokých ostřic
+MCG06;;;M1.7 Vegetace vysokých ostřic
+MCG07;;;M1.7 Vegetace vysokých ostřic
+MCG08;;;M1.8 Vápnitá slatiniště s mařicí pilovitou (<i>Cladium mariscus</i>)
+MCH01;;;M1.7 Vegetace vysokých ostřic
+MCH02;;;M1.7 Vegetace vysokých ostřic
+MCH03;;;M1.7 Vegetace vysokých ostřic
+MCH04;;;M1.7 Vegetace vysokých ostřic
+MCH05;;;M1.7 Vegetace vysokých ostřic
+MCH06;;;M1.7 Vegetace vysokých ostřic
+MCH07;;;M1.7 Vegetace vysokých ostřic
+MCH08;;;M1.7 Vegetace vysokých ostřic
+RAA01;;;R1.4 Lesní prameniště bez tvorby pěnovců
+RAA02;;;R1.4 Lesní prameniště bez tvorby pěnovců
+RAA03;;;R1.4 Lesní prameniště bez tvorby pěnovců
+RAB01;;;R1.3 Lesní pěnovcová prameniště
+RAC01;;;R1.2 Luční prameniště bez tvorby pěnovců, R1.5 Subalpínská prameniště
+RAD01;;;R1.5 Subalpínská prameniště
+RAD02;;;R1.5 Subalpínská prameniště
+RAD03;;;R1.5 Subalpínská prameniště
+RBA01;;;R2.1 Vápnitá slatiniště
+RBA02;;;R1.1 Luční pěnovcová prameniště
+RBA03;;;R2.1 Vápnitá slatiniště
+RBA04;;;R2.1 Vápnitá slatiniště
+RBA05;;;R2.1 Vápnitá slatiniště
+RBA06;;;R2.1 Vápnitá slatiniště
+RBB01;;;R2.2 Nevápnitá mechová slatiniště
+RBB02;;;R2.2 Nevápnitá mechová slatiniště, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBB03;;;R2.2 Nevápnitá mechová slatiniště
+RBC01;;;R2.2 Nevápnitá mechová slatiniště
+RBC02;;;R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBC03;;;R2.2 Nevápnitá mechová slatiniště
+RBC04;;;R2.2 Nevápnitá mechová slatiniště
+RBC05;;;R2.2 Nevápnitá mechová slatiniště
+RBD01;;;R2.3 Přechodová rašeliniště, R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RBD02;;;R2.3 Přechodová rašeliniště
+RBD03;;;R2.3 Přechodová rašeliniště
+RBD04;;;R2.3 Přechodová rašeliniště
+RBE01;;;R3.3 Vrchovištní šlenky
+RBE02;;;R3.3 Vrchovištní šlenky
+RBE03;;;R2.4 Zrašelinělé půdy s hrotnosemenkou bílou (<i>Rhynchospora alba</i>)
+RCA01;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+RCA02;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+RCA03;;;R3.2 Vrchoviště s klečí (<i>Pinus mugo</i>)
+RCA04;;;L10.3 Suchopýrové bory kontinentálních rašelinišť
+RCA05;;;L10.4 Blatkové bory
+RCB01;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+RCC01;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+RCC02;;;R3.1 Otevřená vrchoviště, R3.4 Degradovaná vrchoviště
+SAA01;;;S1.1 Štěrbinová vegetace vápnitých skal a drolin
+SAA02;;;S1.1 Štěrbinová vegetace vápnitých skal a drolin
+SAB01;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAB02;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAC01;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAC02;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAC03;;;S1.2 Štěrbinová vegetace silikátových skal a drolin
+SAD01;;;A6 Acidofilní vegetace alpínských skal a drolin
+SBA01;;;X1 Urbanizovaná území
+SBA02;;;X1 Urbanizovaná území
+SCA01;;;S2 Pohyblivé sutě
+SCA02;;;S2 Pohyblivé sutě
+SCA03;;;S2 Pohyblivé sutě
+SCB01;;;S2 Pohyblivé sutě
+TAA01;;;M2.4 Vegetace jednoletých slanomilných trav
+TAA02;;;M2.4 Vegetace jednoletých slanomilných trav
+TBA01;;;T7 Slaniska
+TBA02;;;T7 Slaniska
+TCA01;;;T7 Slaniska
+TCB01;;;T7 Slaniska
+TCB02;;;T7 Slaniska
+TCB03;;;T7 Slaniska
+TDA01;;;T1.1 Mezofilní ovsíkové louky
+TDA02;;;T1.1 Mezofilní ovsíkové louky
+TDA03;;;T1.1 Mezofilní ovsíkové louky
+TDA04;;;T1.1 Mezofilní ovsíkové louky
+TDB01;;;T1.2 Horské trojštětové louky
+TDB02;;;T1.2 Horské trojštětové louky
+TDB03;;;T1.2 Horské trojštětové louky
+TDC01;;;T1.3 Poháňkové pastviny
+TDC02;;;T1.3 Poháňkové pastviny
+TDC03;;;X5 Intenzivně obhospodařované louky
+TDC04;;;X7 Ruderální bylinná vegetace mimo sídla
+TDC05;;;X7 Ruderální bylinná vegetace mimo sídla
+TDD01;;;T1.9 Střídavě vlhké bezkolencové louky
+TDD02;;;T1.9 Střídavě vlhké bezkolencové louky
+TDE01;;;T1.4 Aluviální psárkové louky
+TDE02;;;T1.4 Aluviální psárkové louky
+TDE03;;;T1.7 Kontinentální zaplavované louky
+TDE04;;;T1.7 Kontinentální zaplavované louky
+TDE05;;;T1.7 Kontinentální zaplavované louky, T1.8 Kontinentální vysokobylinná vegetace
+TDF01;;;T1.5 Vlhké pcháčové louky
+TDF02;;;T1.5 Vlhké pcháčové louky, R1.1 Luční pěnovcová prameniště
+TDF03;;;T1.5 Vlhké pcháčové louky
+TDF04;;;T1.5 Vlhké pcháčové louky
+TDF05;;;T1.5 Vlhké pcháčové louky
+TDF06;;;T1.5 Vlhké pcháčové louky
+TDF07;;;T1.5 Vlhké pcháčové louky
+TDF08;;;T1.5 Vlhké pcháčové louky
+TDF09;;;T1.5 Vlhké pcháčové louky
+TDF10;;;T1.5 Vlhké pcháčové louky
+TDF11;;;X7 Ruderální bylinná vegetace mimo sídla
+TDF12;;;T1.6 Vlhká tužebníková lada
+TDF13;;;T1.6 Vlhká tužebníková lada
+TDF14;;;T1.6 Vlhká tužebníková lada
+TEA01;;;A1.2 Zapojené alpínské trávníky, T2.1 Subalpínské smilkové trávníky
+TEA02;;;T2.1 Subalpínské smilkové trávníky
+TEB01;;;T2.2 Horské smilkové trávníky s alpínskými druhy
+TEC01;;;T2.3 Podhorské a horské smilkové trávníky
+TEC02;;;T2.3 Podhorské a horské smilkové trávníky
+TED01;;;T2.3 Podhorské a horské smilkové trávníky
+TEE01;;;T8.1 Suchá vřesoviště nížin a pahorkatin
+TEF01;;;T8.2 Sekundární podhorská a horská vřesoviště, T8.3 Brusnicová vegetace skal a drolin
+TEF02;;;T8.3 Brusnicová vegetace skal a drolin (pouze porosty s dominancí <i>Vaccinium myrtillus</i>), S1.3 Vysokostébelné trávníky skalních terásek
+TEF03;;;A2.2 Subalpínská brusnicová vegetace
+TFA01;;;T5.2 Otevřené trávníky písčin s paličkovcem šedavým (<i>Corynephorus canescens</i>)
+TFA02;;;T5.2 Otevřené trávníky písčin s paličkovcem šedavým (<i>Corynephorus canescens</i>)
+TFB01;;;T5.1 Jednoletá vegetace písčin
+TFB02;;;T5.1 Jednoletá vegetace písčin
+TFC01;;;T5.3 Kostřavové trávníky písčin
+TFC02;;;T5.3 Kostřavové trávníky písčin
+TFD01;;;T5.5 Acidofilní trávníky mělkých půd
+TFD02;;;T5.5 Acidofilní trávníky mělkých půd
+TFE01;;;T6.1 Acidofilní vegetace efemér a sukulentů
+TFF01;;;T6.2 Bazifilní vegetace efemér a sukulentů
+TFF02;;;T6.2 Bazifilní vegetace efemér a sukulentů
+TGA01;;;T5.4 Panonské stepní trávníky na písku
+THA01;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THA02;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THA03;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THA04;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THB01;;;T3.1 Skalní vegetace s kostřavou sivou (<i>Festuca pallens</i>)
+THC01;;;T3.2 Pěchavové trávníky
+THC02;;;T3.2 Pěchavové trávníky
+THC03;;;T3.2 Pěchavové trávníky
+THC04;;;T3.2 Pěchavové trávníky
+THD01;;;T3.3 Úzkolisté suché trávníky
+THD02;;;T3.3 Úzkolisté suché trávníky
+THD03;;;T3.3 Úzkolisté suché trávníky
+THD04;;;T3.3 Úzkolisté suché trávníky
+THD05;;;T3.3 Úzkolisté suché trávníky
+THD06;;;T3.3 Úzkolisté suché trávníky
+THE01;;;T3.4 Širokolisté suché trávníky
+THE02;;;T3.4 Širokolisté suché trávníky
+THE03;;;T3.4 Širokolisté suché trávníky
+THE04;;;T3.4 Širokolisté suché trávníky
+THF01;;;T3.4 Širokolisté suché trávníky
+THF02;;;T3.4 Širokolisté suché trávníky
+THG01;;;T3.5 Acidofilní suché trávníky
+THG02;;;T3.5 Acidofilní suché trávníky
+THG03;;;T3.5 Acidofilní suché trávníky
+THH01;;;T4.1 Suché bylinné lemy
+THH02;;;T4.1 Suché bylinné lemy
+THH03;;;T4.1 Suché bylinné lemy
+THI01;;;T4.2 Mezofilní bylinné lemy
+THI02;;;T4.2 Mezofilní bylinné lemy
+VAA01;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA02;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA03;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA04;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA05;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA06;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA07;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA08;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA09;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA10;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAA11;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAB01;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAB02;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAC01;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAC02;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAC03;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VAC04;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA01;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA02;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA03;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA04;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA05;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA06;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBA07;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB01;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB02;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB03;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB04;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB05;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB06;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB07;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB08;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB09;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB10;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB11;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB12;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB13;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB14;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB15;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB16;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB17;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB18;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB19;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB20;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB21;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB22;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBB23;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBC01;;;V4 Makrofytní vegetace vodních toků
+VBC02;;;V4 Makrofytní vegetace vodních toků
+VBC03;;;V4 Makrofytní vegetace vodních toků
+VBD01;;;V2 Makrofytní vegetace mělkých stojatých vod
+VBD02;;;V2 Makrofytní vegetace mělkých stojatých vod
+VBD03;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VBD04;;;V2 Makrofytní vegetace mělkých stojatých vod
+VBD05;;;V2 Makrofytní vegetace mělkých stojatých vod
+VBD06;;;V2 Makrofytní vegetace mělkých stojatých vod
+VBD07;;;V1 Makrofytní vegetace přirozeně eutrofních a mezotrofních stojatých vod
+VCA01;;;V5 Vegetace parožnatek
+VCA02;;;V5 Vegetace parožnatek
+VCB01;;;V5 Vegetace parožnatek
+VCB02;;;V5 Vegetace parožnatek
+VCB03;;;V5 Vegetace parožnatek
+VCB04;;;V5 Vegetace parožnatek
+VCB05;;;V5 Vegetace parožnatek
+VDB01;;;M3 Vegetace vytrvalých obojživelných bylin
+VDB02;;;M3 Vegetace vytrvalých obojživelných bylin
+VDB03;;;M3 Vegetace vytrvalých obojživelných bylin
+VDB04;;;M3 Vegetace vytrvalých obojživelných bylin
+VDB05;;;M3 Vegetace vytrvalých obojživelných bylin
+VDC01;;;V3 Makrofytní vegetace oligotrofních jezírek a tůní
+VDC02;;;V3 Makrofytní vegetace oligotrofních jezírek a tůní
+VDC03;;;V3 Makrofytní vegetace oligotrofních jezírek a tůní
+XAA01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAA02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAA03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAA04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XAB05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBA01;;;X2 Extenzivně obhospodařovaná pole
+XBA02;;;X2 Extenzivně obhospodařovaná pole
+XBA03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBA04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBA05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBB01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBB02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBC01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBC02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBC03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBD01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBE01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBF01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG06;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG07;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG08;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG09;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG10;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG11;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG12;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBG13;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBH01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBH02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBH03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBI05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBJ01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBJ02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBJ03;;;T5.1 Jednoletá vegetace písčin
+XBK01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBK02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBK03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBK04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XBK05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCA01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCA02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCA03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB06;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB07;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB08;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB09;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB10;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCB11;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCC01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCC02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCC03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCC04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCD01;;;T3.3 Úzkolisté suché trávníky
+XCE01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCE02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCE03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XCE04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDA01;;;M7 Bylinné lemy nížinných řek
+XDA02;;;M7 Bylinné lemy nížinných řek
+XDA03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDA04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDB01;;;M5 Devětsilové lemy horských potoků
+XDB02;;;M5 Devětsilové lemy horských potoků
+XDC01;;;X7 Ruderální bylinná vegetace mimo sídla
+XDC02;;;X7 Ruderální bylinná vegetace mimo sídla
+XDC03;;;S1.4 Vysokobylinná vegetace zazemněných drolin
+XDC04;;;T1.10 Vegetace vlhkých narušovaných půd
+XDC05;;;X7 Ruderální bylinná vegetace mimo sídla
+XDD01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDD02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDD03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE02;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE03;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE04;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE05;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE06;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE07;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE08;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE09;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDE10;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XDF01;;;X Biotopy silně ovlivněné nebo vytvořené člověkem
+XEA01;;;X10 Lesní paseky a holiny
+XEA02;;;X10 Lesní paseky a holiny
+XEA03;;;X10 Lesní paseky a holiny
+XEA04;;;X10 Lesní paseky a holiny
+XEA05;;;X10 Lesní paseky a holiny
+XEA06;;;X10 Lesní paseky a holiny
+XEA07;;;X10 Lesní paseky a holiny

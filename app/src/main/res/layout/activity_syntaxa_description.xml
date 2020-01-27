@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    tools:layout_editor_absoluteY="25dp"
+    tools:context=".SyntaxaActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/db1_root"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tema"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="horizontal">
+
+                <View android:layout_height="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    />
+
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|top"
+                        android:padding="5dp"
+                        android:shadowColor="#000000"
+                        android:shadowDx="1.5"
+                        android:shadowDy="1.3"
+                        android:shadowRadius="1.6"
+                        android:text="@string/SD_title"
+                        android:textColor="#FFEE00"
+                        android:textSize="25dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textView22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|top"
+                        android:paddingHorizontal="20dp"
+                        android:shadowColor="#000000"
+                        android:shadowDx="1.5"
+                        android:shadowDy="1.3"
+                        android:shadowRadius="1.6"
+                        android:text="@string/Syntaxa_title3"
+                        android:textAlignment="center"
+                        android:textColor="#DDDDDD"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <View android:layout_height="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"/>
+
+                <ImageButton
+                    android:id="@+id/ImageButton1"
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|top"
+                    android:shadowColor="#FFFFFF"
+                    android:shadowDx="1.5"
+                    android:shadowDy="1.3"
+                    android:shadowRadius="1.6"
+                    android:src="@drawable/lupa"
+                    android:text=""
+                    android:textAllCaps="false"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:choiceMode="singleChoice"
+                android:divider="#AA8000"
+                android:dividerHeight="5px"
+                android:paddingHorizontal="20dp"
+                android:paddingTop="20dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center|bottom"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <Button
+                android:id="@+id/button4"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:shadowColor="#FFFFFF"
+                android:shadowDx="1.5"
+                android:shadowDy="1.3"
+                android:shadowRadius="1.6"
+                android:text="@string/SD_Button"
+                android:textAllCaps="false"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

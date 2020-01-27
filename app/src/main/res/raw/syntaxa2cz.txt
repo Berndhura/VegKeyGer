@@ -1,0 +1,494 @@
+AAA01;;;Alpínská vřesoviště
+AAA02;;;Skalní alpínská vřesoviště s šichou
+ABA01;;;Kostřavové alpínské trávníky s lišejníky
+ABB01;;;Smilkové alpínské trávníky
+ACA01;;;Alpínské skalní trávníky s kostřavou peřestou
+ACA02;;;Alpínské skalní trávníky s psinečkem alpským
+ADA01;;;Subalpínské bezkolencové trávníky
+ADA02;;;Subalpínské trávníky s třtinou chloupkatou
+ADA03;;;Subalpínské metlicové trávníky
+ADB01;;;Subalpínské trávníky s třtinou rákosovitou
+ADC01;;;Subalpínské křoviny s břízou karpatskou
+ADC02;;;Subalpínské jeřábovo-střemchové křoviny
+ADD01;;;Subalpínské havezové nivy
+ADD02;;;Subalpínské křoviny s vrbou laponskou
+ADD03;;;Subalpínské upolínové nivy
+ADD04;;;Subalpínské srhové nivy
+ADD05;;;Mléčivcové nivy montánního stupně
+ADE01;;;Subalpínská kapradinová vegetace s kapradí samcem
+ADE02;;;Subalpínská kapradinová vegetace s papratkou horskou
+KAA01;;;Pobřežní vrbiny s vrbou trojmužnou
+KAB01;;;Křoviny vrby šedé a lýkovcové na štěrkových lavicích divočících řek
+KAB02;;;Pobřežní vrbiny s vrbou nachovou
+KAB03;;;Křoviny židoviníku německého na štěrkových lavicích v říčních nivách
+KAC01;;;Měkké luhy s vrbou bílou
+KAC02;;;Měkké luhy s vrbou křehkou
+KBA01;;;Stepní křoviny s třešní křovitou
+KBA02;;;Stepní mandloňové křoviny
+KBB01;;;Skalníkové křoviny
+KBB02;;;Teplomilné dřínové křoviny
+KBB03;;;Teplomilné lískové křoviny
+KBB04;;;Teplomilné trnkové křoviny
+KBB05;;;Vlhké nivní trnkové křoviny
+KBB06;;;Mezofilní trnkové křoviny
+KBC01;;;Křoviny s rybízem alpínským a růží převislou
+KBC02;;;Maliníkové křoviny
+KBC03;;;Pasekové křoviny s bezem červeným
+KBC04;;;Lískové křoviny chladnějších stanovišť
+KBC05;;;Jívové vrbiny
+KBC06;;;Horské jeřábové porosty
+KBD01;;;Nitrofilní křoviny s bezem černým
+KBD02;;;Kustovnicové křoviny
+KBD03;;;Porosty javoru jasanolistého
+KBE01;;;Mezofilní akátiny s dominantními nitrofyty
+KBE02;;;Světlé acidofilní svahové akátiny s lipnicí hajní
+KBF01;;;Druhově chudé akátiny s travnatým podrostem na písčitých půdách
+KBG01;;;Nízké až keřovité akátiny teplých skalnatých strání
+KCA01;;;Subalpínské klečové porosty
+KCA02;;;Subalpínské vysokobylinné klečové porosty
+LAA01;;;Rašelinné mokřadní olšiny
+LAA02;;;Slatinné mokřadní olšiny
+LAA03;;;Mokřadní olšiny s ostřicí ostrou a skřípinou lesní
+LAB01;;;Rašelinné mokřadní vrbiny
+LAB02;;;Slatinné mokřadní vrbiny
+LBA01;;;Devětsilové olšiny s olší šedou
+LBA02;;;Smrkové olšiny
+LBA03;;;Prameništní jasanové olšiny
+LBA04;;;Potoční ptačincové olšiny
+LBA05;;;Střemchové jaseniny
+LBA06;;;Středoevropské tvrdé luhy nížinných řek
+LBA07;;;Panonské tvrdé luhy nížinných řek s jasanem úzkolistým
+LBB01;;;Hercynské mezické dubohabřiny
+LBB02;;;Suboceanické vlhké dubohabřiny
+LBB03;;;Karpatské dubohabřiny
+LBB04;;;Panonské dubohabřiny
+LBC01;;;Mezotrofní bučiny
+LBC02;;;Eutrofní bučiny
+LBC03;;;Karpatské ostřicové bučiny
+LBC04;;;Horské klenové bučiny
+LBC05;;;Květnaté jedliny
+LBD01;;;Vápnomilné bučiny
+LBE01;;;Podhorské acidofilní bučiny
+LBE02;;;Horské acidofilní bučiny
+LBE03;;;Bikové oligomezotrofní jedliny
+LBE04;;;Brusnicové oligotrofní jedliny
+LBF01;;;Suťové a skalní javorové lipiny
+LBF02;;;Suťové javorové jaseniny
+LBF03;;;Udatnové a měsíčnicové javořiny
+LBF04;;;Pěchavové skalní lipiny
+LCA01;;;Bazifilní dubové řídkolesy na mělkých suchých půdách středních a severních Čech
+LCA02;;;Bazifilní dubové řídkolesy na mělkých suchých půdách severní části Panonské oblasti
+LCA03;;;Teplomilné bazifilní doubravy na mělkých suchých půdách
+LCB01;;;Panonské sprašové doubravy
+LCB02;;;Doubravy západopanonských písčin s ostřicí doubravní
+LCC01;;;Acidofilní teplomilné doubravy na mělkých půdách
+LCC02;;;Acidofilní dubové řídkolesy s kručinkou chlupatou
+LCC03;;;Teplomilné doubravy s druhy bezkolencových luk
+LDA01;;;Mezofilní acidofilní doubravy
+LDA02;;;Suché acidofilní doubravy
+LDA03;;;Brusnicové acidofilní doubravy
+LDA04;;;Vlhké acidofilní doubravy
+LEA01;;;Hadcové bory suchých oblastí
+LFA01;;;Bazifilní kontinentální bory
+LFB01;;;Lišejníkové bory
+LFB02;;;Brusnicové bory
+LFB03;;;Suché skalní bory
+LFB04;;;Hadcové bory vlhčích oblastí
+LFC01;;;Horské třtinové smrčiny
+LFC02;;;Horské papratkové smrčiny
+LFC03;;;Vlhké přesličkové smrčiny
+LFC04;;;Vlhké rohozcové smrčiny
+LFD01;;;Rašelinné březiny
+LFD02;;;Rašelinné brusnicové bory
+LFD03;;;Blatkové brusnicové bory
+LFD04;;;Rašelinné smrčiny
+MAA01;;;Vegetace obnažených den s bahničkou vejčitou a ostřicí šáchorovitou
+MAA02;;;Vegetace obnažených den s šáchorem hnědým a šáchorem Micheliovým
+MAA03;;;Vegetace rybničních okrajů se sítinou žabí a ptačincem mokřadním
+MAB01;;;Vegetace nízkých bylin a mechorostů na vlhkých polích
+MAB02;;;Vegetace nízkých jednoletých travin na vlhkých píscích
+MAC01;;;Subhalofilní vegetace nízkých jednoletých bylin
+MAC02;;;Vegetace nízkých jednoletých bylin v polních mokřadech teplých oblastí
+MAC03;;;Teplomilná vegetace narušovaných stanovišť s polejí obecnou a blešníkem obecným
+MBA01;;;Vegetace obnažených den se šťovíkem přímořským a pryskyřníkem lítým
+MBA02;;;Vegetace letněných rybníků s dvouzubcem trojdílným a rdesnem blešníkem
+MBA03;;;Vegetace periodických mokřadů s dvouzubcem nicím
+MBA04;;;Vegetace říčních náplavů s vlhkomilnými merlíky a rdesny
+MBA05;;;Vegetace letněných rybníků s dvouzubcem paprsčitým
+MBA06;;;Vegetace obnažených den s rdesnem peprníkem
+MBB01;;;Vegetace vlhkých půd s merlíkem sivým a merlíkem červeným
+MBB02;;;Vegetace vlhkých půd s merlíkem sivým a lebedou rozprostřenou
+MBB03;;;Nitrofilní vegetace s merlíkem fíkolistým
+MBB04;;;Vegetace vlhkých půd s merlíkem slanomilným
+MCA01;;;Rákosiny se skřípincem jezerním
+MCA02;;;Rákosiny s orobincem úzkolistým
+MCA03;;;Rákosiny s orobincem širokolistým
+MCA04;;;Rákosiny s rákosem obecným
+MCA05;;;Rákosiny se zblochanem vodním
+MCA06;;;Rákosiny se zevarem vzpřímeným
+MCA07;;;Rákosiny s puškvorcem obecným
+MCA08;;;Mokřadní vegetace s přesličkou poříční
+MCA09;;;Rákosiny s orobincem stříbrošedým
+MCA10;;;Poříční rákosiny s kamyšníkem širokoplodým
+MCB01;;;Brakické rákosiny s kamyšníkem přímořským
+MCB02;;;Brakické rákosiny se skřípincem Tabernaemontanovým
+MCC01;;;Vegetace bažin s haluchou vodní
+MCC02;;;Vegetace mělkých aluviálních tůní s rukví obojživelnou
+MCC03;;;Mokřadní vegetace s šípatkou střelolistou a zevarem jednoduchým
+MCC04;;;Vegetace mělkých vod s prustkou obecnou
+MCC05;;;Mokřadní vegetace se skřípinou kořenující
+MCC06;;;Vegetace mělkých mokřadů s bahničkou mokřadní
+MCC07;;;Mokřadní vegetace s žabníkem jitrocelovým
+MCC08;;;Mokřadní vegetace s žabníkem kopinatým
+MCC09;;;Mokřadní vegetace s žabníkem trávolistým
+MCC10;;;Mokřadní vegetace se šmelem okoličnatým
+MCC11;;;Litorální vegetace sladkých vod s kamyšníky
+MCC12;;;Vegetace dočasně zaplavovaných prohlubní s kamyšníky
+MCD01;;;Poříční rákosiny s chrasticí rákosovitou
+MCD02;;;Poříční vegetace s ostřicí Buekovou
+MCD03;;;Vegetace štěrkových říčních náplavů s třtinou pobřežní
+MCE01;;;Mokřadní vegetace se zblochanem vzplývavým
+MCE02;;;Mokřadní vegetace se zblochanem řasnatým
+MCE03;;;Mokřadní vegetace s potočníkem vzpřímeným
+MCE04;;;Mokřadní vegetace s potočnicemi
+MCE05;;;Nízké rákosiny s tajničkou rýžovitou
+MCF01;;;Mokřadní vegetace s rozpukem jízlivým a ostřicí nedošáchorem
+MCF02;;;Plovoucí rákosinové ostrůvky s kapradiníkem bažinným
+MCF03;;;Mokřadní vegetace s ďáblíkem bahenním
+MCG01;;;Vegetace mezotrofních stojatých vod s ostřicí vyvýšenou
+MCG02;;;Vegetace oligotrofních stojatých vod s ostřicí zobánkatou
+MCG03;;;Vegetace oligotrofních stojatých vod s ostřicí plstnatoplodou
+MCG04;;;Vegetace oligotrofních a mezotrofních stojatých vod s ostřicí trsnatou
+MCG05;;;Vegetace oligotrofních stojatých vod s ostřicí přioblou
+MCG06;;;Vegetace oligotrofních a mezotrofních stojatých vod s ostřicí odchylnou
+MCG07;;;Mokřadní vegetace se třtinou šedavou
+MCG08;;;Vápnomilné rákosiny s mařicí pilovitou
+MCH01;;;Vegetace minerálně bohatých stojatých vod s ostřicí latnatou
+MCH02;;;Mokřadní vegetace s ostřicí ostrou
+MCH03;;;Mokřadní vegetace s ostřicí štíhlou
+MCH04;;;Mokřadní vegetace s ostřicí měchýřkatou
+MCH05;;;Mokřadní vegetace s ostřicí dvouřadou
+MCH06;;;Vegetace nížinných říčních niv s ostřicí pobřežní
+MCH07;;;Mokřadní vegetace s ostřicí liščí
+MCH08;;;Rákosiny stojatých vod a niv nížinných řek s chrasticí rákosovitou
+RAA01;;;Vegetace lesních pramenišť s ostřicí řídkoklasou
+RAA02;;;Vegetace lesních pramenišť s řeřišnicí hořkou
+RAA03;;;Vegetace subatlantských lesních pramenišť s mokrýšem vstřícnolistým
+RAB01;;;Vegetace vápnitých lesních pramenišť s převahou mechorostů
+RAC01;;;Vegetace podhorských pramenišť se zdrojovkami
+RAD01;;;Vegetace kyselých vysokohorských pramenišť s převahou mechorostů
+RAD02;;;Vegetace subalpínských pramenišť s pažitkou pobřežní a kropenáčem vytrvalým
+RAD03;;;Vegetace vysokohorských pramenišť s řeřišnicí hořkou Opizovou
+RBA01;;;Vápnitá slatiniště s ostřicí Davallovou
+RBA02;;;Slatinná pěnovcová prameniště
+RBA03;;;Karpatská vápnitá nepěnovcová slatiniště
+RBA04;;;Vápnitá nepěnovcová slatiniště s vachtou trojlistou a vysokými ostřicemi
+RBA05;;;Vápnitá slatiniště se šášinami
+RBA06;;;Iniciální sukcesní stadia vápnitých slatinišť s bahničkou chudokvětou
+RBB01;;;Minerálně bohatá slatiniště s kalcitolerantními rašeliníky
+RBB02;;;Minerálně bohatá slatiniště s rašeliníky a suchopýrkem alpským
+RBB03;;;Minerálně bohatá slatiniště s kalcitolerantními rašeliníky a boreálními ostřicemi
+RBC01;;;Mezotrofní rašelinné louky s ostřicí obecnou
+RBC02;;;Mezotrofní rašeliniště s hrotnosemenkami
+RBC03;;;Mezotrofní rašeliniště s boreálními ostřicemi
+RBC04;;;Vegetace zrašelinělých pramenišť v hercynských karech
+RBC05;;;Arkticko-alpínská rašeliniště se srpnatkou trsnatou
+RBD01;;;Trvale zamokřená přechodová rašeliniště s ostřicí zobánkatou
+RBD02;;;Přechodová rašeliniště s ostřicí plstnatoplodou
+RBD03;;;Přechodová rašeliniště s nízkými ostřicemi
+RBD04;;;Vysychavá přechodová rašeliniště s bezkolencem modrým
+RBE01;;;Vegetace šlenků s ostřicí mokřadní na hlubokých vrchovištích
+RBE02;;;Vegetace šlenků v mělkých částech horských vrchovišť
+RBE03;;;Subatlantské vrchovištní trávníky s hrotnosemenkou bílou
+RCA01;;;Koberce rašeliníku křivolistého se suchopýrem pochvatým
+RCA02;;;Bultová vegetace subkontinentálních a kontinentálních vrchovišť
+RCA03;;;Vrchoviště s klečí
+RCA04;;;Suchopýrové bory kontinentálních rašelinišť
+RCA05;;;Vrchovištní blatkové bory
+RCB01;;;Koberce rašeliníku bradavčitého se suchopýrkem trsnatým
+RCC01;;;Boreální vrchoviště se suchopýrkem trsnatým
+RCC02;;;Boreální vrchoviště s bulty rašeliníku hnědého
+SAA01;;;Vegetace stinných vápencových skal s puchýřníkem křehkým a sleziníkem zeleným
+SAA02;;;Vegetace výslunných vápencových skal se sleziníkem routičkou
+SAB01;;;Vegetace hadcových skal se sleziníkem hadcovým a sleziníkem nepravým
+SAB02;;;Vegetace hadcových skal s podmrvkou hadcovou
+SAC01;;;Vegetace výslunných silikátových skal se sleziníkem severním a kapradinkou skalní
+SAC02;;;Vegetace skal a sutí s lomikamenem trsnatým
+SAC03;;;Vegetace stinných silikátových skal s osladičem obecným
+SAD01;;;Vegetace subalpínských a alpínských silikátových sutí s jinořadcem kadeřavým
+SBA01;;;Vegetace zdí se zvěšincem zedním
+SBA02;;;Vegetace zdí s dymnivkou žlutou
+SCA01;;;Vegetace bazických osypů s bukovincem vápencovým
+SCA02;;;Vegetace bazických osypů s jednoletými druhy
+SCA03;;;Vegetace vápencových osypů se strdivkou brvitou
+SCB01;;;Vegetace silikátových osypů s jednoletými druhy
+TAA01;;;Slaniska se skrytěnkou bodlinatou
+TAA02;;;Slaniska s bahenkou šášinovitou
+TBA01;;;Slanorožcová slaniska
+TBA02;;;Solničková slaniska
+TCA01;;;Zblochancová slaniska
+TCB01;;;Slané trávníky se sítinou Gérardovou
+TCB02;;;Slané mochnové trávníky
+TCB03;;;Slaniska s ostřicí žitnou
+TDA01;;;Eutrofní ovsíkové louky
+TDA02;;;Suché ovsíkové louky
+TDA03;;;Podhorské kostřavovo-trojštětové louky
+TDA04;;;Kostřavové louky s mochnou bílou
+TDB01;;;Horské trojštětové louky s kakostem lesním
+TDB02;;;Horské knotovkové louky
+TDB03;;;Horské koprníkové louky
+TDC01;;;Jílkové pastviny
+TDC02;;;Karpatské psinečkové pastviny
+TDC03;;;Vytrvalá travinná vegetace sešlapávaných míst
+TDC04;;;Vegetace lesních cest
+TDC05;;;Vegetace sešlapávaných míst s lipnicí nízkou
+TDD01;;;Bazifilní bezkolencové louky
+TDD02;;;Acidofilní bezkolencové louky
+TDE01;;;Aluviální psárkové louky
+TDE02;;;Vlhké medyňkové louky
+TDE03;;;Vlhké kontinentální zaplavované louky
+TDE04;;;Vysychavé kontinentální zaplavované louky
+TDE05;;;Vysokobylinné kontinentální louky
+TDF01;;;Vlhké louky s pcháčem zelinným
+TDF02;;;Karpatské vlhké louky s pcháčem potočním
+TDF03;;;Acidofilní vlhké louky s pcháčem bahenním
+TDF04;;;Subatlantské acidofilní vlhké louky se sítinou ostrokvětou
+TDF05;;;Horské vlhké louky s pcháčem různolistým
+TDF06;;;Horské vlhké louky s krabilicí chlupatou
+TDF07;;;Nížinné vlhké louky s pcháčem šedým
+TDF08;;;Vlhké louky se skřípinou lesní
+TDF09;;;Vlhké louky s ostřicí trsnatou
+TDF10;;;Lada vlhkých luk s ostřicí třeslicovitou
+TDF11;;;Bazifilní vegetace vlhkých narušovaných půd s mátou dlouholistou
+TDF12;;;Bazifilní vlhká tužebníková lada s kakostem bahenním
+TDF13;;;Vlhká tužebníková lada s vrbinou obecnou
+TDF14;;;Horská vlhká tužebníková lada s krabilicí chlupatou
+TEA01;;;Druhově chudé subalpínské smilkové trávníky
+TEA02;;;Druhově bohaté subalpínské smilkové trávníky
+TEB01;;;Smilkové trávníky horského stupně Krkonoš
+TEC01;;;Mezofilní podhorské a horské smilkové trávníky
+TEC02;;;Suché podhorské a horské smilkové trávníky
+TED01;;;Vlhké smilkové louky se sítinou kostrbatou
+TEE01;;;Suchá vřesoviště nížin a pahorkatin
+TEF01;;;Podhorská a horská brusnicová vřesoviště
+TEF02;;;Brusnicová vegetace lesního stupně
+TEF03;;;Subalpínská borůvková vegetace
+TFA01;;;Subatlantské trávníky vátých písků s paličkovcem šedavým
+TFA02;;;Sarmatsko-subatlantské trávníky vátých písků s paličkovcem šedavým
+TFB01;;;Jednoletá vegetace písčin s ovsíčkem časným
+TFB02;;;Jednoletá vegetace písčin s mrvkou myším ocáskem
+TFC01;;;Sarmatské kostřavové trávníky písčin
+TFC02;;;Panonské kostřavové trávníky písčin
+TFD01;;;Vegetace skalních výchozů s chmerkem vytrvalým
+TFD02;;;Podhorské acidofílní trávníky mělkých půd
+TFE01;;;Teplomilná acidofilní vegetace efemérních rozrazilů
+TFF01;;;Bazifilní vegetace jarních efemér
+TFF02;;;Bazifilní vegetace skalních výchozů s rozchodníkem bílým
+TGA01;;;
+THA01;;;Tařicová vegetace silikátových skal
+THA02;;;Kostřavová egetace středočeských a severočeských minerálně bohatých skal
+THA03;;;Skalní vegetace s česnekem šerým horským
+THA04;;;Vegetace silikátových pahorků se smilem písečným
+THB01;;;Západopanonské skalní stepi na vápenci
+THC01;;;Suché hercynské pěchavové trávníky
+THC02;;;Suché perikarpatské pěchavové trávníky
+THC03;;;Mezofilní pěchavové trávníky
+THC04;;;Pěchavové trávníky na hadci
+THD01;;;Stepní pastviny s kostřavou walliskou a kavylem vláskovitým
+THD02;;;Středočeské a severočeské skalní stepi s kostřavou walliskou
+THD03;;;Úzkolisté suché trávníky s kostřavou žlábkatou a ostřicí nízkou
+THD04;;;Stepní vegetace s péřitými kavyly
+THD05;;;Mezofilní stepi s kavylem tenkolistým
+THD06;;;Narušované panonské sprašové stepi
+THE01;;;Širokolisté válečkové trávníky teplých oblastí
+THE02;;;Pěchavové trávníky bílých strání
+THE03;;;Panonské širokolisté suché trávníky
+THE04;;;Suché trávníky s jitrocelem přímořským
+THF01;;;Širokolisté suché trávníky mírně teplých oblastí
+THF02;;;Bělokarpatské louky
+THG01;;;Acidofilní suché trávníky teplých oblastí
+THG02;;;Acidofilní suché trávníky s kostřavou walliskou
+THG03;;;Acidofilní suché trávníky mírně teplých oblastí
+THH01;;;Lemy s kakostem krvavým
+THH02;;;Lemy s třemdavou bílou
+THH03;;;Lemy se smldníkem jelením
+THI01;;;Lemy s jetelem prostředním
+THI02;;;Lemy s černýšem hajním
+VAA01;;;Ponořená vegetace mělkých vod s okřehkem trojbrázdým
+VAA02;;;Vegetace vodní hladiny s okřehkem menším
+VAA03;;;Vegetace hladiny mělkých vod s okřehkem červeným
+VAA04;;;Vegetace vodní hladiny s okřehkem menším a závitkou mnohokořennou
+VAA05;;;Vegetace hladiny mělkých vod s okřehkem hrbatým
+VAA06;;;Vegetace hladiny mělkých vod s drobničkou bezkořennou
+VAA07;;;Vegetace vodní hladiny s nepukalkou vzplývající a závitkou mnohokořennou
+VAA08;;;Vegetace mělkých vod s azolou americkou
+VAA09;;;Ponořená vegetace mělkých vod s trhutkou plovoucí
+VAA10;;;Ponořená vegetace mělkých vod s trhutkou rýnskou
+VAA11;;;Vegetace hladiny mělkých vod s nalžovkou plovoucí
+VAB01;;;Vegetace mělkých vod s bublinatkou obecnou
+VAB02;;;Vegetace mělkých vod s bublinatkou jižní
+VAC01;;;Vodní vegetace s voďankou žabí
+VAC02;;;Vodní vegetace s řezanem pilolistým
+VAC03;;;Vegetace mělkých eutrofních vod s růžkatcem ostnitým
+VAC04;;;Vegetace mělkých vod s růžkatcem bradavčitým
+VBA01;;;Vegetace stojatých a mírně tekoucích vod se stulíkem žlutým
+VBA02;;;Vegetace eutrofních vod teplých oblastí s leknínem bílým
+VBA03;;;Vegetace mezotrofních vod chladnějších oblastí s leknínem bělostným
+VBA04;;;Vegetace oligomezotrofních vod se stulíkem malým
+VBA05;;;Vegetace mělkých eutrofních vod teplých oblastí s kotvicí plovoucí
+VBA06;;;Vegetace mělkých stojatých vod teplých oblastí s plavínem štítnatým
+VBA07;;;Vzplývavá vegetace s rdesnem obojživelným
+VBB01;;;Vodní vegetace chladnějších oblastí s rdestem vzplývavým
+VBB02;;;Vegetace mělkých vod s rdestem trávolistým
+VBB03;;;Vegetace mělkých vod s rdestem rdesnolistým
+VBB04;;;Vegetace mělkých eutrofních vod s rdestem světlým
+VBB05;;;Vegetace mezotrofních vod s rdestem prorostlým
+VBB06;;;Vodní vegetace s vodním morem kanadským
+VBB07;;;Vodní vegetace se stolístkem klasnatým
+VBB08;;;Vodní vegetace se stolístkem přeslenatým
+VBB09;;;Vegetace mělkých vod s rdestem alpským
+VBB10;;;Vegetace mezotrofních vod s rdestem hustolistým
+VBB11;;;Vegetace mírně tekoucích a stojatých vod s rdestem uzlinatým
+VBB12;;;Vodní vegetace s rdestem dlouholistým
+VBB13;;;Vodní vegetace s rdestem Zizovým
+VBB14;;;Vegetace eutrofních vod s úzkolistými rdesty a šejdračkou bahenní
+VBB15;;;Vegetace mělkých vod s rdestem vláskovitým
+VBB16;;;Vegetace brakických vod s řečankou přímořskou
+VBB17;;;Vegetace mělkých eutrofních vod s řečankou menší
+VBB18;;;Vodní vegetace s rdestem kadeřavým
+VBB19;;;Vodní vegetace s rdestem tupolistým
+VBB20;;;Vegetace stojatých a mírně tekoucích eutrofních vod s rdestem hřebenitým
+VBB21;;;Vegetace mělkých vod s rdestem maličkým nebo rdestem Berchtoldovým
+VBB22;;;Vegetace mělkých vod s rdestem ostrolistým
+VBB23;;;Vodní vegetace s rdestem hrotitým
+VBC01;;;Vegetace středních toků řek s lakušníkem vzplývavým
+VBC02;;;Vegetace horských toků se stolístkem střídavokvětým
+VBC03;;;Vegetace menších toků chladnějších oblastí s hvězdošem háčkatým
+VBD01;;;Vegetace mělkých vod vlhkých oblastí s lakušníkem vodním a lakušníkem štítnatým
+VBD02;;;Vegetace mělkých vod s lakušníkem niťolistým
+VBD03;;;Vegetace stojatých alkalických vod s lakušníkem okrouhlým
+VBD04;;;Vegetace mělkých brakických vod s lakušníkem Rionovým
+VBD05;;;Vegetace mělkých mírně slaných vod s lakušníkem Baudotovým
+VBD06;;;Vegetace mělkých tůní a struh s žebratkou bahenní
+VBD07;;;Vegetace mělkých mezotrofních vod s hvězdošem podzimním
+VCA01;;;Parožnatková vegetace s Nitella flexilis
+VCA02;;;Parožnatková vegetace s Chara braunii
+VCB01;;;Parožnatková vegetace s Chara globularis
+VCB02;;;Parožnatková vegetace s Chara hispida
+VCB03;;;Parožnatková vegetace s Chara vulgaris
+VCB04;;;Parožnatková vegetace s Tolypella glomerata
+VCB05;;;Parožnatková vegetace s Tolypella intricata
+VDB01;;;Obojživelná vegetace s pobřežnicí jednokvětou
+VDB02;;;Vegetace pobřeží mělkých vod se sítinou cibulkatou
+VDB03;;;Obojživelné trávníky bahničky jehlovité
+VDB04;;;Obojživelná vegetace s míčovkou kulkonosnou
+VDB05;;;Vegetace mělkých vod s žabníčkem vzplývavým
+VDC01;;;Vegetace tůní se zevarem nejmenším
+VDC02;;;Vegetace oligotrofních nevápnitých tůní s bublinatkami
+VDC03;;;Vegetace oligotrofních vápnitých tůní s bublinatkami
+XAA01;;;Sešlapávaná vegetace s truskavcem obecným
+XAA02;;;Teplomilná sešlapávaná vegetace s tužankou tvrdou
+XAA03;;;Nitrofilní sešlapávaná vegetace s vranožkou šupinatou
+XAA04;;;Suchomilná sešlapávaná vegetace s miličkou menší a truskavcem obecným
+XAB01;;;Sešlapávaná vegetace s úrazníkem položeným a prutníkem stříbřitým
+XAB02;;;Sešlapávaná vegetace s průtržníkem lysým
+XAB03;;;Sešlapávaná vegetace s kuřinkou červenou
+XAB04;;;Jednoleté trávníky sešlapávaných míst s lipnicí roční
+XAB05;;;Sešlapávaná vegetace s invazním heřmánkem terčovitým
+XBA01;;;Bazifilní plevelová vegetace obilných polí s dejvorcem velkoplodým
+XBA02;;;Bazifilní plevelová vegetace obilných polí s hlaváčkem letním
+XBA03;;;Bazifilní plevelová vegetace obilných polí se silenkou noční
+XBA04;;;Bazifilní plevelová vegetace obilných polí s čistcem ročním
+XBA05;;;Jarní efemérní vegetace polních plevelů na bazických půdách
+XBB01;;;Bazifilní teplomilná plevelová vegetace okopanin s laskavci
+XBB02;;;Mírně teplomilná plevelová vegetace okopanin s mléči
+XBC01;;;Acidofilní plevelová vegetace v mírně teplých oblastech s heřmánkem pravým
+XBC02;;;Acidofilní plevelová vegetace v chladných oblastech s chmerkem ročním
+XBC03;;;Jarní plevelová vegetace na kyselých půdách
+XBD01;;;Plevelová vegetace obilnin na chudých písčitých půdách
+XBE01;;;Plevelová vegetace obilnin a okopanin na neutrálních půdách
+XBF01;;;Plevelová vegetace na vysychavých písčitých půdách s teplomilnými travami
+XBG01;;;Ruderální vegetace s merlíkem bílým
+XBG02;;;Ruderální vegetace s merlíkem městským
+XBG03;;;Ruderální vegetace s lebedou lesklou
+XBG04;;;Ruderální vegetace s lebedou podlouhlolistou
+XBG05;;;Ruderální vegetace s lebedou tatarskou
+XBG06;;;Ruderální vegetace s lebedou růžovou
+XBG07;;;Ruderální vegetace s hulevníkem Loeselovým
+XBG08;;;Ruderální vegetace s úhorníkem mnohodílným
+XBG09;;;Ruderální vegetace s hulevníkem vysokým
+XBG10;;;Ruderální vegetace s hulevníkem lékařským
+XBG11;;;Ruderální vegetace s turankou kanadskou a locikou kompasovou
+XBG12;;;Ruderální vegetace s pouvou řepňolistou
+XBG13;;;Ruderální vegetace s bytelem metlatým
+XBH01;;;Ruderální trávníky s ječmenem myším
+XBH02;;;Ruderální trávníky se sveřepem jalovým
+XBH03;;;Ruderální trávníky se sveřepem střešním
+XBI01;;;Nízká ruderální vegetace se slézem přehlíženým
+XBI02;;;Nízká ruderální vegetace se slézem nizounkým
+XBI03;;;Ruderální vegetace s merlíkem zedním
+XBI04;;;Ruderální vegetace s merlíkem smrdutým
+XBI05;;;Ruderální vegetace se rmenem smrdutým
+XBJ01;;;Ruderální vegetace s merlíkem hroznovým
+XBJ02;;;Ruderální vegetace se slanobýlem draselným
+XBJ03;;;Ruderální vegetace s jitrocelem písečným
+XBK01;;;Ruderální a plevelová vegetace s miličkou menší
+XBK02;;;Ruderální a plevelová vegetace se šruchou zelnou
+XBK03;;;Ruderální trávníky s prosem vláskovitým
+XBK04;;;Ruderální trávníky s troskutem prstnatým
+XBK05;;;Plevelová vegetace s ibiškem trojdílným
+XCA01;;;Teplomilná ruderální vegetace s ostropsem trubilem
+XCA02;;;Teplomilná ruderální vegetace s jablečníkem cizím
+XCA03;;;Teplomilná ruderální vegetace s pelyňkem pravým
+XCB01;;;Ruderální vegetace s komonicí bílou a komonicí lékařskou
+XCB02;;;Teplomilná ruderální vegetace s šedivkou šedou
+XCB03;;;Teplomilná ruderální vegetace se škardou smrdutou mákolistou
+XCB04;;;Teplomilná ruderální vegetace s hořčíkem jestřábníkovitým
+XCB05;;;Ruderální vegetace obnažených ploch s podbělem lékařským
+XCB06;;;Ruderální vegetace mělkých půd s lipnicí smáčknutou a lipnicí bahenní suchobytnou
+XCB07;;;Ruderální vegetace s vratičem obecným a pelyňkem černobýlem
+XCB08;;;Ruderální vegetace s invazním bělotrnem kulatohlavým
+XCB09;;;Ruderální vegetace s invazními zlatobýly
+XCB10;;;Ruderální vegetace s invazním rukevníkem východním
+XCB11;;;Ruderální vegetace s invazní klejichou hedvábnou
+XCC01;;;Ruderální vegetace s pýrem plazivým
+XCC02;;;Ruderální vegetace se srpkem obecným
+XCC03;;;Ruderální vegetace se sveřepem bezbranným
+XCC04;;;Ruderální vegetace s vesnovkou obecnou
+XCD01;;;Reliktní vegetace obnažených sprašových svahů
+XCE01;;;Ruderální vegetace s merlíkem všedobrem a měrnicí černou
+XCE02;;;Ruderální vegetace s lopuchem plstnatým a lopuchem větším
+XCE03;;;Ruderální vegetace s bolehlavem plamatým
+XCE04;;;Ruderální vegetace s bezem chebdím
+XDA01;;;Vegetace vlhkých míst s bylinnými liánami
+XDA02;;;Vegetace vlhkých míst s vrbovkou chlupatou
+XDA03;;;Vegetace vlhkých míst s netýkavkou žláznatou
+XDA04;;;Vegetace vlhkých míst se štětincem laločnatým
+XDB01;;;Vegetace niv s devětsilem lékařským
+XDB02;;;Vegetace štěrkových náplavů s devětsilem Kablíkové
+XDC01;;;Nitrofilní lemová vegetace s netýkavkou nedůtklivou
+XDC02;;;Nitrofilní lemová vegetace s kakostem smrdutým
+XDC03;;;Vegetace suťových svahů s měsíčnicí lékařskou a udatnou lesní
+XDC04;;;Vegetace narušovaných podmáčených stanovišť s ostřicí převislou
+XDC05;;;Nitrofilní bylinná vegetace s drnavcem lékařským
+XDD01;;;Nitrofilní lemová vegetace s krabilicí mámivou
+XDD02;;;Nitrofilní lemová vegetace s tořicí japonskou
+XDD03;;;Jarní nitrofilní lemová vegetace s kerblíkem třebulí
+XDE01;;;Nitrofilní ruderální vegetace s bršlicí kozí nohou
+XDE02;;;Nitrofilní ruderální vegetace s kerblíkem lesním
+XDE03;;;Nitrofilní ruderální vegetace s krabilicí zápašnou
+XDE04;;;Nitrofilní ruderální vegetace s krabilicí zlatoplodou
+XDE05;;;Nitrofilní ruderální vegetace s krabilicí hlíznatou
+XDE06;;;Horská nitrofilní lemová vegetace s kerblíkem lesklým
+XDE07;;;Ruderální vegetace s invazní slunečnicí topinamburem
+XDE08;;;Vegetace s invazním bolševníkem velkolepým
+XDE09;;;Vegetace s invazními severoamerickými hvězdnicemi
+XDE10;;;Vegetace s invazními křídlatkami
+XDF01;;;Horská nitrofilní vegetace s invazním šťovíkem alpským
+XEA01;;;Vegetace narušovaných stanovišť se starčkem lesním a vrbovkou úzkolistou
+XEA02;;;Vegetace narušovaných stanovišť s náprstníkem červeným
+XEA03;;;Vegetace narušovaných stanovišť s třtinou rákosovitou
+XEA04;;;Vegetace narušovaných stanovišť s třtinou chloupkatou
+XEA05;;;Vegetace narušovaných stanovišť se starčkem Fuchsovým
+XEA06;;;Vegetace narušovaných stanovišť a acidofilních lemů s hasivkou orličí
+XEA07;;;Vegetace narušovaných stanovišť a stinných skal s papratkou samičí
