@@ -1,6 +1,7 @@
 # VegKeyGer
 
-1: all_coder2.txt:
+1: all_codr2.txt: in VegitationInfo
+
 AAA;;;<i>Alectoria ochroleuca, Avenella flexuosa, Carex bigelowii, Cetraria islandica, Cladonia bellidiflora, Cladonia grayi, Cladonia macilenta, Cladonia merochlorophaea, Cladonia pleurota, Cladonia uncialis, Diphasiastrum alpinum, Empetrum hermaphroditum, Festuca supina, Flavocetraria nivalis, Hieracium alpinum</i> agg.<i>, Huperzia selago, Juncus trifidus, Polytrichastrum alpinum, Racomitrium lanuginosum, Thamnolia vermicularis, Vaccinium vitis-idaea.</i>
 
 2: all_dgdr2.txt:
