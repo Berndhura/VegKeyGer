@@ -1,494 +1,284 @@
-AAA01;;;Avenello flexuosae-Callunetum vulgaris
-AAA02;;;Junco trifidi-Empetretum hermaphroditi
-ABA01;;;Cetrario-Festucetum supinae
-ABB01;;;Carici bigelowii-Nardetum strictae
-ACA01;;;Saxifrago oppositifoliae-Festucetum versicoloris
-ACA02;;;Saxifrago paniculatae-Agrostietum alpinae
-ADA01;;;Sphagno compacti-Molinietum caeruleae
-ADA02;;;Crepido conyzifoliae-Calamagrostietum villosae
-ADA03;;;Violo sudeticae-Deschampsietum cespitosae
-ADB01;;;Bupleuro longifoliae-Calamagrostietum arundinaceae
-ADC01;;;Salici silesiacae-Betuletum carpaticae
-ADC02;;;Pado borealis-Sorbetum aucupariae
-ADD01;;;Ranunculo platanifolii-Adenostyletum alliariae
-ADD02;;;Salicetum lapponum
-ADD03;;;Trollio altissimi-Geranietum sylvatici
-ADD04;;;Laserpitio archangelicae-Dactylidetum glomeratae
-ADD05;;;Chaerophyllo hirsuti-Cicerbitetum alpinae
-ADE01;;;Daphno mezerei-Dryopteridetum filicis-maris
-ADE02;;;Adenostylo alliariae-Athyrietum distentifolii
-KAA01;;;Salicetum triandrae
-KAB01;;;Salicetum elaeagno-purpureae
-KAB02;;;Salicetum purpureae
-KAB03;;;Salici purpureae-Myricarietum germanicae
-KAC01;;;Salicetum albae 
-KAC02;;;Salicetum fragilis
-KBA01;;;Prunetum fruticosae
-KBA02;;;Prunetum tenellae
-KBB01;;;Junipero communis-Cotoneasteretum integerrimi
-KBB02;;;Violo hirtae-Cornetum maris
-KBB03;;;Populo tremulae-Coryletum avellanae
-KBB04;;;Pruno spinosae-Ligustretum vulgaris
-KBB05;;;Rhamno catharticae-Cornetum sanguineae
-KBB06;;;Carpino betuli-Prunetum spinosae
-KBC01;;;Ribeso alpini-Rosetum pendulinae
-KBC02;;;Rubetum idaei
-KBC03;;;Senecioni fuchsii-Sambucetum racemosae
-KBC04;;;Senecioni fuchsii-Coryletum avellanae
-KBC05;;;Salicetum capreae
-KBC06;;;Piceo abietis-Sorbetum aucupariae
-KBD01;;;Sambucetum nigrae
-KBD02;;;Lycietum barbari
-KBD03;;;Sambuco nigrae-Aceretum negundo
-KBE01;;;Chelidonio majoris-Robinietum pseudoacaciae 
-KBE02;;;Poo nemoralis-Robinietum pseudoacaciae 
-KBF01;;;Arrhenathero elatioris-Robinietum pseudoacaciae 
-KBG01;;;Melico transsilvanicae-Robinietum pseudoacaciae
-KCA01;;;Dryopterido dilatatae-Pinetum mugo
-KCA02;;;Adenostylo alliariae-Pinetum mugo
-LAA01;;;Thelypterido palustris-Alnetum glutinosae
-LAA02;;;Carici elongatae-Alnetum glutinosae
-LAA03;;;Carici acutiformis-Alnetum glutinosae
-LAB01;;;Salicetum auritae
-LAB02;;;Salicetum pentandro-auritae
-LBA01;;;Alnetum incanae
-LBA02;;;Piceo abietis-Alnetum glutinosae
-LBA03;;;Carici remotae-Fraxinetum excelsioris
-LBA04;;;Stellario nemorum-Alnetum glutinosae
-LBA05;;;Pruno padi-Fraxinetum excelsioris
-LBA06;;;Ficario vernae-Ulmetum campestris
-LBA07;;;Fraxino pannonicae-Ulmetum glabrae
-LBB01;;;Galio sylvatici-Carpinetum betuli
-LBB02;;;Stellario holosteae-Carpinetum betuli
-LBB03;;;Carici pilosae-Carpinetum betuli
-LBB04;;;Primulo veris-Carpinetum betuli
-LBC01;;;Galio odorati-Fagetum sylvaticae
-LBC02;;;Mercuriali perennis-Fagetum sylvaticae
-LBC03;;;Carici pilosae-Fagetum sylvaticae
-LBC04;;;Athyrio distentifolii-Fagetum sylvaticae
-LBC05;;;Galio rotundifolii-Abietetum albae
-LBD01;;;Cephalanthero damasonii-Fagetum sylvaticae
-LBE01;;;Luzulo luzuloidis-Fagetum sylvaticae
-LBE02;;;Calamagrostio villosae-Fagetum sylvaticae
-LBE03;;;Luzulo-Abietetum albae
-LBE04;;;Vaccinio myrtilli-Abietetum albae
-LBF01;;;Aceri-Tilietum
-LBF02;;;Mercuriali perennis-Fraxinetum excelsioris
-LBF03;;;Arunco dioici-Aceretum pseudoplatani
-LBF04;;;Seslerio albicantis-Tilietum cordatae
-LCA01;;;Lathyro collini-Quercetum pubescentis
-LCA02;;;Lithospermo purpureocaerulei-Quercetum pubescentis
-LCA03;;;Euphorbio-Quercetum
-LCB01;;;Quercetum pubescenti-roboris
-LCB02;;;Carici fritschii-Quercetum roboris
-LCC01;;;Sorbo torminalis-Quercetum
-LCC02;;;Genisto pilosae-Quercetum petraeae
-LCC03;;;Melico pictae-Quercetum roboris
-LDA01;;;Luzulo luzuloidis-Quercetum petraeae
-LDA02;;;Viscario vulgaris-Quercetum petraeae
-LDA03;;;Vaccinio vitis-idaeae-Quercetum roboris
-LDA04;;;Holco mollis-Quercetum roboris
-LEA01;;;Thlaspio montani-Pinetum sylvestris
-LFA01;;;Festuco-Pinetum sylvestris
-LFB01;;;Cladino-Pinetum sylvestris
-LFB02;;;Vaccinio myrtilli-Pinetum sylvestris
-LFB03;;;Hieracio pallidi-Pinetum sylvestris
-LFB04;;;Asplenio cuneifolii-Pinetum sylvestris
-LFC01;;;Calamagrostio villosae-Piceetum abietis
-LFC02;;;Athyrio distentifolii-Piceetum abietis
-LFC03;;;Equiseto sylvatici-Piceetum abietis
-LFC04;;;Soldanello montanae-Piceetum abietis
-LFD01;;;Vaccinio uliginosi-Betuletum pubescentis
-LFD02;;;Vaccinio uliginosi-Pinetum sylvestris
-LFD03;;;Vaccinio-Pinetum rotundatae
-LFD04;;;Vaccinio uliginosi-Piceetum abietis
-MAA01;;;Polygono-Eleocharitetum ovatae
-MAA02;;;Cyperetum micheliani
-MAA03;;;Stellario uliginosae-Isolepidetum setaceae
-MAB01;;;Centunculo minimi-Anthoceretum punctati
-MAB02;;;Junco tenageiae-Radioletum linoidis
-MAC01;;;Veronico anagalloidis-Lythretum hyssopifoliae
-MAC02;;;Cerastio-Ranunculetum sardoi
-MAC03;;;Pulicario vulgaris-Menthetum pulegioidis
-MBA01;;;Rumici maritimi-Ranunculetum scelerati
-MBA02;;;Bidentetum tripartitae
-MBA03;;;Bidentetum cernuae
-MBA04;;;Polygono brittingeri-Chenopodietum rubri
-MBA05;;;Corrigiolo littoralis-Bidentetum radiatae
-MBA06;;;Polygonetum hydropiperis
-MBB01;;;Chenopodietum rubri
-MBB02;;;Bidenti-Atriplicetum prostratae
-MBB03;;;Chenopodietum ficifolii
-MBB04;;;Chenopodio chenopodioidis-Atriplicetum prostratae
-MCA01;;;Schoenoplectetum lacustris
-MCA02;;;Typhetum angustifoliae
-MCA03;;;Typhetum latifoliae
-MCA04;;;Phragmitetum australis
-MCA05;;;Glycerietum maximae
-MCA06;;;Glycerio-Sparganietum neglecti
-MCA07;;;Acoretum calami
-MCA08;;;Equisetetum fluviatilis
-MCA09;;;Typhetum shuttleworthii
-MCA10;;;Phalarido arundinaceae-Bolboschoenetum laticarpi
-MCB01;;;Astero pannonici-Bolboschoenetum compacti
-MCB02;;;Schoenoplectetum tabernaemontani
-MCC01;;;Oenanthetum aquaticae 
-MCC02;;;Oenantho aquaticae-Rorippetum amphibiae
-MCC03;;;Sagittario sagittifoliae-Sparganietum emersi
-MCC04;;;Eleocharito palustris-Hippuridetum vulgaris 
-MCC05;;;Scirpetum radicantis 
-MCC06;;;Eleocharitetum palustris 
-MCC07;;;Alopecuro-Alismetum plantagini-aquaticae
-MCC08;;;Alismetum lanceolati
-MCC09;;;Alismetum graminei
-MCC10;;;Butometum umbellati
-MCC11;;;Bolboschoenetum yagarae
-MCC12;;;Tripleurospermo inodori-Bolboschoenetum planiculmis
-MCD01;;;Rorippo-Phalaridetum arundinaceae
-MCD02;;;Caricetum buekii
-MCD03;;;Tussilagini farfarae-Calamagrostietum pseudophragmitae
-MCE01;;;Glycerietum fluitantis
-MCE02;;;Glycerietum plicatae
-MCE03;;;Beruletum erectae
-MCE04;;;Nasturtietum officinalis
-MCE05;;;Leersietum oryzoidis
-MCF01;;;Cicuto-Caricetum pseudocyperi
-MCF02;;;Thelypterido-Phragmitetum
-MCF03;;;Calletum palustris
-MCG01;;;Caricetum elatae
-MCG02;;;Equiseto fluviatilis-Caricetum rostratae
-MCG03;;;Peucedano palustris-Caricetum lasiocarpae
-MCG04;;;Comaro palustris-Caricetum cespitosae
-MCG05;;;Caricetum diandrae
-MCG06;;;Caricetum appropinquatae
-MCG07;;;Calamagrostietum canescentis
-MCG08;;;Cladietum marisci
-MCH01;;;Caricetum acutiformi-paniculatae
-MCH02;;;Caricetum acutiformis
-MCH03;;;Caricetum gracilis
-MCH04;;;Caricetum vesicariae
-MCH05;;;Caricetum distichae
-MCH06;;;Caricetum ripariae
-MCH07;;;Caricetum vulpinae
-MCH08;;;Phalaridetum arundinaceae
-RAA01;;;Caricetum remotae
-RAA02;;;Cardamino amarae-Chrysosplenietum alternifolii
-RAA03;;;Pellio epiphyllae-Chrysosplenietum oppositifolii
-RAB01;;;Brachythecio rivularis-Cratoneuretum
-RAC01;;;Philonotido fontanae-Montietum rivularis
-RAD01;;;Crepido paludosae-Philonotidetum seriatae
-RAD02;;;Swertietum perennis
-RAD03;;;Cardaminetum opicii
-RBA01;;;Valeriano dioicae-Caricetum davallianae
-RBA02;;;Carici flavae-Cratoneuretum filicini
-RBA03;;;Valeriano simplicifoliae-Caricetum flavae
-RBA04;;;Campylio stellati-Caricetum lasiocarpae
-RBA05;;;Junco subnodulosi-Schoenetum nigricantis
-RBA06;;;Eleocharitetum quinqueflorae
-RBB01;;;Sphagno warnstorfii-Eriophoretum latifolii
-RBB02;;;Campylio stellati-Trichophoretum alpini
-RBB03;;;Menyantho trifoliae-Sphagnetum teretis
-RBC01;;;Caricetum nigrae
-RBC02;;;Drosero anglicae-Rhynchosporetum albae
-RBC03;;;Agrostio caninae-Caricetum diandrae
-RBC04;;;Bartsio alpinae-Caricetum nigrae
-RBC05;;;Calliergo sarmentosi-Eriophoretum angustifolii
-RBD01;;;Sphagno recurvi-Caricetum rostratae
-RBD02;;;Sphagno recurvi-Caricetum lasiocarpae
-RBD03;;;Carici echinatae-Sphagnetum
-RBD04;;;Polytricho communis-Molinietum caeruleae
-RBE01;;;Drepanoclado fluitantis-Caricetum limosae
-RBE02;;;Carici rostratae-Drepanocladetum fluitantis
-RBE03;;;Rhynchosporo albae-Sphagnetum tenelli
-RCA01;;;Eriophoro vaginati-Sphagnetum recurvi
-RCA02;;;Andromedo polifoliae-Sphagnetum magellanici
-RCA03;;;Vaccinio uliginosi-Pinetum mugo
-RCA04;;;Sphagno-Pinetum sylvestris
-RCA05;;;Ledo palustris-Pinetum rotundatae
-RCB01;;;Trichophoro cespitosi-Sphagnetum papillosi
-RCC01;;;Trichophoro cespitosi-Sphagnetum compacti
-RCC02;;;Empetro nigri-Sphagnetum fusci
-SAA01;;;Cystopteridetum fragilis
-SAA02;;;Asplenietum rutae-murario-trichomanis
-SAB01;;;Asplenietum cuneifolii
-SAB02;;;Notholaeno marantae-Sempervivetum hirti
-SAC01;;;Woodsio ilvensis-Asplenietum septentrionalis
-SAC02;;;Festuco pallentis-Saxifragetum rosaceae
-SAC03;;;Asplenio trichomanis-Polypodietum vulgaris
-SAD01;;;Cryptogrammetum crispae
-SBA01;;;Cymbalarietum muralis
-SBA02;;;Corydalidetum luteae
-SCA01;;;Gymnocarpietum robertiani
-SCA02;;;Galeopsietum angustifoliae
-SCA03;;;Teucrio botryos-Melicetum ciliatae
-SCB01;;;Senecioni sylvatici-Galeopsietum ladani
-TAA01;;;Crypsietum aculeatae
-TAA02;;;Heleochloetum schoenoidis
-TBA01;;;Salicornietum prostratae
-TBA02;;;Spergulario marginatae-Suaedetum prostratae
-TCA01;;;Puccinellietum limosae
-TCB01;;;Scorzonero parviflorae-Juncetum gerardii
-TCB02;;;Loto tenuis-Potentilletum anserinae
-TCB03;;;Agrostio stoloniferae-Juncetum ranarii
-TDA01;;;Pastinaco sativae-Arrhenatheretum elatioris
-TDA02;;;Ranunculo bulbosi-Arrhenatheretum elatioris
-TDA03;;;Poo-Trisetetum flavescentis
-TDA04;;;Potentillo albae-Festucetum rubrae
-TDB01;;;Geranio sylvatici-Trisetetum flavescentis
-TDB02;;;Melandrio rubri-Phleetum alpini
-TDB03;;;Meo athamantici-Festucetum rubrae
-TDC01;;;Lolio perennis-Cynosuretum cristati
-TDC02;;;Anthoxantho odorati-Agrostietum capillaris
-TDC03;;;Lolietum perennis UPRAVA PROTI PUBLIKOVANE VERZI
-TDC04;;;Prunello vulgaris-Ranunculetum repentis
-TDC05;;;Poo supinae-Alchemilletum hybridae
-TDD01;;;Molinietum caeruleae
-TDD02;;;Junco effusi-Molinietum caeruleae
-TDE01;;;Poo trivialis-Alopecuretum pratensis
-TDE02;;;Holcetum lanati
-TDE03;;;Lathyro palustris-Gratioletum officinalis
-TDE04;;;Cnidio dubii-Deschampsietum cespitosae
-TDE05;;;Scutellario hastifoliae-Veronicetum longifoliae
-TDF01;;;Angelico sylvestris-Cirsietum oleracei
-TDF02;;;Cirsietum rivularis
-TDF03;;;Angelico sylvestris-Cirsietum palustris
-TDF04;;;Crepido paludosae-Juncetum acutiflori
-TDF05;;;Polygono bistortae-Cirsietum heterophylli
-TDF06;;;Chaerophyllo hirsuti-Calthetum palustris
-TDF07;;;Scirpo sylvatici-Cirsietum cani 
-TDF08;;;Scirpetum sylvatici
-TDF09;;;Caricetum cespitosae
-TDF10;;;Scirpo sylvatici-Caricetum brizoidis
-TDF11;;;Junco inflexi-Menthetum longifoliae
-TDF12;;;Filipendulo ulmariae-Geranietum palustris
-TDF13;;;Lysimachio vulgaris-Filipenduletum ulmariae
-TDF14;;;Chaerophyllo hirsuti-Filipenduletum ulmariae
-TEA01;;;Festuco supinae-Nardetum strictae 
-TEA02;;;Thesio alpini-Nardetum strictae
-TEB01;;;Sileno vulgaris-Nardetum strictae
-TEC01;;;Festuco capillatae-Nardetum strictae
-TEC02;;;Campanulo rotundifoliae-Dianthetum deltoidis
-TED01;;;Juncetum squarrosi
-TEE01;;;Euphorbio cyparissiae-Callunetum vulgaris
-TEF01;;;Vaccinio-Callunetum vulgaris
-TEF02;;;Calamagrostio arundinaceae-Vaccinietum myrtilli
-TEF03;;;Festuco supinae-Vaccinietum myrtilli
-TFA01;;;Corniculario aculeatae-Corynephoretum canescentis
-TFA02;;;Festuco psammophilae-Koelerietum glaucae
-TFB01;;;Airetum praecocis
-TFB02;;;Vulpietum myuri
-TFC01;;;Sileno otitae-Festucetum brevipilae
-TFC02;;;Erysimo diffusi-Agrostietum capillaris
-TFD01;;;Polytricho piliferi-Scleranthetum perennis
-TFD02;;;Jasiono montanae-Festucetum ovinae
-TFE01;;;Festuco-Veronicetum dillenii
-TFF01;;;Cerastietum 
-TFF02;;;Alysso alyssoidis-Sedetum
-TGA01;;;Diantho serotini-Festucetum vaginatae
-THA01;;;Festuco pallentis-Alyssetum saxatilis
-THA02;;;Seselio ossei-Festucetum pallentis
-THA03;;;Sedo albi-Allietum montani 
-THA04;;;Helichryso arenarii-Festucetum pallentis
-THB01;;;Poo badensis-Festucetum pallentis
-THC01;;;Carici humilis-Seslerietum caeruleae
-THC02;;;Minuartio setaceae-Seslerietum caeruleae
-THC03;;;Saxifrago paniculatae-Seslerietum caeruleae
-THC04;;;Asplenio cuneifolii-Seslerietum caeruleae
-THD01;;;Festuco valesiacae-Stipetum capillatae
-THD02;;;Erysimo crepidifolii-Festucetum valesiacae
-THD03;;;Festuco rupicolae-Caricetum humilis
-THD04;;;Koelerio macranthae-Stipetum joannis
-THD05;;;Stipetum tirsae
-THD06;;;Astragalo exscapi-Crambetum tatariae
-THE01;;;Scabioso ochroleucae-Brachypodietum pinnati
-THE02;;;Cirsio pannonici-Seslerietum albicantis
-THE03;;;Polygalo majoris-Brachypodietum pinnati
-THE04;;;Plantagini marititimae-Caricetum flaccae
-THF01;;;Carlino acaulis-Brometum erecti
-THF02;;;Brachypodio pinnati-Molinietum 
-THG01;;;Potentillo heptaphyllae-Festucetum rupicolae
-THG02;;;Avenulo pratensis-Festucetum valesiacae
-THG03;;;Viscario vulgaris-Avenuletum pratensis
-THH01;;;Geranio sanguinei-Trifolietum alpestris
-THH02;;;Geranio sanguinei-Dictamnetum albae
-THH03;;;Geranio sanguinei-Peucedanetum cervariae
-THI01;;;Trifolio medii-Agrimonietum eupatoriae
-THI02;;;Trifolio medii-Melampyretum nemorosi
-VAA01;;;Lemnetum trisulcae
-VAA02;;;Lemnetum minoris
-VAA03;;;Lemnetum minori-turioniferae
-VAA04;;;Lemno-Spirodeletum polyrhizae
-VAA05;;;Lemnetum gibbae  
-VAA06;;;Lemno gibbae-Wolffietum arrhizae 
-VAA07;;;Salvinio natantis-Spirodeletum polyrrhizae 
-VAA08;;;Ceratophyllo-Azolletum filiculoidis
-VAA09;;;Lemno minoris-Riccietum fluitantis 
-VAA10;;;Riccietum rhenanae 
-VAA11;;;Ricciocarpetum natantis 
-VAB01;;;Lemno-Utricularietum
-VAB02;;;Utricularietum australis
-VAC01;;;Hydrocharitetum morsus-ranae
-VAC02;;;Stratiotetum aloidis
-VAC03;;;Ceratophylletum demersi
-VAC04;;;Potamo-Ceratophylletum submersi
-VBA01;;;Nymphaeo albae-Nupharetum luteae
-VBA02;;;Nymphaeetum albae
-VBA03;;;Potamo natantis-Nymphaeetum candidae
-VBA04;;;Nupharetum pumilae
-VBA05;;;Trapetum natantis
-VBA06;;;Nymphoidetum peltatae
-VBA07;;;Polygonetum natantis
-VBB01;;;Potametum natantis
-VBB02;;;Potametum graminei
-VBB03;;;Scirpo fluitantis-Potametum polygonifolii
-VBB04;;;Potametum lucentis
-VBB05;;;Potametum perfoliati 
-VBB06;;;Elodeetum canadensis
-VBB07;;;Potamo pectinati-Myriophylletum spicati
-VBB08;;;Myriophylletum verticillati
-VBB09;;;Potametum alpini
-VBB10;;;Groenlandietum densae
-VBB11;;;Potametum nodosi
-VBB12;;;Potametum praelongi
-VBB13;;;Potametum zizii
-VBB14;;;Parvo-Potamo-Zannichellietum pedicellatae
-VBB15;;;Potametum trichoidis
-VBB16;;;Najadetum marinae
-VBB17;;;Najadetum minoris
-VBB18;;;Potametum crispi
-VBB19;;;Potametum obtusifolii
-VBB20;;;Potametum pectinati
-VBB21;;;Potametum pusilli
-VBB22;;;Potametum acutifolii
-VBB23;;;Potametum friesii
-VBC01;;;Batrachietum fluitantis
-VBC02;;;Myriophylletum alterniflori
-VBC03;;;Callitricho hamulatae-Ranunculetum fluitantis
-VBD01;;;Ranunculetum aquatilis
-VBD02;;;Batrachietum trichophylli
-VBD03;;;Potamo perfoliati-Ranunculetum circinati
-VBD04;;;Batrachietum rionii
-VBD05;;;Batrachietum baudotii
-VBD06;;;Hottonietum palustris
-VBD07;;;Callitrichetum hermaphroditicae
-VCA01;;;Nitelletum flexilis
-VCA02;;;Charetum braunii
-VCB01;;;Charetum globularis
-VCB02;;;Magno-Charetum hispidae
-VCB03;;;Charetum vulgaris
-VCB04;;;Tolypelletum glomeratae
-VCB05;;;Tolypello intricatae-Charetum
-VDB01;;;Littorello uniflorae-Eleocharitetum acicularis
-VDB02;;;Ranunculo-Juncetum bulbosi
-VDB03;;;Limosello aquaticae-Eleocharitetum acicularis
-VDB04;;;Pilularietum globuliferae
-VDB05;;;Luronietum natantis
-VDC01;;;Sparganio minimi-Utricularietum intermediae
-VDC02;;;Sphagno-Utricularietum ochroleucae
-VDC03;;;Scorpidio-Utricularietum minoris
-XAA01;;;Polygonetum arenastri 
-XAA02;;;Polygonetum arenastri 
-XAA03;;;Poo annuae-Coronopodetum squamati 
-XAA04;;;Eragrostio minoris-Polygonetum arenastri 
-XAB01;;;Sagino procumbentis-Bryetum argentei 
-XAB02;;;Herniarietum glabrae 
-XAB03;;;Rumici acetosellae-Spergularietum rubrae 
-XAB04;;;Poetum annuae 
-XAB05;;;Lolio perennis-Matricarietum discoideae
-XBA01;;;Caucalido platycarpi-Conringietum orientalis
-XBA02;;;Lathyro tuberosi-Adonidetum aestivalis
-XBA03;;;Euphorbio exiguae-Melandrietum noctiflori
-XBA04;;;Stachyo annuae-Setarietum pumilae
-XBA05;;;Veronicetum hederifolio-triphylli
-XBB01;;;Mercurialietum annuae
-XBB02;;;Veronico-Lamietum hybridi
-XBC01;;;Aphano arvensis-Matricarietum chamomillae
-XBC02;;;Spergulo arvensis-Scleranthetum annui
-XBC03;;;Erophilo vernae-Arabidopsietum thalianae
-XBD01;;;Sclerantho annui-Arnoseridetum minimae
-XBE01;;;Echinochloo cruris-galli-Chenopodietum polyspermi
-XBF01;;;Setario pumilae-Echinochloetum cruris-galli
-XBG01;;;Chenopodietum stricti
-XBG02;;;Chenopodietum urbici
-XBG03;;;Atriplicetum nitentis
-XBG04;;;Descurainio sophiae-Atriplicetum oblongifoliae
-XBG05;;;Cynodonto dactyli-Atriplicetum tataricae
-XBG06;;;Atriplicetum roseae
-XBG07;;;Sisymbrietum loeselii
-XBG08;;;Descurainietum sophiae
-XBG09;;;Sisymbrietum altissimi
-XBG10;;;Chamaeplietum officinalis
-XBG11;;;Conyzo canadensis-Lactucetum serriolae
-XBG12;;;Ivaetum xanthiifoliae
-XBG13;;;Kochietum densiflorae
-XBH01;;;Hordeetum murini
-XBH02;;;Hordeo murini-Brometum sterilis
-XBH03;;;Linario-Brometum tectorum
-XBI01;;;Hyoscyamo nigri-Malvetum neglectae 
-XBI02;;;Malvetum pusillae
-XBI03;;;Polygono arenastri-Chenopodietum muralis
-XBI04;;;Malvo neglectae-Chenopodietum vulvariae
-XBI05;;;Matricario discoideae-Anthemidetum cotulae
-XBJ01;;;Chenopodietum botryos
-XBJ02;;;Bromo tectorum-Corispermetum leptopteri
-XBJ03;;;Plantagini arenariae-Senecionetum viscosi 
-XBK01;;;Digitario sanguinalis-Eragrostietum minoris
-XBK02;;;Portulacetum oleraceae
-XBK03;;;Eragrostio poaeoidis-Panicetum capillaris
-XBK04;;;Cynodontetum dactyli
-XBK05;;;Setario pumilae-Hibiscetum trioni
-XCA01;;;Carduo acanthoidis-Onopordetum acanthii
-XCA02;;;Salvio nemorosae-Marrubietum peregrini
-XCA03;;;Potentillo argenteae-Artemisietum absinthii
-XCB01;;;Melilotetum albo-officinalis
-XCB02;;;Berteroetum incanae
-XCB03;;;Dauco carotae-Crepidetum rhoeadifoliae
-XCB04;;;Dauco carotae-Picridetum hieracioidis
-XCB05;;;Poo compressae-Tussilaginetum farfarae
-XCB06;;;Poetum humili-compressae
-XCB07;;;Tanaceto vulgaris-Artemisietum vulgaris
-XCB08;;;Artemisio vulgaris-Echinopsietum sphaerocephali
-XCB09;;;Rudbeckio laciniatae-Solidaginetum canadensis
-XCB10;;;Buniadetum orientalis
-XCB11;;;Asclepiadetum syriacae
-XCC01;;;Convolvulo arvensis-Elytrigietum repentis
-XCC02;;;Falcario vulgaris-Elytrigietum repentis
-XCC03;;;Convolvulo arvensis-Brometum inermis
-XCC04;;;Cardarietum drabae
-XCD01;;;Agropyro cristati-Kochietum prostrae
-XCE01;;;Urtico urentis-Chenopodietum boni-henrici
-XCE02;;;Arctietum lappae
-XCE03;;;Hyoscyamo nigri-Conietum maculati
-XCE04;;;Sambucetum ebuli
-XDA01;;;Cuscuto europaeae-Calystegietum sepium 
-XDA02;;;Calystegio sepium-Epilobietum hirsuti
-XDA03;;;Calystegio sepium-Impatientetum glanduliferae
-XDA04;;;Sicyo angulatae-Echinocystidetum lobatae
-XDB01;;;Petasitetum hybridi
-XDB02;;;Petasitetum hybrido-kablikiani
-XDC01;;;Stachyo sylvaticae-Impatientetum noli-tangere
-XDC02;;;Epilobio montani-Geranietum robertiani
-XDC03;;;Arunco vulgaris-Lunarietum redivivae
-XDC04;;;Carici pendulae-Eupatorietum cannabini
-XDC05;;;Urtico dioicae-Parietarietum officinalis
-XDD01;;;Alliario petiolatae-Chaerophylletum temuli
-XDD02;;;Torilidetum japonicae
-XDD03;;;Anthriscetum trichospermae
-XDE01;;;Elytrigio repentis-Aegopodietum podagrariae
-XDE02;;;Symphyto officinalis-Anthriscetum sylvestris
-XDE03;;;Chaerophylletum aromatici
-XDE04;;;Chaerophylletum aurei
-XDE05;;;Chaerophylletum bulbosi
-XDE06;;;Anthrisco nitidae-Aegopodietum podagrariae
-XDE07;;;Oenothero biennis-Helianthetum tuberosi
-XDE08;;;Urtico dioicae-Heracleetum mantegazziani
-XDE09;;;Asteretum lanceolati
-XDE10;;;Reynoutrietum japonicae
-XDF01;;;Rumicetum alpini
-XEA01;;;Senecioni-Epilobietum angustifolii
-XEA02;;;Digitali purpureae-Epilobietum angustifolii
-XEA03;;;Rubo idaei-Calamagrostietum arundinaceae
-XEA04;;;Junco effusi-Calamagrostietum villosae
-XEA05;;;Digitali-Senecionetum ovati
-XEA06;;;Pteridietum aquilini 
-XEA07;;;Gymnocarpio dryopteridis-Athyrietum filicis-feminae
+01.1.1.1;;;;Riccietum fluitantis
+01.1.1.2;;;;Lemno-Utricularietum
+01.1.2.1;;;;Stratiotetum aloidis
+01.1.3.1;;;;Lemno-Spirodeletum polyrhizae
+01.1.3.2;;;;Wolffio-Lemnetum gibbae
+01.1.3.3;;;;Ceratophylletum submersi
+02.1.1.1;;;;Zosteretum marinae
+03.1.1.1;;;;Charetum canescentis
+03.1.1.2;;;;Charetum horrido-balticae
+03.1.2.1;;;;Chaetomorphato lini-Ruppietum cirrhosae
+03.1.2.2;;;;Ruppietum maritimae
+03.1.2.3;;;;Ranunculetum baudotii
+04.1.1.1;;;;Nitelletum capillaris
+04.1.2.1;;;;Nitello-Vaucherietum dichotomae
+04.2.1.1;;;;Nitellopsietum obtusae
+04.2.1.2;;;;Najadetum intermediae
+04.2.1.3;;;;Charetum contrariae
+04.2.1.4;;;;Magno-Charetum hispidae
+04.2.1.5;;;;Charetum asperae
+04.2.2.1;;;;Charetum vulgaris
+05.1.1.1;;;;Hottonietum palustris
+05.1.1.2;;;;Ranunculetum aquatilis
+05.1.1.3;;;;Ranunculo trichophylli-Callitrichetum
+05.2.1.1;;;;Potamogetonetum natantis
+05.2.1.2;;;;Nymphaeo albae-Nupharetum luteae
+05.2.1.3;;;;Nupharetum pumilae
+05.2.1.4;;;;Nymphoidetum peltatae
+05.2.2.1;;;;Potamogetono perfoliati-Ranunculetum circinati
+05.2.2.2;;;;Potamogetonetum lucentis
+05.2.2.3;;;;Potamogetonetum praelongi
+05.2.2.4;;;;Sparganio-Potamogetonetum pectinati
+05.2.3.1;;;;Potamogetonetum trichoidis
+05.2.3.2;;;;Charo asperae-Potamogetonetum filiformis
+06.1.1.1;;;;Salicornietum europaeae
+07.1.1.1;;;;Juncetum bufonii
+07.1.1.2;;;;Polygono-Eleocharitetum ovatae
+07.1.1.3;;;;Eleocharito acicularis-Limoselletum aquaticae
+07.1.1.4;;;;Elatino alsinastri-Juncetum tenageiae
+07.1.2.1;;;;Stellario uliginosi-Scirpetum setacei
+07.1.2.2;;;;Hypno lindbergii-Cicendietum filiformis
+07.1.2.3;;;;Digitario ischaemi-Illecebretum verticillati
+08.1.1.1;;;;Polygonetum hydropiperis
+08.1.1.2;;;;Corrigiolo litoralis-Bidentetum radiatae
+08.1.1.3;;;;Rumici maritimi-Ranunculetum scelerati
+08.1.1.4;;;;Alopecuretum aequalis
+08.1.1.5;;;;Bidentetum cernuae
+08.1.2.1;;;;Chenopodietum rubri
+08.1.2.2;;;;Xanthio albini-Chenopodietum rubri
+08.1.2.3;;;;Chenopodio polyspermi-Corrigioletum litoralis
+09.1.1.1;;;;Isoeto lacustris-Lobelietum dortmannae
+09.1.2.1;;;;Pilularietum globuliferae
+09.1.2.2;;;;Samolo valerandi-Littorelletum uniflorae
+09.1.3.1;;;;Myriophyllo alterniflori-Littorelletum uniflorae
+09.1.3.2;;;;Littorello uniflorae-Eleocharitetum acicularis
+09.1.3.3;;;;Ranunculo flammulae-Juncetum bulbosi
+10.1.1.1;;;;Cratoneuretum commutati
+10.1.2.1;;;;Caricetum remotae
+11.1.1.1;;;;Lycopodiello inundatae-Rhynchosporetum fuscae
+11.1.1.2;;;;Ericetum tetralicis
+11.1.1.3;;;;Empetro nigri-Ericetum tetralicis
+11.2.1.1;;;;Sphagno magellanici-Ledetum palustris
+11.2.1.2;;;;Sphagnetum magellanici
+11.2.2.1;;;;Caricetum limosae
+11.2.2.2;;;;Sphagno tenelli-Rhynchosporetum albae
+11.3.1.1;;;;Sphagno recurvi-Eriophoretum vaginati
+12.1.1.1;;;;Sphagno recurvi-Caricetum rostratae
+12.1.1.2;;;;Carici canescentis-Agrostietum caninae
+12.2.1.1;;;;Caricetum lasiocarpae
+12.2.1.2;;;;Caricetum diandrae
+12.2.1.3;;;;Peucedano palustris-Caricetum lasiocarpae
+12.2.2.1;;;;Junco-Caricetum nigrae
+12.2.2.2;;;;Caricetum serotinae
+12.2.3.1;;;;Scorpidio scorpioidis-Caricetum elatae
+12.2.3.2;;;;Cladietum marisci
+12.2.4.1;;;;Junco subnodulosi-Schoenetum nigricantis
+12.2.4.2;;;;Eleocharitetum pauciflorae
+12.2.4.3;;;;Juncetum alpini
+12.3.1.1;;;;Sphagno teretis-Menyanthetum trifoliatae
+12.3.1.2;;;;Parnassio palustris-Caricetum
+12.3.2.1;;;;Paludello palustris-Caricetum
+12.3.2.2;;;;Schoenetum ferruginei
+12.3.2.3;;;;Juncetum subnodulosi
+13.1.1.1;;;;Cicuto virosae-Caricetum pseudocyperi
+13.1.1.2;;;;Scirpo lacustris-Phragmitetum australis
+13.1.2.1;;;;Caricetum vesicariae
+13.1.2.2;;;;Oenantho aquaticae-Rorippetum amphibiae
+13.1.2.3;;;;Eleocharitetum palustris
+13.1.3.1;;;;Sagittario sagittifoliae-Sparganietum simplicis
+13.1.3.2;;;;Polygono hydropiperis-Veronicetum anagallidis-aquaticae
+13.2.1.1;;;;Glycerio-Sparganietum neglecti
+13.2.1.2;;;;Nasturtietum officinalis
+13.3.1.1;;;;Valeriano-Caricetum paniculatae
+13.4.1.1;;;;Phalarido arundinaceae-Petasitetum officinalis
+13.4.1.2;;;;Filipendulo ulmariae-Geranietum palustris
+13.4.2.1;;;;Urtico dioicae-Calystegietum sepium
+13.4.2.2;;;;Soncho palustris-Archangelicetum litoralis
+13.4.3.1;;;;Veronico longifoliae-Scutellarietum hastifoliae
+13.4.3.2;;;;Cuscuto europaeae-Calystegietum sepium
+13.4.3.3;;;;Urtico dioicae-Leonuretum marrubiastri
+14.1.1.1;;;;Centaurio vulgaris-Saginetum moniliformis
+14.1.1.2;;;;Sagino maritimae-Cochlearietum danicae
+14.1.2.1;;;;Hordeetum secalini
+14.1.2.2;;;;Blysmetum rufi
+14.1.2.3;;;;Juncetum gerardii
+14.1.2.4;;;;Oenantho lachenalii-Juncetum maritimi
+14.1.2.5;;;;Junco ancipis-Caricetum extensae
+14.1.2.6;;;;Artemisietum maritimae
+14.1.2.7;;;;Limonietum vulgaris
+14.2.1.1;;;;Puccinellietum maritimae
+14.2.2.1;;;;Puccinellietum distantis
+14.3.1.1;;;;Scirpetum maritimi
+15.1.1.1;;;;Atriplicetum littoralis
+15.1.2.1;;;;Elymetum laxi
+15.1.3.1;;;;Cakiletum maritimae
+15.1.3.2;;;;Honckenyetum peploidis
+15.1.3.3;;;;Honckenyo peploidis-Crambetum maritimae
+16.1.1.1;;;;Poetum annuae
+16.1.1.2;;;;Polygono arenastri-Lepidietum ruderalis
+16.1.1.3;;;;Bryo argentei-Saginetum procumbentis
+16.1.1.4;;;;Rumici acetosellae-Spergularietum rubrae
+16.1.1.5;;;;Eragrostio minoris-Polygonetum arenastri
+16.1.2.1;;;;Hyoscyamo nigri-Malvetum neglectae
+16.1.2.2;;;;Matricario discoideae-Anthemidetum cotulae
+16.1.2.3;;;;Poo annuae-Coronopodetum squamati
+17.1.1.1;;;;Brometum sterilis
+17.1.1.2;;;;Hordeetum murini
+17.1.2.1;;;;Conyzo canadensis-Lactucetum serriolae
+17.1.2.2;;;;Descurainietum sophiae
+17.1.2.3;;;;Chenopodietum stricti
+17.1.2.4;;;;Atriplicetum nitentis
+17.2.1.1;;;;Linario-Brometum tectorum
+17.2.1.2;;;;Plantagini indicae-Senecionetum viscosi
+17.2.1.3;;;;Bromo tectorum-Corispermetum leptopteri
+17.2.1.4;;;;Conyzo canadensis-Amaranthetum retroflexi
+18.1.1.1;;;;Sclerantho annui-Arnoseridetum minimae
+18.1.1.2;;;;Papaveretum argemones
+18.1.1.3;;;;Spergulo arvensis-Chrysanthemetum segetum
+18.2.1.1;;;;Aphano arvensis-Matricarietum chamomillae
+18.2.2.1;;;;Galeopsietum speciosae
+18.3.1.1;;;;Euphorbio exiguae-Melandrietum noctiflori
+18.3.2.1;;;;Veronico persicae-Lamietum hybridi
+19.1.1.1;;;;Corydalidetum luteae
+19.2.1.1;;;;Asplenietum trichomano-rutae-murariae
+19.2.2.1;;;;Cystopteridetum fragilis
+20.1.1.1;;;;Polygalo vulgaris-Nardetum strictae
+20.1.1.2;;;;Juncetum squarrosi
+20.2.1.1;;;;Galio harcynici-Deschampsietum flexuosae
+20.2.1.2;;;;Genisto pilosae-Callunetum vulgaris
+20.2.2.1;;;;Salici repentis-Empetretum nigri
+20.2.2.2;;;;Hieracio umbellati-Empetretum nigri
+21.1.1.1;;;;Corniculario aculeatae-Corynephoretum canescentis
+21.1.1.2;;;;Agrostietum vinealis
+21.1.1.3;;;;Caricetum arenariae
+21.2.1.1;;;;Tortulo ruraliformis-Phleetum arenarii
+21.3.1.1;;;;Carici arenariae-Airetum praecocis
+21.3.1.2;;;;Airo-Festucetum
+21.3.1.3;;;;Vulpietum myuri
+21.4.1.1;;;;Galio veri-Festucetum capillatae
+21.4.2.1;;;;Thymo pulegioidis-Festucetum ovinae
+21.4.3.1;;;;Diantho deltoidis-Armerietum elongatae
+21.4.3.2;;;;Sileno otitae-Festucetum brevipilae
+21.4.3.3;;;;Allio schoenoprasi-Caricetum praecocis
+21.5.1.1;;;;Sileno conicae-Cerastietum semidecandri
+21.5.2.1;;;;Helichryso arenarii-Jasionetum litoralis
+21.5.2.2;;;;Festucetum polesicae
+21.6.1.1;;;;Poo compressae-Saxifragetum tridactylitae
+22.1.1.1;;;;Solidagini virgaureae-Helictotrichetum pratensis
+22.1.2.1;;;;Adonido vernalis-Brachypodietum pinnati
+22.2.1.1;;;;Potentillo arenariae-Stipetum capillatae
+23.1.1.1;;;;Arrhenatheretum elatioris
+23.1.2.1;;;;Lolio perennis-Cynosuretum cristati
+23.1.2.2;;;;Plantagini majoris-Lolietum perennis
+23.1.2.3;;;;Festuco rubrae-Crepidetum capillaris
+23.2.1.1;;;;Ranunculo repentis-Alopecuretum geniculati
+23.2.1.2;;;;Potentillo anserinae-Festucetum arundinaceae
+23.2.2.1;;;;Deschampsio cespitosae-Heracleetum sibirici
+23.2.2.2;;;;Cnidio dubii-Deschampsietum cespitosae
+23.3.1.1;;;;Selino carvifoliae-Molinietum caeruleae
+23.3.2.1;;;;Cirsio oleracei-Angelicetum sylvestris
+23.3.2.2;;;;Scirpetum sylvatici
+24.1.1.1;;;;Elymo arenarii-Agropyretum juncei
+24.1.2.1;;;;Elymo arenarii-Ammophiletum arenariae
+24.1.2.2;;;;Festucetum arenariae
+25.1.1.1;;;;Lathyro linifolii-Melampyretum pratensis
+25.1.2.1;;;;Teucrio scorodoniae-Silenetum nutantis
+25.1.2.2;;;;Pteridietum aquilini
+25.1.3.1;;;;Veronico chamaedryos-Stellarietum holosteae
+25.1.3.2;;;;Potentillo sterilis-Conopodietum majoris
+25.2.1.1;;;;Agrimonio eupatoriae-Vicietum cassubicae
+25.2.1.2;;;;Agrimonio eupatoriae-Trifolietum medii
+25.2.1.3;;;;Agrostio capillaris-Agrimonietum procerae
+25.2.1.4;;;;Trifolio medii-Melampyretum nemorosi
+25.2.1.5;;;;Galio albi-Astragaletum glycyphylli
+25.2.1.6;;;;Rubo caesii-Origanetum vulgaris
+25.3.1.1;;;;Artemisio campestris-Vincetoxicetum hirundinariae
+25.3.1.2;;;;Sileno nutantis-Libanotidetum montanae
+25.3.2.1;;;;Geranio sanguinei-Trifolietum alpestris
+25.3.2.2;;;;Arrhenathero elatioris-Peucedanetum oreoselini
+25.3.2.3;;;;Thalictro mini-Geranietum sanguinei
+25.3.2.4;;;;Campanulo bononiensis-Vicietum tenuifoliae
+25.3.2.5;;;;Trifolio medii-Astragaletum ciceris
+26.1.1.1;;;;Senecioni-Epilobietum angustifolii
+26.1.1.2;;;;Corydalido claviculatae-Epilobietum angustifolii
+26.1.2.1;;;;Epilobium montanum-Scrophularia nodosa-Gesellschaft
+26.1.2.2;;;;Arctietum nemorosi
+26.2.1.1;;;;Epilobio montani-Geranietum robertiani
+26.2.1.2;;;;Alliario petiolatae-Chaerophylletum temuli
+26.2.1.3;;;;Torilidetum japonicae
+26.2.1.4;;;;Stachyo sylvaticae-Dipsacetum pilosi
+26.2.2.1;;;;Urtico dioicae-Aegopodietum podagrariae
+26.2.2.2;;;;Urtico dioicae-Cruciatetum laevipedis
+26.2.2.3;;;;Chaerophylletum bulbosi
+26.2.2.4;;;;Urtico dioicae-Parietarietum officinalis
+26.2.2.5;;;;Polygonetum cuspidati
+26.3.1.1;;;;Leonuro cardiacae-Ballotetum nigrae
+26.3.1.2;;;;Hyoscyamo nigri-Conietum maculati
+26.3.1.3;;;;Arctio lappae-Artemisietum vulgaris
+26.3.1.4;;;;Arctio tomentosi-Rumicetum obtusifolii
+26.3.1.5;;;;Poo trivialis-Rumicetum obtusifolii
+26.4.1.1;;;;Rubo caesii-Calamagrostietum epigeji
+26.4.1.2;;;;Elymo repentis-Rubetum caesii
+26.4.1.3;;;;Petasitetum spurii
+26.5.1.1;;;;Convolvulo arvensis-Agropyretum repentis
+26.5.1.2;;;;Falcario vulgaris-Agropyretum repentis
+26.5.1.3;;;;Diplotaxio tenuifoliae-Agropyretum repentis
+26.5.1.4;;;;Asparago officinalis-Chondrilletum junceae
+26.5.1.5;;;;Agropyro repentis-Rumicetum thyrsiflori
+26.5.1.6;;;;Convolvulo arvensis-Caricetum hirtae
+26.5.1.7;;;;Convolvulo arvensis-Brometum inermis
+26.5.1.8;;;;Bromus carinatus-Gesellschaft
+26.5.2.1;;;;Poetum humili-compressae
+26.5.2.2;;;;Poo compressae-Tussilaginetum farfarae
+26.5.2.3;;;;Poo compressae-Anthemidetum tinctoriae
+26.6.1.1;;;;Tanaceto vulgaris-Artemisietum vulgaris
+26.6.1.2;;;;Cichorietum intybi
+26.6.1.3;;;;Dauco carotae-Picridetum hieracioidis
+26.6.1.4;;;;Melilotetum albo-officinalis
+26.6.1.5;;;;Berteroetum incanae
+26.6.1.6;;;;Potentillo argenteae-Artemisietum absinthii
+26.6.2.1;;;;Lappulo echinatae-Cynoglossetum officinalis
+26.6.2.2;;;;Resedo luteolae-Carduetum nutantis
+26.6.2.3;;;;Onopordetum acanthii
+27.1.1.1;;;;Salicetum triandro-viminalis
+27.1.1.2;;;;Salici-Populetum nigrae
+28.1.1.1;;;;Eriophoro-Pinetum sylvestris
+28.1.2.1;;;;Vaccinio uliginosi-Pinetum sylvestris
+28.1.2.2;;;;Ledo palustris-Pinetum sylvestris
+29.1.1.1;;;;Betuletum humilis
+29.1.1.2;;;;Cladium mariscus-Salix pentandra-Gesellschaft
+29.1.1.3;;;;Junco subnodulosi-Betuletum pubescentis
+29.1.1.4;;;;Salici pentandrae-Betuletum pubescentis
+29.1.2.1;;;;Rhamno catharticae-Betuletum pubescentis
+29.2.1.1;;;;Salici auritae-Betuletum pubescentis
+29.2.2.1;;;;Molinio caeruleae-Franguletum alni
+29.2.2.2;;;;Lysimachio vulgaris-Quercetum roboris
+30.1.1.1;;;;Cratoneuro filicini-Alnetum glutinosae
+30.1.1.2;;;;Cardamino amarae-Alnetum glutinosae
+30.1.2.1;;;;Carici remotae-Fraxinetum excelsioris
+30.2.1.1;;;;Hottonio palustris-Alnetum glutinosae
+30.2.1.2;;;;Carici elongatae-Alnetum glutinosae
+30.2.2.1;;;;Bidens cernua-Alnus glutinosa-Gesellschaft
+30.2.2.2;;;;Irido pseudacori-Alnetum glutinosae
+30.3.1.1;;;;Pruno padi-Fraxinetum excelsioris
+31.1.1.1;;;;Crataego monogynae-Prunetum spinosae
+31.1.1.2;;;;Rubo plicati-Sarothamnetum scoparii
+31.1.1.3;;;;Hippophao rhamnoidis-Sambucetum nigrae
+31.2.1.1;;;;Lamio albi-Sambucetum nigrae
+31.2.1.2;;;;Balloto nigrae-Robinietum pseudoacaciae
+32.1.1.1;;;;Vaccinio myrtilli-Pinetum sylvestris
+32.1.1.2;;;;Vaccinio-Juniperetum communis
+32.1.1.3;;;;Empetro nigri-Pinetum sylvestris
+32.1.1.4;;;;Cladino-Pinetum sylvestris
+32.1.2.1;;;;Peucedano oreoselini-Pinetum sylvestris
+33.1.1.1;;;;Lonicero periclymeni-Fagetum sylvaticae
+33.1.1.2;;;;Vaccinio myrtilli-Fagetum sylvaticae
+33.1.2.1;;;;Betulo pendulae-Quercetum roboris
+34.1.1.1;;;;Adoxo moschatellinae-Aceretum pseudoplatani
+34.1.1.2;;;;Prunus avium-Acer platanoides-Gesellschaft
+34.2.1.1;;;;Fraxino excelsioris-Fagetum sylvaticae
+34.2.1.2;;;;Mercuriali perennis-Fagetum sylvaticae
+34.2.2.1;;;;Asperulo odoratae-Fagetum sylvaticae
+34.2.3.1;;;;Carici-Fagetum sylvaticae
+34.2.3.2;;;;Orchido purpureae-Cornetum sanguinei
+34.2.3.3;;;;Vincetoxico hirundinariae-Quercetum petraea
