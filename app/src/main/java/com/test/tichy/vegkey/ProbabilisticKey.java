@@ -2,7 +2,6 @@ package com.test.tichy.vegkey;
 
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.graphics.Point;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -10,16 +9,11 @@ import android.os.Bundle;
 import android.view.Display;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
-import android.view.WindowManager;
 import android.widget.Button;
-import android.widget.CheckedTextView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static java.util.Locale.filter;
@@ -127,7 +121,7 @@ public class ProbabilisticKey extends AppCompatActivity {
         btnAdd.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v)
             {
-                Intent intent = new Intent(ProbabilisticKey.this, SeachSpecies.class);
+                Intent intent = new Intent(ProbabilisticKey.this, SearchSpecies.class);
                 startActivity(intent);
                 finish();
                 overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
@@ -230,7 +224,7 @@ public class ProbabilisticKey extends AppCompatActivity {
                     if(ax-(int) event.getX()>width/2)
                     {
                         udrzet=0;
-                        Intent intent = new Intent(this, SeachSpecies.class);
+                        Intent intent = new Intent(this, SearchSpecies.class);
                         startActivity(intent);
                         finish();
                         overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);

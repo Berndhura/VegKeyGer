@@ -8,7 +8,7 @@ android:screenOrientation="portrait"
 tools:context=".ProbabilisticKey">
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/db1_root"
+    android:id="@+id/linear_layout_search_view"
     android:background="@drawable/tema"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -55,7 +55,7 @@ tools:context=".ProbabilisticKey">
         </EditText>
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/bigNameTextField"
             android:layout_width="fill_parent"
             android:paddingLeft="5dp"
             android:layout_height="30dp"
@@ -67,7 +67,7 @@ tools:context=".ProbabilisticKey">
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textViewB"
+            android:id="@+id/smallTextField"
             android:layout_width="fill_parent"
             android:paddingLeft="5dp"
             android:layout_height="wrap_content"

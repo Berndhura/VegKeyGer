@@ -24,7 +24,7 @@
         </activity>
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".ProbabilisticKey" android:screenOrientation="portrait"/>
-        <activity android:name=".SeachSpecies" android:screenOrientation="portrait"></activity>
+        <activity android:name=".SearchSpecies" android:screenOrientation="portrait"></activity>
         <activity android:name=".SearchSpeciesRow" android:screenOrientation="portrait"/>
         <activity
             android:name=".SyntaxaActivity"
