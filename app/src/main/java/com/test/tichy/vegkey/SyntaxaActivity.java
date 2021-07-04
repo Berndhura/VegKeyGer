@@ -1,16 +1,8 @@
 package com.test.tichy.vegkey;
 
-import android.Manifest;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.Environment;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -18,19 +10,13 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
-import android.widget.Toast;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.nio.ByteBuffer;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -53,7 +39,7 @@ public class SyntaxaActivity extends AppCompatActivity {
     int a, b, k;
     double[] finVal = new double[600];
     double suma=0;
-    String vegType;
+    //String vegType;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,7 +54,7 @@ public class SyntaxaActivity extends AppCompatActivity {
         if(g.getBackground()==2) vi.setBackgroundResource(R.drawable.tema2);
         ck = g.getCheck();
         sp = g.getItemSpec();
-        vegType=g.getType();
+        //vegType=g.getType();
         //Select one item from the list and show the info
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener()
                                   {
@@ -152,7 +138,7 @@ public class SyntaxaActivity extends AppCompatActivity {
         //import of the synoptic table in its binary form (It speeds up the algorithm)
         k = 0;
         try {
-            InputStream in =  this.getResources().openRawResource(R.raw.ttblbin);
+            InputStream in =  this.getResources().openRawResource(R.raw.ttbl_25);
             final byte[] buffer = new byte[4940]; // 512Mb
             while (true) {
                 final int read = in.read(buffer);
@@ -162,9 +148,9 @@ public class SyntaxaActivity extends AppCompatActivity {
                 k++;
                 l = convInt(buffer[0], buffer[1]);
                 for (int kk = 0; kk < sp.size(); kk++) {
-//                    Toast.makeText(SyntaxaActivity.this, sp.get(k).toString(), Toast.LENGTH_LONG).show();
+       //             Toast.makeText(SyntaxaActivity.this, sp.get(k).toString(), Toast.LENGTH_LONG).show();
                     if (spi[kk] == l) {
-//                        Toast.makeText(SyntaxaActivity.this, String.valueOf(l), Toast.LENGTH_LONG).show();
+ //                       Toast.makeText(SyntaxaActivity.this, String.valueOf(l), Toast.LENGTH_LONG).show();
 
                         for (int ll = 0; ll < 494; ll++) {
                             int lll = ll * 10;
@@ -210,7 +196,7 @@ public class SyntaxaActivity extends AppCompatActivity {
                 tuk2=tuk;
                 if(tuk.length()>7) tuk2=tuk.substring(0,3);
                 if(tuk.length()>5) tuk=tuk.substring(0,1);
-                if (vegType.contains("FOR")) {
+                /*if (vegType.contains("FOR")) {
                     if (tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC")) {
                         suma = suma+finVal[ll+1];
                     }
@@ -220,7 +206,7 @@ public class SyntaxaActivity extends AppCompatActivity {
                     if (!(tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC"))) {
                         suma = suma+ finVal[ll+1];
                     }
-                }
+                } */
             } catch (Exception e1) {
                 e1.printStackTrace();
             }
@@ -269,7 +255,7 @@ public class SyntaxaActivity extends AppCompatActivity {
             tuk2=tuk;
             if(tuk.length()>13) tuk2=tuk.substring(10,13);
             if(tuk.length()>11) tuk=tuk.substring(10,11);
-            if (vegType.contains("NFR")) {
+            /*if (vegType.contains("NFR")) {
                 if (tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC")) {
                     list.remove(ll);
                 }
@@ -279,7 +265,7 @@ public class SyntaxaActivity extends AppCompatActivity {
                 if (!(tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC"))) {
                     list.remove(ll);
                 }
-            }
+            }*/
         } catch (Exception e1) {
             e1.printStackTrace();
         }

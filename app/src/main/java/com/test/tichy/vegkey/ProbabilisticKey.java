@@ -142,7 +142,7 @@ public class ProbabilisticKey extends AppCompatActivity {
             public void onClick(View v)
             {
                 if (sp.size()>0) {
-                    AlertDialog.Builder builder = new AlertDialog.Builder(ProbabilisticKey.this);
+                    /*AlertDialog.Builder builder = new AlertDialog.Builder(ProbabilisticKey.this);
                     builder.setMessage(R.string.PBkey_message2)
                             .setCancelable(false)
                             .setNegativeButton(R.string.PBkey_message2_A1, new DialogInterface.OnClickListener() {
@@ -169,7 +169,11 @@ public class ProbabilisticKey extends AppCompatActivity {
                                 }
                             });
                     AlertDialog alert = builder.create();
-                    alert.show();
+                    alert.show();*/
+                    Intent intent = new Intent(ProbabilisticKey.this, SyntaxaActivity.class);
+                    startActivity(intent);
+                    finish();
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
                 }
                 else
                 {
