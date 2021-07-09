@@ -3,6 +3,7 @@ package com.test.tichy.vegkey;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -39,7 +40,7 @@ public class SyntaxaActivity extends AppCompatActivity {
     int a, b, k;
     double[] finVal = new double[600];
     double suma=0;
-    //String vegType;
+    String vegType;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,7 +55,8 @@ public class SyntaxaActivity extends AppCompatActivity {
         if(g.getBackground()==2) vi.setBackgroundResource(R.drawable.tema2);
         ck = g.getCheck();
         sp = g.getItemSpec();
-        //vegType=g.getType();
+        vegType=g.getType();
+        Log.v("BER", "vegType: " + vegType);
         //Select one item from the list and show the info
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener()
                                   {
@@ -196,7 +198,10 @@ public class SyntaxaActivity extends AppCompatActivity {
                 tuk2=tuk;
                 if(tuk.length()>7) tuk2=tuk.substring(0,3);
                 if(tuk.length()>5) tuk=tuk.substring(0,1);
-                /*if (vegType.contains("FOR")) {
+                //den Filter auf die ersten beiden Ziffern im MV Code legen,
+                //ob da 01 bis 26 steht, dann ist es non-forest, bei 27 bis 34 ist es forest.
+                Log.d("BER", "tuk: " + tuk );
+                if (vegType.contains("FOR")) {
                     if (tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC")) {
                         suma = suma+finVal[ll+1];
                     }
@@ -206,7 +211,7 @@ public class SyntaxaActivity extends AppCompatActivity {
                     if (!(tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC"))) {
                         suma = suma+ finVal[ll+1];
                     }
-                } */
+                }
             } catch (Exception e1) {
                 e1.printStackTrace();
             }
@@ -251,11 +256,12 @@ public class SyntaxaActivity extends AppCompatActivity {
 
     for (int ll = list.size(); ll > -1; ll--) {
         try {
-            String tuk=list.get(ll).toString();
+            String tuk=list.get(ll);
             tuk2=tuk;
             if(tuk.length()>13) tuk2=tuk.substring(10,13);
             if(tuk.length()>11) tuk=tuk.substring(10,11);
-            /*if (vegType.contains("NFR")) {
+            Log.d("BER", "tuk: " + tuk );
+            if (vegType.contains("NFR")) {
                 if (tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC")) {
                     list.remove(ll);
                 }
@@ -265,7 +271,7 @@ public class SyntaxaActivity extends AppCompatActivity {
                 if (!(tuk.contains("L") || tuk.contains("K")||tuk2.contains("ADC"))) {
                     list.remove(ll);
                 }
-            }*/
+            }
         } catch (Exception e1) {
             e1.printStackTrace();
         }
@@ -275,7 +281,8 @@ public class SyntaxaActivity extends AppCompatActivity {
                 String tuk=list.get(ll).toString();
                 if(tuk.length()>11) {tuk=tuk.substring(0,6);} else {tuk="0";}
                 tuk=tuk.replace(",",".");
-                if (Double.parseDouble(tuk)<1||tuk.contains("NaN")) list.remove(ll);
+                if (Double.parseDouble(tuk)<1||tuk.contains("NaN"))
+                    list.remove(ll);
             } catch (Exception e1) {
                 e1.printStackTrace();
             }
